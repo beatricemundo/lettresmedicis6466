@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"
+        integrity="sha512-dfX5uYVXzyU8+KHqj8bjo7UkOdg18PaOtpa48djpNbZHwExddghZ+ZmzWT06R5v6NSk3ZUfsH6FNEDepLx9hPQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+<style>
+    td,
+    th {
+        border: 1px solid black;
+        max-width: 200px;
+    }
+</style>
+
+<body>
+    <h1 id="title"></h1>
+    <p id="author"></p>
+    <div id="filters"></div>
+    <table>
+        <tr id="column-heading"></tr>
+    </table>
+    <script>
+        var infos;
+        var items;
+
+        // Function to filter the rows
+        function filterRows(e) {
+            let rowNumber = 0;
+            let filterValues = [];
+            let fieldNumber = 0;
+            infos["fields"].forEach(f => {
+                filterValues[fieldNumber] = document.querySelector("#filter" + fieldNumber).value.toLowerCase();
+                fieldNumber += 1;
+            })
+            document.querySelectorAll("table tr").forEach(row => {
+                let display = true;
+                let fieldNumber = 0;
+                if (rowNumber > 0) {
+                    infos["fields"].forEach(f => {
+                        if ((items[rowNumber - 1][f]).toLowerCase().indexOf(filterValues[fieldNumber]) < 0) {
+                            display = false;
+                        }
+                        fieldNumber += 1
+                    })
+                    if (display) {
+                        row.style.display = "table-row"
+                    } else {
+                        row.style.display = "none";
+                    }
+                }
+                rowNumber += 1;
+                console.log(rowNumber)
+            })
+        }
+
+        // Get the id of the data to display
+        let url = document.location.href;
+        let vars = (url + "").split("?")[1].split("&");
+        let id = "";
+        vars.forEach(l => {
+            let infos = l.split("=");
+            if (infos[0] == "id") { id = infos[1]; }
+        })
+
+        // Load the JSON file with information about the data
+        fetch('infos-' + id + '.json').then(function (response) {
+            response.json().then(function (data) {
+                infos = data;
+                // Load column headings
+                let fieldNumber = 0;
+                infos["fields"].forEach(f => {
+                    // Create a th tag for the column heading
+                    let th = document.createElement("th");
+                    let text = document.createTextNode(f);
+                    th.appendChild(text);
+                    document.querySelector("#column-heading").appendChild(th);
+                    // Create a filter tag for the column heading
+                    let input = document.createElement("input");
+                    input.setAttribute("type", "text");
+                    input.setAttribute("placeHolder", f);
+                    input.setAttribute("id", "filter" + fieldNumber);
+                    document.querySelector("#filters").appendChild(input);
+                    fieldNumber += 1;
+                })
+
+                // Load other information into the webpage
+                Object.keys(infos).forEach(o => {
+                    if (document.querySelector("#" + o) != null) {
+                        document.querySelector("#" + o).innerHTML = infos[o];
+                    }
+                })
+
+                // Load the data into the table
+                Papa.parse(infos.url, {
+                    download: true,
+                    header: true,
+                    complete: function (results) {
+                        items = results.data;
+                        items.forEach(i => {
+                            // Create a new row in the table for each item
+                            let tr = document.createElement("tr");
+                            infos["fields"].forEach(f => {
+                                // Create a new cell in the row for each value
+                                let td = document.createElement("td");
+                                let text = document.createTextNode(i[f]);
+                                // If the value looks like a link, add a link
+                                if (i[f].substring(0, 4) == "http") {
+                                    let link = document.createElement("a");
+                                    link.appendChild(text);
+                                    link.setAttribute("href", i[f]);
+                                    td.appendChild(link);
+                                } else {
+                                    td.appendChild(text);
+                                }
+                                tr.appendChild(td);
+                            })
+                            // Update the table by adding the new row
+                            document.querySelector("table").appendChild(tr)
+                        })
+
+                        // Make the filters active
+                        let fieldNumber = 0;
+                        infos["fields"].forEach(f => {
+                            document.querySelector("#filter" + fieldNumber).addEventListener("keyup", filterRows);
+                            document.querySelector("#filter" + fieldNumber).addEventListener("change", filterRows);
+                            fieldNumber += 1;
+                        })
+
+                    }
+                });
+            })
+        })
+
+    </script>
+</body>
+
+</html>
