@@ -21,9 +21,16 @@
         background-color: bisque;
         word-wrap: break-word;
     }
+    table{
+        margin-top:10px;
+    }
+    input{
+        font-size:1.1em;
+    }
 </style>
 
 <body>
+    <img id="image" style="float:left;width:130px">
     <h1 id="title"></h1>
     <p id="credits"></p>
     <div id="filters"></div>
@@ -96,7 +103,15 @@
                 // Load other information into the webpage
                 Object.keys(infos).forEach(o => {
                     if (document.querySelector("#" + o) != null) {
-                        document.querySelector("#" + o).innerHTML = infos[o];
+                        if (infos[o].length == 1){
+                            document.querySelector("#" + o).innerHTML = infos[o][0];
+                        } else {
+                            let attributeNumber = 0;
+                            while(attributeNumber*2+1 < infos[o].length){
+                                document.querySelector("#" + o).setAttribute(infos[o][attributeNumber*2],infos[o][attributeNumber*2+1]);
+                                attributeNumber += 1;
+                            }
+                        }
                     }
                 })
 
