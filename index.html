@@ -11,16 +11,21 @@
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 </head>
 <style>
+    * {
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
     td,
     th {
         border: 1px solid black;
         max-width: 200px;
+        background-color: bisque;
+        word-wrap: break-word;
     }
 </style>
 
 <body>
     <h1 id="title"></h1>
-    <p id="author"></p>
+    <p id="credits"></p>
     <div id="filters"></div>
     <table>
         <tr id="column-heading"></tr>
@@ -55,7 +60,6 @@
                     }
                 }
                 rowNumber += 1;
-                console.log(rowNumber)
             })
         }
 
