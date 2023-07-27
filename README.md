@@ -13,8 +13,8 @@ Un outil de déploiement de site web à partir d'une base de données stockée s
 * Enregistrez ce fichier texte sous le nom `infos-nom_que_vous_avez_choisi.json`, à l'intérieur du dossier où vous avez copié les autres fichiers
 * Le site est alors consultable à l'adresse http://votre_nom_de_domaine.com/votre_dossier/?id=nom_que_vous_avez_choisi
 
-Exemple de code JSON, pour un site web dédié aux éditions :
-`{"url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vTeCq1Aa8gVJfDOH38noAGKODRVmHsZkh8bElJmBZDKZygs8sORJ1NLXUgq8AApXo4JpIGbMsylQQHS/pub?gid=0&single=true&output=csv","credits":["Données collectées par Danie Lancéa, Titouan Kerhervé-Remoussin et Philippe Gambette, pour le projet <a href=\"http://citedesdames.hypotheses.org\">Cité des dames, créatrices dans la cité</a>. La plupart des textes de description sont des citations qui proviennent de l'URL source fournie"],"title":["Empreintes de femmes : recensement des promenades du matrimoine en France"],"fields":["titre","ville","adresse","liste_femmes","description","url","date","régularité","lat","long"]}`
+Exemple de code JSON, pour un site web dédié aux promenades du matrimoine en France :
+`{"url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vTeCq1Aa8gVJfDOH38noAGKODRVmHsZkh8bElJmBZDKZygs8sORJ1NLXUgq8AApXo4JpIGbMsylQQHS/pub?gid=0&single=true&output=csv","credits":["<p style=\"font-size:1.5em\">Données collectées par Danie Lancéa, Titouan Kerhervé-Remoussin et Philippe Gambette, pour le projet <a href=\"http://citedesdames.hypotheses.org\">Cité des dames, créatrices dans la cité</a>.</p>"],"title":["Empreintes de femmes : recensement des promenades du matrimoine en France"],"image":["src","https://citedesdames.github.io/empreintesdefemmes/assets/img/logo-epais.png"],"fields":["titre","ville","adresse","liste_femmes","URL","date","régularité","lat","long","est_numerique"]}`
 
 ## Pour aller plus loin
 
