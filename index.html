@@ -27,6 +27,9 @@
     input{
         font-size:1.1em;
     }
+    .sortA,.sortD{
+        cursor:pointer;
+    }
 
 /* CC0-licensed code from https://loading.io/css/ */
 .lds-ring {
@@ -93,6 +96,31 @@
     <script>
         var infos;
         var items;
+        
+        // Function to fill in the table
+        function fillInTable(){
+            items.forEach(i => {
+                            // Create a new row in the table for each item
+                            let tr = document.createElement("tr");
+                            infos["fields"].forEach(f => {
+                                // Create a new cell in the row for each value
+                                let td = document.createElement("td");
+                                let text = document.createTextNode(i[f]);
+                                // If the value looks like a link, add a link
+                                if (i[f].substring(0, 4) == "http") {
+                                    let link = document.createElement("a");
+                                    link.appendChild(text);
+                                    link.setAttribute("href", i[f]);
+                                    td.appendChild(link);
+                                } else {
+                                    td.appendChild(text);
+                                }
+                                tr.appendChild(td);
+                            })
+                            // Update the table by adding the new row
+                            document.querySelector("table").appendChild(tr);
+                        })
+        }
 
         // Function to filter the rows
         function filterRows(e) {
@@ -121,6 +149,33 @@
                 }
                 rowNumber += 1;
             })
+        }
+        
+        // Function to sort the rows
+        function sortRows(e){
+           let table = document.querySelector("table");
+           let firstRow = document.querySelector("table tr:nth-child(1)");
+           let language = "fr";
+           const collator = new Intl.Collator(language); 
+
+           // Get the number of the clicked column
+           let chosenColumnNumber = parseInt(e.target.id.split("-")[1]);
+
+           // Define the order in which the rows will be sorted
+           var polarity = -1;
+           if(e.target.classList[0]=="sortA"){
+               polarity = 1;
+           }
+           
+           // Sort the rows
+           items.sort(function(a,b){
+               let result = collator.compare(a[infos["fields"][chosenColumnNumber]], b[infos["fields"][chosenColumnNumber]])*polarity;
+               return result
+           })
+           
+           table.innerHTML = "";
+           table.append(firstRow);
+           fillInTable();           
         }
 
         // Get the id of the data to display
@@ -152,9 +207,20 @@
                 infos["fields"].forEach(f => {
                     // Create a th tag for the column heading
                     let th = document.createElement("th");
-                    let text = document.createTextNode(f);
+                    let text = document.createTextNode(f+" ");
                     th.appendChild(text);
+                    let sortA = document.createElement("span");
+                    let sortD = document.createElement("span");
+                    sortA.appendChild(document.createTextNode("▲"));
+                    sortD.appendChild(document.createTextNode("▼"));
+                    sortA.id = "sortA-"+fieldNumber;
+                    sortD.id = "sortD-"+fieldNumber;
+                    sortA.classList.add("sortA");
+                    sortD.classList.add("sortD");
+                    th.appendChild(sortA);
+                    th.appendChild(sortD);
                     document.querySelector("#column-heading").appendChild(th);
+
                     // Create a filter tag for the column heading
                     let input = document.createElement("input");
                     input.setAttribute("type", "text");
@@ -162,7 +228,10 @@
                     input.setAttribute("id", "filter" + fieldNumber);
                     document.querySelector("#filters").appendChild(input);
                     fieldNumber += 1;
-                })                
+                })
+                
+                // Make columns sortable
+                document.querySelectorAll(".sortA,.sortD").forEach(el => {el.addEventListener("click", sortRows)});
 
                 // Load other information into the webpage
                 Object.keys(infos).forEach(o => {
@@ -185,27 +254,8 @@
                     header: true,
                     complete: function (results) {
                         items = results.data;
-                        items.forEach(i => {
-                            // Create a new row in the table for each item
-                            let tr = document.createElement("tr");
-                            infos["fields"].forEach(f => {
-                                // Create a new cell in the row for each value
-                                let td = document.createElement("td");
-                                let text = document.createTextNode(i[f]);
-                                // If the value looks like a link, add a link
-                                if (i[f].substring(0, 4) == "http") {
-                                    let link = document.createElement("a");
-                                    link.appendChild(text);
-                                    link.setAttribute("href", i[f]);
-                                    td.appendChild(link);
-                                } else {
-                                    td.appendChild(text);
-                                }
-                                tr.appendChild(td);
-                            })
-                            // Update the table by adding the new row
-                            document.querySelector("table").appendChild(tr);
-                        })
+                        // fill in the table
+                        fillInTable();
                         
                         document.querySelector(".loader").style.display = "none";
 
