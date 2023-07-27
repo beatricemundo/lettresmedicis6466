@@ -17,7 +17,7 @@
     td,
     th {
         border: 1px solid black;
-        max-width: 200px;
+        max-width: 300px;
         background-color: bisque;
         word-wrap: break-word;
     }
@@ -27,6 +27,33 @@
     input{
         font-size:1.1em;
     }
+    @keyframes rotation {
+        from { transform: rotate(0deg); }
+        to   { transform: rotate(359deg); }
+    }
+    .rotate{
+        animation: rotation 1s infinite linear;
+        width: 1em;
+        margin: auto;
+        position: relative;
+    }
+    .rotate img{
+        width: 1em;
+    }    
+    .loader{
+        position:fixed;
+        z-index:100;
+        padding:1em;
+        top:30%;
+        left:20%;
+        right:20%;
+        font-size:3em;
+        color:black;
+        background-color:rgba(255,255,255,0.7);
+        border-radius:1em;
+        text-align:center;
+    }
+
 </style>
 
 <body>
@@ -34,6 +61,7 @@
     <h1 id="title"></h1>
     <p id="credits"></p>
     <div id="filters"></div>
+    <div class="loader"><div class="rotate">&#127757;</div><em>Chargement des données en cours, merci d'attendre quelques secondes...</em></div>
     <table>
         <tr id="column-heading"></tr>
     </table>
@@ -83,6 +111,17 @@
         fetch('infos-' + id + '.json').then(function (response) {
             response.json().then(function (data) {
                 infos = data;
+                
+                // Load image in loader
+                /*
+                if("image" in infos){
+                    let image = document.createElement("img");
+                    image.setAttribute("src", infos["image"][1]);
+                    document.querySelector(".rotate").innerHTML = ""; 
+                    document.querySelector(".rotate").appendChild(image);                    
+                }
+                */
+                
                 // Load column headings
                 let fieldNumber = 0;
                 infos["fields"].forEach(f => {
@@ -98,7 +137,7 @@
                     input.setAttribute("id", "filter" + fieldNumber);
                     document.querySelector("#filters").appendChild(input);
                     fieldNumber += 1;
-                })
+                })                
 
                 // Load other information into the webpage
                 Object.keys(infos).forEach(o => {
@@ -140,8 +179,10 @@
                                 tr.appendChild(td);
                             })
                             // Update the table by adding the new row
-                            document.querySelector("table").appendChild(tr)
+                            document.querySelector("table").appendChild(tr);
                         })
+                        
+                        document.querySelector(".loader").style.display = "none";
 
                         // Make the filters active
                         let fieldNumber = 0;
