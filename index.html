@@ -187,7 +187,8 @@
             let infos = l.split("=");
             if (infos[0] == "id") { id = infos[1]; }
         })
-
+        
+        try{
         // Load the JSON file with information about the data
         fetch('infos-' + id + '.json').then(function (response) {
             response.json().then(function (data) {
@@ -272,8 +273,14 @@
 
                     }
                 });
+            }).catch(e => {
+                document.querySelector("#filters").innerHTML = "<p style=\"font-size:1.5em\">Identifiant de la base de données non trouvé. L'URL de ce site devrait se terminer par <em>?id=identifiant_de_la_base_de_données</em>, voir la documentation de <a href=\"https://github.com/PhilippeGambette/web-gsdb\">web-gsdb</a> pour plus d'informations.</p>"
+                document.querySelector(".loader").style.display = "none";
             })
         })
+        } catch(error){
+            console.log(error)
+        }
 
     </script>
     <footer>
