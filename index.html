@@ -92,6 +92,7 @@
     <p id="credits"></p>
     <div id="filters"><h2>Filtres</h2><p>Les champs ci-dessous sont des filtres : seules sont affichées les lignes qui contiennent, pour le ou les champs que vous avez complétés, une valeur qui inclut ce que vous avez écrit dans le champ (en ignorant la casse).</p></div>
     <div class="loader"><!-- CC0-licensed code from https://loading.io/css/ --><div class="lds-ring"><div></div><div></div><div></div><div></div></div><br><em>Chargement des données en cours, merci d'attendre quelques secondes...</em></div>
+    <h2>Données</h2>
     <table>
         <tr id="column-heading"></tr>
     </table>
@@ -113,6 +114,7 @@
                                     let link = document.createElement("a");
                                     link.appendChild(text);
                                     link.setAttribute("href", i[f]);
+                                    link.setAttribute("target", "_blank");
                                     td.appendChild(link);
                                 } else {
                                     td.appendChild(text);
