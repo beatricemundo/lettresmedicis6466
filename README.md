@@ -15,4 +15,5 @@ Ce site web recense les pièces de théâtre écrites par des femmes du seizièm
 
 ## Documents multimédia
 
+* Illustration et icône du site : Anonyme, [Mademoiselle Maupin de l'Opéra](https://gallica.bnf.fr/ark:/12148/btv1b8407419q/), Bibliothèque nationale de France, département Estampes et photographie, RESERVE FOL-QB-201 (74), Gallica
 * Icône de plume : [Freepik (Flaticon)](https://www.flaticon.com/fr/icone-gratuite/stylo-plume-de-forme-diagonale-noire-dune-aile-doiseau_44870?term=plume&page=1&position=64&page=1&position=64&related_id=44870&origin=search)
