@@ -1,25 +1,18 @@
-# web-gsdb
-Un outil de déploiement de site web à partir d'une base de données stockée sur Google Sheets.
+# Théâtre de femmes du 16e au 18e siècles
+Ce site web recense les pièces de théâtre écrites par des femmes du seizième au dix-huitième siècles, en s'appuyant sur diverses bases de données mises à disposition sur le web. Il a été préparé à l'occasion du colloque-festival [Théâtre de femmes du du XVIe au XVIIIe siècle : archive, édition, dramaturgie](https://ihrim.ens-lyon.fr/evenement/theatre-de-femmes-du-xvie-au-xviiie-siecle-archive-edition-dramaturgie\), du 15 au 17 novembre 2023 à Lyon.
 
-## Démos
+## Données sources   
 
-* Site créé par [Olivier Brossard](https://www.iufrance.fr/les-membres-de-liuf/membre/1507-olivier-brossard.html) : [Bibliographie de poésie des États-Unis en traduction française, 1786-2023](https://philippegambette.github.io/web-gsdb/?id=poesie-americaine-en-traduction)
-* Site de [recensement des promenades du matrimoine en France](https://philippegambette.github.io/web-gsdb/?id=empreintes-de-femmes) (données collectées par Danie Lancéa, Titouan Kerhervé-Remoussin et Philippe Gambette)
+* [Table des femmes auteurs, entrepreneurs et salonnières (David Trott)](http://homes.chass.utoronto.ca/~trott/fem_aut.htm)
+* [Play Summary 18 (Carol Sherman, Perry Gethner, Althea Arguelles-Ling)](https://web.archive.org/web/20220513122818/http://playsummary18.org/)
+* [Répertoire du théâtre français imprimé au XVIIe siècle (Alain Riffaud)](https://repertoiretheatreimprime.othone.com/)
+* [theatre-classique.fr](https://theatre-classique.fr/)
+* [théâtre-documentation.com](https://xn--thtre-documentation-cvb0m.com/)
+* [Wikidata](https://wikidata.org)
+* [Gallica](http://gallica.bnf.fr)
+* [catalogue de la BnF](http://catalogue.bnf.fr)
+* [Google Books](https://books.google.com)
 
-## Installation
+## Documents multimédia
 
-* Copiez les fichiers de ce dépôt dans un dossier pris en compte par le serveur web.
-* Créez un fichier texte, avec un code inspiré du code JSON ci-dessous, pour préciser les informations affichées sur le site ainsi que l'URL source des données du site (pour trouver cette URL à partir de votre fichier Google Sheets,  menu "Fichier", "Partager", "Publier sur le web", puis dans la fenêtre qui apparait, choisis non pas "Document entier" mais la feuille souhaitée, et dans la liste déroulante juste à droite choisir le format "valeurs séparées par des virgules (csv)" et cliquer sur "Publier" pour récupérer l'URL qui apparait alors)
-* Enregistrez ce fichier texte sous le nom `infos-nom_que_vous_avez_choisi.json`, à l'intérieur du dossier où vous avez copié les autres fichiers
-* Le site est alors consultable à l'adresse http://votre_nom_de_domaine.com/votre_dossier/?id=nom_que_vous_avez_choisi
-
-Exemple de code JSON, pour un site web dédié aux promenades du matrimoine en France :
-`{"url":"https://docs.google.com/spreadsheets/d/e/2PACX-1vTeCq1Aa8gVJfDOH38noAGKODRVmHsZkh8bElJmBZDKZygs8sORJ1NLXUgq8AApXo4JpIGbMsylQQHS/pub?gid=0&single=true&output=csv","credits":["<p style=\"font-size:1.5em\">Données collectées par Danie Lancéa, Titouan Kerhervé-Remoussin et Philippe Gambette, pour le projet <a href=\"http://citedesdames.hypotheses.org\">Cité des dames, créatrices dans la cité</a>.</p>"],"title":["Empreintes de femmes : recensement des promenades du matrimoine en France"],"image":["src","https://citedesdames.github.io/empreintesdefemmes/assets/img/logo-epais.png"],"fields":["titre","ville","adresse","liste_femmes","URL","date","régularité","lat","long","est_numerique"]}`
-
-## Pour aller plus loin
-
-* pour des sites web ou des bases de données plus complexes, vous pouvez utiliser [Awesome Table](https://awesome-table.com/)
-* d'autres moteurs sites créés à partir de fichiers Google Sheets par des stagiaires à l'université Gustave Eiffel :
-  * [De ville en ville](https://github.com/citedesdames/de-ville-en-ville)
-  * [Les Promenades du Matrimoine](https://github.com/Ulysseee/les-promenades-du-matrimoine)
-  * [Empreintes de femmes](https://github.com/citedesdames/empreintesdefemmes)
+* Icône de plume : [Freepik (Flaticon)](https://www.flaticon.com/fr/icone-gratuite/stylo-plume-de-forme-diagonale-noire-dune-aile-doiseau_44870?term=plume&page=1&position=64&page=1&position=64&related_id=44870&origin=search)
