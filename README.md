@@ -1,5 +1,7 @@
-# Théâtre de femmes du 16e au 18e siècles
-Ce site web recense les pièces de théâtre écrites par des femmes du seizième au dix-huitième siècles, en s'appuyant sur diverses bases de données mises à disposition sur le web. Il a été préparé à l'occasion du colloque-festival [Théâtre de femmes du du XVIe au XVIIIe siècle : archive, édition, dramaturgie](https://ihrim.ens-lyon.fr/evenement/theatre-de-femmes-du-xvie-au-xviiie-siecle-archive-edition-dramaturgie\), du 15 au 17 novembre 2023 à Lyon.
+# Théâtre de femmes du 16e au 18e siècle
+Ce site web recense les pièces de théâtre écrites par des femmes du seizième au dix-huitième siècle, en s'appuyant sur diverses bases de données mises à disposition sur le web. Il a été préparé à l'occasion du colloque-festival [Théâtre de femmes du du XVIe au XVIIIe siècle : archive, édition, dramaturgie](https://ihrim.ens-lyon.fr/evenement/theatre-de-femmes-du-xvie-au-xviiie-siecle-archive-edition-dramaturgie\), du 15 au 17 novembre 2023 à Lyon.
+
+Il a été développé dans le cadre du projet de recherche [Cité des dames, créatrices dans la cité](https://citedesdames.hypotheses.org/) qui a bénéficié, par le projet I-SITE Future, d'une aide de l'État gérée par l'Agence Nationale de la Recherche (ANR) au titre du programme d'investissements d'Avenir (référence ANR-16-IDEX-0003).
 
 ## Données sources   
 
