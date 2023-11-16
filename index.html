@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" id="favicon" type="image/png" href="Pierre%20Woeiriot%20-%20Barthelemy%20Aneau.png">
-    <title>Théâtre de femmes du 16e au 18e siècle</title>
+    <title>Théâtre de femmes du 16<sup><small>e</small></sup> au 18<sup><small>e</small></sup> siècle</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"
         integrity="sha512-dfX5uYVXzyU8+KHqj8bjo7UkOdg18PaOtpa48djpNbZHwExddghZ+ZmzWT06R5v6NSk3ZUfsH6FNEDepLx9hPQ=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -207,7 +207,15 @@ let histoireAutrices = {"Q6691":0,"Q1398":0,"Q7198":0,"Q128460":0,"Q260006":0,"Q
                                texte += ')';
                             }
                             
-                            book.innerHTML = (image + autrice + ", <em><strong>" + titre + "</strong></em>" + documents + source + ", " + i["Année"] + texte + ".").replaceAll(", .",".");
+                            // Achat
+                            let achat = "";
+                            if(i["Achat"].length > 0){
+                               let urls = i["Achat"].split(" ");
+                               urls.forEach(url => {documents += ' <a title="Achat de la pièce" target="_blank" href="' + url + '">€</a>'});
+                            }
+                            
+                            
+                            book.innerHTML = (image + autrice + ", <em><strong>" + titre + "</strong></em>" + documents + source + ", " + i["Année"] + texte + achat + ".").replaceAll(", .",".");
                             // Update the table by adding the new row
                             document.querySelector("#biblio").appendChild(book);
                         })
