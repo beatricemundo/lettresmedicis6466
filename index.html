@@ -53,6 +53,10 @@
        height:16px;
        margin-bottom:-2px;       
     }
+    .cf{
+       height:16px;
+       margin-bottom:-2px;       
+    }
 
 /* CC0-licensed code from https://loading.io/css/ */
 .lds-ring {
@@ -191,10 +195,50 @@ let histoireAutrices = {"Q6691":0,"Q1398":0,"Q7198":0,"Q128460":0,"Q260006":0,"Q
                                }
                             }
                             
+                            // Comédie-Française
+                            let comedieFrancaise = "";
+                            if(i["Comédie-Française"].length > 10){
+                               comedieFrancaise = ' <a href="' + i["Comédie-Française"] + '" target="_blank" title="Pièce jouée à la Comédie-Française"><img src="img/logoComedieFrancaise.png" class="cf" alt="Ancien logo de la Comédie-Française"></a>';
+                            }
+                            
                             // Source
                             let source = "";
                             if(i["Source"] == "Trott"){
                                source = ' <a href="http://homes.chass.utoronto.ca/~trott/fem_aut.htm" target="_blank" title="Trott">🛈</a>'
+                            } else {
+                               if(i["Source"] == "PlaySummary18"){
+                                  // Retrieve correct PlaySummary18 URL from id
+                                  let psId = parseInt(i["PlaySummary18 Id"].replace("P",""));
+                                  let urlPs = "https://web.archive.org/web/20220513122818/http://playsummary18.org/PS18LIST_StWu.html"
+                                  if(psId < 241){
+                                     urlPs = "https://web.archive.org/web/20180901110939/http://playsummary18.org/PS18LIST_SaSt.html";
+                                  }
+                                  if(psId < 217){
+                                     urlPs = "https://web.archive.org/web/20220313122922/http://playsummary18.org/PS18LIST_MoSa.html";
+                                  }
+                                  if(psId < 190){
+                                     urlPs = "https://web.archive.org/web/20220513122819/http://playsummary18.org/PS18LIST_MaMo.html";
+                                  }
+                                  if(psId < 165){
+                                     urlPs = "https://web.archive.org/web/20220312071729/http://playsummary18.org/PS18LIST_GrLu.html";
+                                  }
+                                  if(psId < 136){
+                                     urlPs = "https://web.archive.org/web/20220513122820/http://playsummary18.org/PS18LIST_GlGo.html";
+                                  }
+                                  if(psId < 111){
+                                     urlPs = "https://web.archive.org/web/20220204174047/http://playsummary18.org/PS18LIST_DuGe.html";
+                                  }
+                                  if(psId < 78){
+                                     urlPs = "https://web.archive.org/web/20220409090040/http://playsummary18.org/PS18LIST_ChDu.html";
+                                  }
+                                  if(psId < 54){
+                                     urlPs = "https://web.archive.org/web/20220407002449/http://playsummary18.org/PS18LIST_CaCh.html";
+                                  }
+                                  if(psId < 28){
+                                     urlPs = "https://web.archive.org/web/20180901143010/http://playsummary18.org/PS18LIST_ABo.html";
+                                  }
+                                  source = ' <a href="' + urlPs + '" target="_blank" title="PlaySummary18">🛈</a>'
+                               }
                             }
                             
                             // Texte
@@ -215,7 +259,7 @@ let histoireAutrices = {"Q6691":0,"Q1398":0,"Q7198":0,"Q128460":0,"Q260006":0,"Q
                             }
                             
                             
-                            book.innerHTML = (image + autrice + ", <em><strong>" + titre + "</strong></em>" + documents + source + ", " + i["Année"] + texte + achat + ".").replaceAll(", .",".");
+                            book.innerHTML = (image + autrice + ", <em><strong>" + titre + "</strong></em>" + documents + source + comedieFrancaise + ", " + i["Année"] + texte + achat + ".").replaceAll(", .",".");
                             // Update the table by adding the new row
                             document.querySelector("#biblio").appendChild(book);
                         })
@@ -394,17 +438,21 @@ let histoireAutrices = {"Q6691":0,"Q1398":0,"Q7198":0,"Q128460":0,"Q260006":0,"Q
     <footer>
     <hr>
     <h3>À propos</h3>
-    Ce site web a été développé dans le cadre du projet de recherche [Cité des dames, créatrices dans la cité](https://citedesdames.hypotheses.org/) qui a bénéficié, par le projet I-SITE Future, d'une aide de l'État gérée par l'Agence Nationale de la Recherche (ANR) au titre du programme d'investissements d'Avenir (référence ANR-16-IDEX-0003). Il a été créé en partenariat avec l'association <i><a href="http://ledeuxiemetexte.fr">Le deuxième texte</a></i> en s'appuyant sur le recensement de versions numériques de pièces de théâtre de femmes réalisé pour l'opération <a href="http://blog.ledeuxiemetexte.fr/2022/03/11/les-femmes-savantes-precieuses-a-plus-dun-titre/">#théâtrices2022</a><br><br>
+    Ce site web a été développé dans le cadre du projet de recherche <a href="https://citedesdames.hypotheses.org/">Cité des dames, créatrices dans la cité</a>, qui a bénéficié, par le projet I-SITE Future, d'une aide de l'État gérée par l'Agence Nationale de la Recherche (ANR) au titre du programme d'investissements d'Avenir (référence ANR-16-IDEX-0003). Il a été créé en partenariat avec l'association <i><a href="http://ledeuxiemetexte.fr">Le deuxième texte</a></i> en s'appuyant sur le recensement de versions numériques de pièces de théâtre de femmes réalisé pour l'opération <a href="http://blog.ledeuxiemetexte.fr/2022/03/11/les-femmes-savantes-precieuses-a-plus-dun-titre/">#théâtrices2022</a><br><br>
     Directeur éditorial (développement web, collecte de données)&nbsp;: <a href="https://igm.univ-mlv.fr/~gambette">Philippe Gambette</a><br>
-    Données sources&nbsp;:
+    Données sources&nbsp;: 
+    <em><a href="http://blog.ledeuxiemetexte.fr/2022/03/11/les-femmes-savantes-precieuses-a-plus-dun-titre/">Collecte #théâtrices2022</a></em>, 
     <em><a href="http://homes.chass.utoronto.ca/~trott/fem_aut.htm">Table des femmes auteurs, entrepreneurs et salonnières</a></em> (David Trott), 
+    <em><a href="https://web.archive.org/web/20220513122818/http://playsummary18.org/">PlaySummary 16-18</a></em> (Carol Sherman, Perry Gethner, Althea Arguelles-Ling), 
     <em><a href="https://repertoiretheatreimprime.othone.com/">Répertoire du théâtre français imprimé au XVII<sup><small>e</small></sup> siècle</a></em> (Alain Riffaud), 
-    <a href="https://wikidata.org">Wikidata</a>, 
+    <em><a href="https://www.cfregisters.org/">Registres de la Comédie-Française</a></em>
+    <a href="https://wikidata.org">Wikidata</a> / <a href="http://fr.wikisource.org">Wikisource</a>, 
     <a href="http://gallica.bnf.fr">Gallica</a>, 
     <a href="http://catalogue.bnf.fr">catalogue de la BnF</a>, 
     <a href="https://books.google.com">Google Books</a>, 
+    <a href="https://theatre-classique.fr/">theatre-classique.fr</a>,
     <a href="https://xn--thtre-documentation-cvb0m.com/">théâtre-documentation.com</a>, 
-    <a href="https://theatre-classique.fr/">theatre-classique.fr</a>.<br/>
+    <a href="https://www.edifiernotrematrimoine.org/ressources/oeuvres/oeuvres-de-theatre/">Édifier notre matrimoine</a>.<br/>
     Illustration&nbsp;: Anonyme, <em><a href="https://gallica.bnf.fr/ark:/12148/btv1b8407419q/">Mademoiselle Maupin de l'Opéra</a></em>, Bibliothèque nationale de France, département Estampes et photographie, RESERVE FOL-QB-201 (74), Gallica<br>
     Pour les pages de titre des ouvrages ci-dessus, les sources sont fournies dans l'infobulle de l'image et en suivant le lien attaché à l'image.<br/>
     Code de ce site disponible sous licence libre MIT <a href="https://github.com/citedesdames/theatre1618">sur GitHub</a>, hébergé par GitHub Pages.
