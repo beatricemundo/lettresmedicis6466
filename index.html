@@ -115,7 +115,7 @@
     <img src="img/Julie_Candeille.png" title="Source : Anonyme, Mademoiselle Maupin de l'Opéra, Bibliothèque nationale de France, département Estampes et photographie, RESERVE FOL-QB-201 (74), Gallica" id="image" style="float:left;width:130px">
     <h1 id="title">Théâtre de femmes 16-18</h1>
     <p id="credits"></p>
-    <div id="filters"><h2>Filtres</h2><p>Les champs ci-dessous sont des filtres : seules sont affichées les lignes qui contiennent, pour le ou les champs que vous avez complétés, une valeur qui inclut ce que vous avez écrit dans le champ (en ignorant la casse).</p></div>
+    <div id="filters"><h2>Filtres</h2><p>Les champs ci-dessous sont des filtres : seules sont affichées les lignes qui contiennent, pour le ou les champs que vous avez complétés, une valeur qui inclut ce que vous avez écrit dans le champ (en ignorant la casse).</p><p id="permalink"></p></div>
     <div class="loader"><!-- CC0-licensed code from https://loading.io/css/ --><div class="lds-ring"><div></div><div></div><div></div><div></div></div><br><em>Chargement des données en cours, merci d'attendre quelques secondes...</em></div>
     <h2>Corpus</h2>
     <table>
@@ -153,7 +153,7 @@ let histoireAutrices = {"Q6691":0,"Q1398":0,"Q7198":0,"Q128460":0,"Q260006":0,"Q
                             let book = document.createElement("div");
                             book.setAttribute("class","book");
                             
-                            var infosUrl = i["Infos_URL"] ;//+ " - " + i["Lieu de conservation"];
+                            var infosUrl = i["Infos_URL"];//+ " - " + i["Lieu de conservation"];
                             
                             // Autrice
                             let autrice = i["Autrice"];
@@ -256,24 +256,38 @@ let histoireAutrices = {"Q6691":0,"Q1398":0,"Q7198":0,"Q128460":0,"Q260006":0,"Q
                             if(i["Achat"].length > 0){
                                let urls = i["Achat"].split(" ");
                                urls.forEach(url => {documents += ' <a title="Achat de la pièce" target="_blank" href="' + url + '">€</a>'});
-                            }
+                            } 
                             
                             
                             book.innerHTML = (image + autrice + ", <em><strong>" + titre + "</strong></em>" + documents + source + comedieFrancaise + ", " + i["Année"] + texte + achat + ".").replaceAll(", .",".");
                             // Update the table by adding the new row
                             document.querySelector("#biblio").appendChild(book);
                         })
-        }
-
+        } 
+        
         // Function to filter the rows
-        function filterRows(e) {
+        function filterRows(e){
             let rowNumber = 0;
             let filterValues = [];
             let fieldNumber = 0;
+            let url = location.href.split("?")[0];
+            let addedFilter = 0;
             infos["fields"].forEach(f => {
                 filterValues[fieldNumber] = document.querySelector("#filter" + fieldNumber).value.toLowerCase();
+                if(document.querySelector("#filter" + fieldNumber).value != ""){
+                   if(addedFilter > 0){
+                      url += "&";
+                   } else {
+                      url = "?";
+                   }
+                   addedFilter++;
+                   url += "filter" + fieldNumber + "=" + encodeURI(document.querySelector("#filter" + fieldNumber).value);
+                }
                 fieldNumber += 1;
             })
+            document.querySelector("#permalink").innerHTML = '<a href="' + url.replace("&","&amp;") +   '">&#x1F517; permalien</a>';
+            
+            
             //!!!document.querySelectorAll("table tr").forEach(row => {
             document.querySelectorAll("div.book").forEach(row => {
                 let display = true;
@@ -324,16 +338,16 @@ let histoireAutrices = {"Q6691":0,"Q1398":0,"Q7198":0,"Q128460":0,"Q260006":0,"Q
         }
 
         // Get the id of the data to display
+        /*
         let url = document.location.href;
         let id = "";
-        /*
         let vars = (url + "").split("?")[1].split("&");
         vars.forEach(l => {
             let infos = l.split("=");
             if (infos[0] == "id") { id = infos[1]; }
         })
         */
-        id="theatre1618";
+        let id = "theatre1618";
         
         try{
         // Load the JSON file with information about the data
@@ -422,6 +436,20 @@ let histoireAutrices = {"Q6691":0,"Q1398":0,"Q7198":0,"Q128460":0,"Q260006":0,"Q
                             document.querySelector("#filter" + fieldNumber).addEventListener("change", filterRows);
                             fieldNumber += 1;
                         })
+                        
+                        // Load data from the URL for the filters
+                        let url = location.href.split("?");
+                        if(url.length>1){
+                           let parameters = url[1].split("&");
+                           parameters.forEach(parameter => {
+                              let param = parameter.split("=");
+                              if(param[0].substring(0,6) == "filter"){
+                                 document.querySelector("#" + param[0]).value = decodeURI(param[1]);
+                              }
+                           })
+                           filterRows();
+                        }
+                        
 
                     }
                 });
