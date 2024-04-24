@@ -113,7 +113,7 @@
 
 <body>
     <img src="img/CdeM_enfants.jpg" title="Atelier de François Clouet, Portrait of Catherine de Medici and her Children, Strawberry Hill Collection, Yale University" id="image" style="float:left;width:130px">
-    <h1 id="title">Théâtre de femmes 16-18</h1>
+    <h1 id="title">Lettres de Catherine de Médicis</h1>
     <p id="credits"></p>
     <div id="filters"><h2>Filtres</h2><p>Les champs ci-dessous sont des filtres : seules sont affichées les lignes qui contiennent, pour le ou les champs que vous avez complétés, une valeur qui inclut ce que vous avez écrit dans le champ (en ignorant la casse).</p><p id="permalink"></p></div>
     <div class="loader"><!-- CC0-licensed code from https://loading.io/css/ --><div class="lds-ring"><div></div><div></div><div></div><div></div></div><br><em>Chargement des données en cours, merci d'attendre quelques secondes...</em></div>
@@ -151,7 +151,8 @@
                             */
                             let book = document.createElement("div");
                             book.setAttribute("class","book");
-                            
+                            book.setAttribute("id",i["id lettre"]);
+
                             var infosUrl = i["Infos_URL"];//+ " - " + i["Lieu de conservation"];
                             
                             // Destinataire(s)
@@ -163,7 +164,7 @@
                             
                             // Image de couverture
                             let image = ""
-                            if(i["Url page"] != ""){
+                            if(i["url page"] != ""){
                                image = '<a title="Lien Gallica" target="_blank" href="' + i["url page"]+ '"><img class="couverture" alt="page de titre" src="' + i["url page"] + '.thumbnail"></a><br>';
                             } else {
                                image = '';
@@ -171,7 +172,7 @@
                             }
  
                             // Texte
-                            let texte = "";
+                            let texte = "<br/><a href=\"lettres.html#"+i["id lettre"]+"\">Texte de la lettre</a>";
                             /*
                             if(i["URL_texte"] != ""){
                                texte = ' (<a target="_blank" href="' + i["URL_texte"] + '">texte intégral</a>';
