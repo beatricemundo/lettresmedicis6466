@@ -5,118 +5,35 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" id="favicon" type="image/png" href="Pierre%20Woeiriot%20-%20Barthelemy%20Aneau.png">
-    <title>Théâtre de femmes du 16<sup><small>e</small></sup> au 18<sup><small>e</small></sup> siècle</title>
+    <link rel="icon" id="favicon" type="image/png" href="img/CdeM_enfants.jpg">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Lettres de Catherine de Médicis</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"
         integrity="sha512-dfX5uYVXzyU8+KHqj8bjo7UkOdg18PaOtpa48djpNbZHwExddghZ+ZmzWT06R5v6NSk3ZUfsH6FNEDepLx9hPQ=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 </head>
-<style>
-    * {
-        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    }
-    #image{margin-right:10px; margin-bottom:10px;}
-    td,
-    th {
-        border: 1px solid black;
-        max-width: 300px;
-        background-color: bisque;
-        word-wrap: break-word;
-    }
-    table{
-        margin-top:10px;
-        font-size:1.2em;
-    }
-    input,#credits{
-        font-size:1.2em;
-    }
-    .sortA,.sortD{
-        cursor:pointer;
-    }
-    .book{
-       width:300px;
-       display:inline-block;
-       text-align:center;
-       margin:1em;
-       padding-bottom:0.5em;
-       padding-top:1em;
-       vertical-align: top;
-       position:relative;
-       font-size:1.1em;
-       border-bottom:1px solid gray;
-       vertical-align:text-bottom;
-    }
-    .couverture{
-       height:250px;
-    }
-    .plume{
-       height:16px;
-       margin-bottom:-2px;       
-    }
-    .cf{
-       height:16px;
-       margin-bottom:-2px;       
-    }
-
-/* CC0-licensed code from https://loading.io/css/ */
-.lds-ring {
-  display: inline-block;
-  position: relative;
-  width: 80px;
-  height: 80px;
-}
-.lds-ring div {
-  box-sizing: border-box;
-  display: block;
-  position: absolute;
-  width: 64px;
-  height: 64px;
-  margin: 8px;
-  border: 8px solid black;
-  border-radius: 50%;
-  animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
-  border-color: black transparent transparent transparent;
-}
-.lds-ring div:nth-child(1) {
-  animation-delay: -0.45s;
-}
-.lds-ring div:nth-child(2) {
-  animation-delay: -0.3s;
-}
-.lds-ring div:nth-child(3) {
-  animation-delay: -0.15s;
-}
-@keyframes lds-ring {
-  0% {
-    transform: rotate(0deg);
-  }
-  100% {
-    transform: rotate(360deg);
-  }
-}
-
-    .loader{
-        position:fixed;
-        z-index:100;
-        padding:1em;
-        top:30%;
-        left:20%;
-        right:20%;
-        font-size:3em;
-        color:black;
-        background-color:rgba(255,255,255,0.7);
-        border-radius:1em;
-        text-align:center;
-    }
-
-</style>
 
 <body>
-    <img src="img/CdeM_enfants.jpg" title="Atelier de François Clouet, Portrait of Catherine de Medici and her Children, Strawberry Hill Collection, Yale University" id="image" style="float:left;width:130px">
+    <img src="img/CdeM_enfants.jpg"
+        title="Atelier de François Clouet, Portrait of Catherine de Medici and her Children, Strawberry Hill Collection, Yale University"
+        id="image" style="float:left;width:130px">
     <h1 id="title">Lettres de Catherine de Médicis</h1>
     <p id="credits"></p>
-    <div id="filters"><h2>Filtres</h2><p>Les champs ci-dessous sont des filtres : seules sont affichées les lignes qui contiennent, pour le ou les champs que vous avez complétés, une valeur qui inclut ce que vous avez écrit dans le champ (en ignorant la casse).</p><p id="permalink"></p></div>
-    <div class="loader"><!-- CC0-licensed code from https://loading.io/css/ --><div class="lds-ring"><div></div><div></div><div></div><div></div></div><br><em>Chargement des données en cours, merci d'attendre quelques secondes...</em></div>
+    <div id="filters">
+        <h2>Filtres</h2>
+        <p>Les champs ci-dessous sont des filtres : seules sont affichées les lignes qui contiennent, pour le ou les
+            champs que vous avez complétés, une valeur qui inclut ce que vous avez écrit dans le champ (en ignorant la
+            casse).</p>
+        <p id="permalink"></p>
+    </div>
+    <div class="loader"><!-- CC0-licensed code from https://loading.io/css/ -->
+        <div class="lds-ring">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
+        </div><br><em>Chargement des données en cours, merci d'attendre quelques secondes...</em>
+    </div>
     <h2>Corpus</h2>
     <table>
         <tr id="column-heading"></tr>
@@ -125,72 +42,72 @@
     <script>
         var infos;
         var items;
-        
-        // Function to fill in the table
-        function fillInTable(){
-            items.forEach(i => {
-                            /*
-                            // Create a new row in the table for each item
-                            let tr = document.createElement("tr");
-                            infos["fields"].forEach(f => {
-                                // Create a new cell in the row for each value
-                                let td = document.createElement("td");
-                                let text = document.createTextNode(i[f]);
-                                // If the value looks like a link, add a link
-                                if (i[f].substring(0, 4) == "http") {
-                                    let link = document.createElement("a");
-                                    link.appendChild(text);
-                                    link.setAttribute("href", i[f]);
-                                    link.setAttribute("target", "_blank");
-                                    td.appendChild(link);
-                                } else {
-                                    td.appendChild(text);
-                                }
-                                tr.appendChild(td);
-                            })
-                            */
-                            let book = document.createElement("div");
-                            book.setAttribute("class","book");
-                            book.setAttribute("id",i["id lettre"]);
 
-                            var infosUrl = i["Infos_URL"];//+ " - " + i["Lieu de conservation"];
-                            
-                            // Destinataire(s)
-                            let destinataire = i["destinataire(s)"];
-                            if(i["id wikidata destinataire 1"] != "-"){
-                               destinataire = destinataire + " (<a target=\"_blank\" href=\"https://wikidata.org/entity/" + i["id wikidata destinataire 1"] + "\">" + i["destinataire 1"] + "</a>)";
-                            }
-                            
-                            
-                            // Image de couverture
-                            let image = ""
-                            if(i["url page"] != ""){
-                               image = '<a title="Lien Gallica" target="_blank" href="' + i["url page"]+ '"><img class="couverture" alt="page de titre" src="' + i["url page"] + '.thumbnail"></a><br>';
-                            } else {
-                               image = '';
-                               //image = '<img src="blank.png" alt=""><br>';
-                            }
- 
-                            // Texte
-                            let texte = "<br/><a href=\"lettres.html#"+i["id lettre"]+"\">Texte de la lettre</a>";
-                            /*
-                            if(i["URL_texte"] != ""){
-                               texte = ' (<a target="_blank" href="' + i["URL_texte"] + '">texte intégral</a>';
-                               if(i["URL_texte"] != ""){
-                                  texte += "&nbsp;: " + i["Infos_URL_texte"];
-                               }
-                               texte += ')';
-                            }
-                            */
-                            
-                            book.innerHTML = (image + "<em><strong>" + i["date"] + " " + destinataire + "</strong></em>" + ", " + texte + ".").replaceAll(", .",".");
-                            // Update the table by adding the new row
-                            document.querySelector("#biblio").appendChild(book);
-                        })
-        } 
-        
+        // Function to fill in the table
+        function fillInTable() {
+            items.forEach(i => {
+                /*
+                // Create a new row in the table for each item
+                let tr = document.createElement("tr");
+                infos["fields"].forEach(f => {
+                    // Create a new cell in the row for each value
+                    let td = document.createElement("td");
+                    let text = document.createTextNode(i[f]);
+                    // If the value looks like a link, add a link
+                    if (i[f].substring(0, 4) == "http") {
+                        let link = document.createElement("a");
+                        link.appendChild(text);
+                        link.setAttribute("href", i[f]);
+                        link.setAttribute("target", "_blank");
+                        td.appendChild(link);
+                    } else {
+                        td.appendChild(text);
+                    }
+                    tr.appendChild(td);
+                })
+                */
+                let book = document.createElement("div");
+                book.setAttribute("class", "book");
+                book.setAttribute("id", i["id lettre"]);
+
+                var infosUrl = i["Infos_URL"];//+ " - " + i["Lieu de conservation"];
+
+                // Destinataire(s)
+                let destinataire = i["destinataire(s)"];
+                if (i["id wikidata destinataire 1"] != "-") {
+                    destinataire = destinataire + " (<a target=\"_blank\" href=\"https://wikidata.org/entity/" + i["id wikidata destinataire 1"] + "\">" + i["destinataire 1"] + "</a>)";
+                }
+
+
+                // Image de couverture
+                let image = ""
+                if (i["url page"] != "") {
+                    image = '<a title="Lien Gallica" target="_blank" href="' + i["url page"] + '"><img class="couverture" alt="page de titre" src="' + i["url page"] + '.thumbnail"></a><br>';
+                } else {
+                    image = '';
+                    //image = '<img src="blank.png" alt=""><br>';
+                }
+
+                // Texte
+                let texte = "<br/><a href=\"lettres.html#" + i["id lettre"] + "\">Texte de la lettre</a>";
+                /*
+                if(i["URL_texte"] != ""){
+                   texte = ' (<a target="_blank" href="' + i["URL_texte"] + '">texte intégral</a>';
+                   if(i["URL_texte"] != ""){
+                      texte += "&nbsp;: " + i["Infos_URL_texte"];
+                   }
+                   texte += ')';
+                }
+                */
+
+                book.innerHTML = (image + "<em><strong>" + i["date"] + " " + destinataire + "</strong></em>" + ", " + texte + ".").replaceAll(", .", ".");
+                // Update the table by adding the new row
+                document.querySelector("#biblio").appendChild(book);
+            })
+        }
+
         // Function to filter the rows
-        function filterRows(e){
+        function filterRows(e) {
             let rowNumber = 0;
             let filterValues = [];
             let fieldNumber = 0;
@@ -198,20 +115,20 @@
             let addedFilter = 0;
             infos["fields"].forEach(f => {
                 filterValues[fieldNumber] = document.querySelector("#filter" + fieldNumber).value.toLowerCase();
-                if(document.querySelector("#filter" + fieldNumber).value != ""){
-                   if(addedFilter > 0){
-                      url += "&";
-                   } else {
-                      url = "?";
-                   }
-                   addedFilter++;
-                   url += "filter" + fieldNumber + "=" + encodeURI(document.querySelector("#filter" + fieldNumber).value);
+                if (document.querySelector("#filter" + fieldNumber).value != "") {
+                    if (addedFilter > 0) {
+                        url += "&";
+                    } else {
+                        url = "?";
+                    }
+                    addedFilter++;
+                    url += "filter" + fieldNumber + "=" + encodeURI(document.querySelector("#filter" + fieldNumber).value);
                 }
                 fieldNumber += 1;
             })
-            document.querySelector("#permalink").innerHTML = '<a href="' + url.replace("&","&amp;") +   '">&#x1F517; permalien</a>';
-            
-            
+            document.querySelector("#permalink").innerHTML = '<a href="' + url.replace("&", "&amp;") + '">&#x1F517; permalien</a>';
+
+
             //!!!document.querySelectorAll("table tr").forEach(row => {
             document.querySelectorAll("div.book").forEach(row => {
                 let display = true;
@@ -232,33 +149,33 @@
                 rowNumber += 1;
             })
         }
-        
+
         // Function to sort the rows
-        function sortRows(e){
-           let table = document.querySelector("table");
-           let firstRow = document.querySelector("table tr:nth-child(1)");
-           let language = "fr";
-           const collator = new Intl.Collator(language); 
+        function sortRows(e) {
+            let table = document.querySelector("table");
+            let firstRow = document.querySelector("table tr:nth-child(1)");
+            let language = "fr";
+            const collator = new Intl.Collator(language);
 
-           // Get the number of the clicked column
-           let chosenColumnNumber = parseInt(e.target.id.split("-")[1]);
+            // Get the number of the clicked column
+            let chosenColumnNumber = parseInt(e.target.id.split("-")[1]);
 
-           // Define the order in which the rows will be sorted
-           var polarity = -1;
-           if(e.target.classList[0]=="sortA"){
-               polarity = 1;
-           }
-           
-           // Sort the rows
-           items.sort(function(a,b){
-               let result = collator.compare(a[infos["fields"][chosenColumnNumber]], b[infos["fields"][chosenColumnNumber]])*polarity;
-               return result
-           })
-           
-           table.innerHTML = "";
-           document.querySelector("#biblio").innerHTML = "";
-           table.append(firstRow);
-           fillInTable();           
+            // Define the order in which the rows will be sorted
+            var polarity = -1;
+            if (e.target.classList[0] == "sortA") {
+                polarity = 1;
+            }
+
+            // Sort the rows
+            items.sort(function (a, b) {
+                let result = collator.compare(a[infos["fields"][chosenColumnNumber]], b[infos["fields"][chosenColumnNumber]]) * polarity;
+                return result
+            })
+
+            table.innerHTML = "";
+            document.querySelector("#biblio").innerHTML = "";
+            table.append(firstRow);
+            fillInTable();
         }
 
         // Get the id of the data to display
@@ -272,124 +189,124 @@
         })
         */
         let id = "lettresmedicis6466";
-        
-        try{
-        // Load the JSON file with information about the data
-        fetch('infos-' + id + '.json').then(function (response) {
-            response.json().then(function (data) {
-                infos = data;
-                
-                // Load image in loader
-                /*
-                if("image" in infos){
-                    let image = document.createElement("img");
-                    image.setAttribute("src", infos["image"][1]);
-                    document.querySelector(".rotate").innerHTML = ""; 
-                    document.querySelector(".rotate").appendChild(image);                    
-                }
-                */
-                
-                // Load column headings
-                let fieldNumber = 0;
-                infos["fields"].forEach(f => {
-                    // Create a th tag for the column heading
-                    let th = document.createElement("th");
-                    let text = document.createTextNode(f+" ");
-                    th.appendChild(text);
-                    let sortA = document.createElement("span");
-                    let sortD = document.createElement("span");
-                    sortA.appendChild(document.createTextNode("▲"));
-                    sortD.appendChild(document.createTextNode("▼"));
-                    sortA.id = "sortA-"+fieldNumber;
-                    sortD.id = "sortD-"+fieldNumber;
-                    sortA.classList.add("sortA");
-                    sortD.classList.add("sortD");
-                    th.appendChild(sortA);
-                    th.appendChild(sortD);
-                    document.querySelector("#column-heading").appendChild(th);
 
-                    // Create a filter tag for the column heading
-                    let input = document.createElement("input");
-                    input.setAttribute("type", "text");
-                    input.setAttribute("placeHolder", f);
-                    input.setAttribute("id", "filter" + fieldNumber);
-                    document.querySelector("#filters").appendChild(input);
-                    fieldNumber += 1;
-                })
-                
-                // Make columns sortable
-                document.querySelectorAll(".sortA,.sortD").forEach(el => {el.addEventListener("click", sortRows)});
+        try {
+            // Load the JSON file with information about the data
+            fetch('infos-' + id + '.json').then(function (response) {
+                response.json().then(function (data) {
+                    infos = data;
 
-                // Load other information into the webpage
-                Object.keys(infos).forEach(o => {
-                    if (document.querySelector("#" + o) != null) {
-                        if (infos[o].length == 1){
-                            document.querySelector("#" + o).innerHTML = infos[o][0];
-                        } else {
-                            let attributeNumber = 0;
-                            while(attributeNumber*2+1 < infos[o].length){
-                                document.querySelector("#" + o).setAttribute(infos[o][attributeNumber*2],infos[o][attributeNumber*2+1]);
-                                attributeNumber += 1;
+                    // Load image in loader
+                    /*
+                    if("image" in infos){
+                        let image = document.createElement("img");
+                        image.setAttribute("src", infos["image"][1]);
+                        document.querySelector(".rotate").innerHTML = ""; 
+                        document.querySelector(".rotate").appendChild(image);                    
+                    }
+                    */
+
+                    // Load column headings
+                    let fieldNumber = 0;
+                    infos["fields"].forEach(f => {
+                        // Create a th tag for the column heading
+                        let th = document.createElement("th");
+                        let text = document.createTextNode(f + " ");
+                        th.appendChild(text);
+                        let sortA = document.createElement("span");
+                        let sortD = document.createElement("span");
+                        sortA.appendChild(document.createTextNode("▲"));
+                        sortD.appendChild(document.createTextNode("▼"));
+                        sortA.id = "sortA-" + fieldNumber;
+                        sortD.id = "sortD-" + fieldNumber;
+                        sortA.classList.add("sortA");
+                        sortD.classList.add("sortD");
+                        th.appendChild(sortA);
+                        th.appendChild(sortD);
+                        document.querySelector("#column-heading").appendChild(th);
+
+                        // Create a filter tag for the column heading
+                        let input = document.createElement("input");
+                        input.setAttribute("type", "text");
+                        input.setAttribute("placeHolder", f);
+                        input.setAttribute("id", "filter" + fieldNumber);
+                        document.querySelector("#filters").appendChild(input);
+                        fieldNumber += 1;
+                    })
+
+                    // Make columns sortable
+                    document.querySelectorAll(".sortA,.sortD").forEach(el => { el.addEventListener("click", sortRows) });
+
+                    // Load other information into the webpage
+                    Object.keys(infos).forEach(o => {
+                        if (document.querySelector("#" + o) != null) {
+                            if (infos[o].length == 1) {
+                                document.querySelector("#" + o).innerHTML = infos[o][0];
+                            } else {
+                                let attributeNumber = 0;
+                                while (attributeNumber * 2 + 1 < infos[o].length) {
+                                    document.querySelector("#" + o).setAttribute(infos[o][attributeNumber * 2], infos[o][attributeNumber * 2 + 1]);
+                                    attributeNumber += 1;
+                                }
                             }
                         }
-                    }
-                })
-                document.querySelector("title").innerHTML = document.querySelector("#title").innerText;
-                document.querySelector("#favicon").setAttribute("href", document.querySelector("#image").getAttribute("src"));
+                    })
+                    document.querySelector("title").innerHTML = document.querySelector("#title").innerText;
+                    document.querySelector("#favicon").setAttribute("href", document.querySelector("#image").getAttribute("src"));
 
-                // Load the data into the table
-                Papa.parse(infos.url, {
-                    download: true,
-                    header: true,
-                    complete: function (results) {
-                        items = []
-                        results.data.forEach(i => {
-                              items.push(i);
-                        })
-                        // fill in the table
-                        fillInTable();
-                        
-                        document.querySelector(".loader").style.display = "none";
+                    // Load the data into the table
+                    Papa.parse(infos.url, {
+                        download: true,
+                        header: true,
+                        complete: function (results) {
+                            items = []
+                            results.data.forEach(i => {
+                                items.push(i);
+                            })
+                            // fill in the table
+                            fillInTable();
 
-                        // Make the filters active
-                        let fieldNumber = 0;
-                        infos["fields"].forEach(f => {
-                            document.querySelector("#filter" + fieldNumber).addEventListener("keyup", filterRows);
-                            document.querySelector("#filter" + fieldNumber).addEventListener("change", filterRows);
-                            fieldNumber += 1;
-                        })
-                        
-                        // Load data from the URL for the filters
-                        let url = location.href.split("?");
-                        if(url.length>1){
-                           let parameters = url[1].split("&");
-                           parameters.forEach(parameter => {
-                              let param = parameter.split("=");
-                              if(param[0].substring(0,6) == "filter"){
-                                 document.querySelector("#" + param[0]).value = decodeURI(param[1]);
-                              }
-                           })
-                           filterRows();
+                            document.querySelector(".loader").style.display = "none";
+
+                            // Make the filters active
+                            let fieldNumber = 0;
+                            infos["fields"].forEach(f => {
+                                document.querySelector("#filter" + fieldNumber).addEventListener("keyup", filterRows);
+                                document.querySelector("#filter" + fieldNumber).addEventListener("change", filterRows);
+                                fieldNumber += 1;
+                            })
+
+                            // Load data from the URL for the filters
+                            let url = location.href.split("?");
+                            if (url.length > 1) {
+                                let parameters = url[1].split("&");
+                                parameters.forEach(parameter => {
+                                    let param = parameter.split("=");
+                                    if (param[0].substring(0, 6) == "filter") {
+                                        document.querySelector("#" + param[0]).value = decodeURI(param[1]);
+                                    }
+                                })
+                                filterRows();
+                            }
+
+
                         }
-                        
-
-                    }
-                });
-            }).catch(e => {
-                document.querySelector("#filters").innerHTML = "<p style=\"font-size:1.5em\">Identifiant de la base de données non trouvé. L'URL de ce site devrait se terminer par <em>?id=identifiant_de_la_base_de_données</em>, voir la documentation de <a href=\"https://github.com/PhilippeGambette/web-gsdb\">web-gsdb</a> pour plus d'informations.</p>"
-                document.querySelector(".loader").style.display = "none";
+                    });
+                }).catch(e => {
+                    document.querySelector("#filters").innerHTML = "<p style=\"font-size:1.5em\">Identifiant de la base de données non trouvé. L'URL de ce site devrait se terminer par <em>?id=identifiant_de_la_base_de_données</em>, voir la documentation de <a href=\"https://github.com/PhilippeGambette/web-gsdb\">web-gsdb</a> pour plus d'informations.</p>"
+                    document.querySelector(".loader").style.display = "none";
+                })
             })
-        })
-        } catch(error){
+        } catch (error) {
             console.log(error)
         }
 
     </script>
     <footer>
-    <hr>
-    <h3>À propos</h3>
-    Ce site web a été développé dans le cadre du projet de recherche mémoire de master de Beatrice Mundo 
-    <!--<a href="https://citedesdames.hypotheses.org/">Cité des dames, créatrices dans la cité</a>, qui a bénéficié, par le projet I-SITE Future, d'une aide de l'État gérée par l'Agence Nationale de la Recherche (ANR) au titre du programme d'investissements d'Avenir (référence ANR-16-IDEX-0003). Il a été créé en partenariat avec l'association <i><a href="http://ledeuxiemetexte.fr">Le deuxième texte</a></i> en s'appuyant sur le recensement de versions numériques de pièces de théâtre de femmes réalisé pour l'opération <a href="http://blog.ledeuxiemetexte.fr/2022/03/11/les-femmes-savantes-precieuses-a-plus-dun-titre/">#théâtrices2022</a><br><br>
+        <hr>
+        <h3>À propos</h3>
+        Ce site web a été développé dans le cadre du projet de recherche mémoire de master de Beatrice Mundo
+        <!--<a href="https://citedesdames.hypotheses.org/">Cité des dames, créatrices dans la cité</a>, qui a bénéficié, par le projet I-SITE Future, d'une aide de l'État gérée par l'Agence Nationale de la Recherche (ANR) au titre du programme d'investissements d'Avenir (référence ANR-16-IDEX-0003). Il a été créé en partenariat avec l'association <i><a href="http://ledeuxiemetexte.fr">Le deuxième texte</a></i> en s'appuyant sur le recensement de versions numériques de pièces de théâtre de femmes réalisé pour l'opération <a href="http://blog.ledeuxiemetexte.fr/2022/03/11/les-femmes-savantes-precieuses-a-plus-dun-titre/">#théâtrices2022</a><br><br>
     Directeur éditorial (développement web, collecte de données)&nbsp;: <a href="https://igm.univ-mlv.fr/~gambette">Philippe Gambette</a><br>
     Données sources&nbsp;: 
     <em><a href="http://blog.ledeuxiemetexte.fr/2022/03/11/les-femmes-savantes-precieuses-a-plus-dun-titre/">Collecte #théâtrices2022</a></em>, 
@@ -405,8 +322,12 @@
     <a href="https://xn--thtre-documentation-cvb0m.com/">théâtre-documentation.com</a>, 
     <a href="https://www.edifiernotrematrimoine.org/ressources/oeuvres/oeuvres-de-theatre/">Édifier notre matrimoine</a>.<br/>
     Pour les pages de titre des ouvrages ci-dessus, les sources sont fournies dans l'infobulle de l'image et en suivant le lien attaché à l'image.<br/>-->
-    Illustration&nbsp;: Atelier de François Clouet, <em><a href="https://libsvcs-1.its.yale.edu/strawberryhill/oneitem.asp?id=140/">Portrait of Catherine de Medici and her Children</a></em>, Strawberry Hill Collection, Yale University<br>
-    Code de ce site disponible sous licence libre MIT <a href="https://github.com/beatricemundo/lettresmedicis6466">sur GitHub</a>, hébergé par GitHub Pages.
+        Illustration&nbsp;: Atelier de François Clouet, <em><a
+                href="https://libsvcs-1.its.yale.edu/strawberryhill/oneitem.asp?id=140/">Portrait of Catherine de Medici
+                and her Children</a></em>, Strawberry Hill Collection, Yale University<br>
+        Code de ce site disponible sous licence libre MIT <a
+            href="https://github.com/beatricemundo/lettresmedicis6466">sur GitHub</a>, hébergé par GitHub Pages.
     </footer>
 </body>
+
 </html>
