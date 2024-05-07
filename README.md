@@ -1,28 +1,16 @@
-# Théâtre de femmes 16-18
-Ce site web, disponible à l'adresse https://citedesdames.github.io/theatre1618/, recense les pièces de théâtre écrites par des femmes du seizième au dix-huitième siècle, en s'appuyant sur diverses bases de données mises à disposition sur le web. Il a été préparé à l'occasion du colloque-festival [Théâtre de femmes du XVIe au XVIIIe siècle : archive, édition, dramaturgie](https://ihrim.ens-lyon.fr/evenement/theatre-de-femmes-du-xvie-au-xviiie-siecle-archive-edition-dramaturgie), du 15 au 17 novembre 2023 à Lyon.
+# Lettres de Catherine de Médicis 1564-1566
+Ce site web, disponible à l'adresse https://beatricemundo.github.io/lettresmedicis6466/, répertorie les lettres rédigées par Catherine de Médicis lors de son grand tour de France avec Charles IX entre 1564 et 1566. À la fin du XIX<small><sup>e</sup></small> siècle et au début du XX<small><sup>e</sup></small> siècle, la Section d'histoire et de philologie du Comité des travaux historiques ainsi que les Sociétés savantes ont proposé la publication des <i>Lettres de Catherine de Médicis</i>, éditées par Hector de la Ferrière, puis par Baguenault de Puchesse et André Lesort. La correspondance de la période 1564-1566 est incluse dans les tomes 2 et 10 de la collection, qui ont servi de base à ce site web. Ce dernier a été élaboré dans le cadre du <a href=\"https://digis.hypotheses.org/la-gs-et-le-gp\">Graduate Program DIGIS (Digital Studies and Innovation for Smart-Cities)</a>, ainsi que du mémoire du <a href=\"https://lscn.hypotheses.org/\">Master en Littérature, Savoirs et Culture numérique (LSCN)</a> de Beatrice Mundo, encadré par Caroline Trotot, à l’Université Gustave Eiffel.<br> Il met en évidence la corrélation entre l'itinéraire géographique représenté par le grand tour, illustré dans <a href=\"https://citedesdames.github.io/de-ville-en-ville/?site=0/\">la carte interactive</a> réalisée en collaboration entre <a href=\"https://citedesdames.hypotheses.org/a-propos\">le programme de recherche « Cités des dames, créatrices dans la cité »</a> et <a href=\"https://cour-de-france.fr/?lang=fr\">Cour de France.fr</a>, et le parcours reconstitué par les lettres de la correspondance. Pendant ce long voyage accompagné par un considérable, Catherine de Médicis entretient une correspondance prolifique, utilisant cette opportunité pour cultiver son réseau, s'occuper des questions politiques et organiser le voyage.<br>L'objectif de ce site est de faciliter l'accès aux lettres de Catherine de Médicis pendant cette période du grand tour, ainsi que leur consultation.<br><br>"
 
-Il a été développé dans le cadre du projet de recherche [Cité des dames, créatrices dans la cité](https://citedesdames.hypotheses.org/) qui a bénéficié, par le projet I-SITE Future, d'une aide de l'État gérée par l'Agence Nationale de la Recherche (ANR) au titre du programme d'investissements d'Avenir (référence ANR-16-IDEX-0003).
-
-Il a été créé en partenariat avec l'association [Le deuxième texte](http://ledeuxiemetexte.fr) en s'appuyant sur le recensement de versions numériques de pièces de théâtre de femmes réalisé pour l'opération [#théâtrices2022](http://blog.ledeuxiemetexte.fr/2022/03/11/les-femmes-savantes-precieuses-a-plus-dun-titre/).
 
 ## Données sources   
 
-* [http://blog.ledeuxiemetexte.fr/2022/03/11/les-femmes-savantes-precieuses-a-plus-dun-titre/](Collecte #théâtrices2022)
-* [Table des femmes auteurs, entrepreneurs et salonnières (David Trott)](http://homes.chass.utoronto.ca/~trott/fem_aut.htm)
-* [Play Summary 18](https://web.archive.org/web/20220513122818/http://playsummary18.org/) (Carol Sherman, Perry Gethner, Althea Arguelles-Ling)
-* [Répertoire du théâtre français imprimé au XVIIe siècle (Alain Riffaud)](https://repertoiretheatreimprime.othone.com/)
-* [theatre-classique.fr](https://theatre-classique.fr/)
-* [théâtre-documentation.com](https://xn--thtre-documentation-cvb0m.com/)
-* [Wikidata](https://wikidata.org) / [Wikisource](http://fr.wikisource.org)
-* [Gallica](http://gallica.bnf.fr)
-* [catalogue de la BnF](http://catalogue.bnf.fr)
-* [Google Books](https://books.google.com)
-* [Édifier notre matrimoine](https://www.edifiernotrematrimoine.org/ressources/oeuvres/oeuvres-de-theatre/)
+* [MEDICIS, Catherine DE, Lettres de Catherine de Médicis. Tome 10 / publiées par M. le Cte Hector de la Ferrière,... [puis] par M. le Cte Baguenault de Puchesse,..., 1909.](https://gallica.bnf.fr/ark:/12148/bpt6k6228018d)
+
+* [─, Lettres de Catherine de Médicis. Tome 2 / publiées par M. le Cte Hector de la Ferrière,... [puis] par M. le Cte Baguenault de Puchesse,..., 1885.](https://gallica.bnf.fr/ark:/12148/bpt6k6228061d)
 
 ## Documents multimédia
 
-* Illustration et icône du site : Anonyme, [Mademoiselle Maupin de l'Opéra](https://gallica.bnf.fr/ark:/12148/btv1b8407419q/), Bibliothèque nationale de France, département Estampes et photographie, RESERVE FOL-QB-201 (74), Gallica
-* Icône de plume : [Freepik (Flaticon)](https://www.flaticon.com/fr/icone-gratuite/stylo-plume-de-forme-diagonale-noire-dune-aile-doiseau_44870?term=plume&page=1&position=64&page=1&position=64&related_id=44870&origin=search)
+* Illustration et icône du site : Atelier de François Clouet, [Portrait of Catherine de Medici and her Children](https://libsvcs-1.its.yale.edu/strawberryhill/oneitem.asp?id=140/),Strawberry Hill Collection, Yale University
 
 ## Améliorations envisagées
 
