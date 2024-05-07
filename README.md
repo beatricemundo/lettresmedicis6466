@@ -10,7 +10,7 @@ Ce site web, disponible à l'adresse https://beatricemundo.github.io/lettresmedi
 
 ## Documents multimédia
 
-* Illustration et icône du site : Atelier de François Clouet, [Portrait of Catherine de Medici and her Children](https://libsvcs-1.its.yale.edu/strawberryhill/oneitem.asp?id=140/),Strawberry Hill Collection, Yale University
+* Illustration et icône du site : Atelier de François Clouet, [Portrait of Catherine de Medici and her Children](https://libsvcs-1.its.yale.edu/strawberryhill/oneitem.asp?id=140/), Strawberry Hill Collection, Yale University
 
 ## Améliorations envisagées
 
