@@ -17,4 +17,3 @@ Ce site web, disponible à l'adresse https://beatricemundo.github.io/lettresmedi
 * autocomplétion avec liste déroulante pour les filtres
 * tris associés aux boutons de filtres
 * meilleure séparation entre entete (ajouter des marges et justifier) et reste du site
-* 
