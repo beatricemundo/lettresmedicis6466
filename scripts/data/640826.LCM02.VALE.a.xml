@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="Teinte/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettre 640826.LCM02.VALE.a</title>
+            <author key="Catherine de Médicis (1519-1589). Auteur du texte">Catherine de Médicis (1519-1589).</author>
+            <funder><ref>Université Gustave Eiffel</ref></funder>
+            <respStmt>
+              <persName ref="#ND">Beatrice Mundo</persName>
+              <resp><date>2023</date> Relecture du texte ; <date>2023</date> Encodage TEI</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Projet GP DIGIS, à partir du texte disponible sur Gallica (feuille de style issue du projet Teinte principalement développé par Frédéric Glorieux : https://github.com/oeuvres/Teinte)</publisher>
+            <date when="2023"/>
+            <availability status="free">
+               <p>Licence ouverte version 2.0</p>
+            </availability>
+            <availability>
+               <licence target="https://www.etalab.gouv.fr/licence-ouverte-open-licence/"/>
+            </availability>            
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <author>Catherine de Médicis (1519-1589). Auteur du texte</author>,
+               <editor>Hector de La Ferrière</editor>,
+               <title>Lettres de Catherine de Médicis. Tome 2 / publiées par M. le Cte Hector de la Ferrière,... [puis] par M. le Cte Baguenault de Puchesse,...</title>.
+               <date>1885</date>,
+               <publisher>Impr. nationale (Paris)</publisher>.
+               <idno type="Gallica">https://gallica.bnf.fr/ark:/12148/bpt6k6228061d/</idno>
+               <author>Catherine de Médicis (1519-1589). Auteur du texte</author>,
+               <editor>Gustave Baguenault de Puchesse</editor>,
+               <title>Lettres de Catherine de Médicis. Tome 10 / publiées par M. le Cte Hector de la Ferrière,... [puis] par M. le Cte Baguenault de Puchesse,...</title>.
+               <date>1909</date>,
+               <publisher>Impr. nationale (Paris)</publisher>.
+               <idno type="Gallica">https://gallica.bnf.fr/ark:/12148/bpt6k6228018d/</idno>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date when="1885">1885</date>
+            <date when="1909">1909</date>
+         </creation>
+         <langUsage>
+            <language ident="fr"/>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+<text>
+   <discours loc="CathMed" id="640826.LCM02.VALE.a" date="1564-26août">
+  <p> Mon cousin, j'ay ces jours receu voz lectres par La Porte et sceu comme vous estes gouverné à l'endroict du chevalier du guet, dont j'ay eu grant plaisir, affin que l'exemple serve à apprendre aux autres de myeulx obéir. Depuys, et par vostre autre despesche, nous avons eu le scrutain de l'ellection faicte du prévost des marchans et esclievyns de Paris; en quoy vous n'avez rien obmis de l'intention du Roy monsieur mon fils et de la myenne; et pour vous faire congnoistre que Quincay s'est avancé de dire ce dont il n'avoit pas charge, verrez que le Roy mondict fils a choisi Guyot pour prévost, et pour eschevyns l'esleu prévost et le secrétaire Sanguyn, ainsy qu'il l'escript à ceulx de ladicte ville par la lectre que je vous envoye que vous leur ferez tenir, leur déclairant sur ce son intencion telle que dessus, à ce qu'ils ne facent faulte de les admectre et recevoir es dictes charges, esquelles vous les mectrez. Gardant en cest endroict le respect et gratieuse considération accoustumée en tel cas, en manyère que les choses passent en la plus grande doulceur que faire se pourra, remectant le surplus de tout ce que je vous sçauroys escripre sur ledict sr de la Porte.</p>
+  <p> Pryant Dieu, mon cousin, vous avoir en sa saincte garde. Escript de Vallence, le XXVIe jour d'aoust 1564.</p>
+  <p> (De sa main.) Mon cousin, j'é parlé au fils du provost des marchans de fason qu'il a entendu deuement que la volanté du Roy et la mienne ayst que seulx de la ville et nous ne souit plus queune mesme chause, come entendrés plus au long par La Porte, et en setpendant je vous prie que metié pouine, de vostre coûté, de leur aulter la - défianse qu'ils pregnent et dousement les reguagner de fason qu'i pregnent en nous la fianse qu'il ont mise en beaucoup d'aultres, et vous fayré beaucoup pour le servise du Roy mon fils et pour son contentement. Depuis sete letre ayscripte le Roy ha chosi Sanguin, et l'éleu prévost.</p>
+  <p> Vostre bonne cousine,</p>
+  <p> <hi style="font-variant: small-caps">Caterine</hi>.  </p>
+</discours>
+
+
+
+   </text>
+</TEI>
