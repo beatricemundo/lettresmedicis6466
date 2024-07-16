@@ -434,7 +434,7 @@ jour de janvier.
 
 Copie. Bibl. nat. fonds français, n° 10735, f° 4.
 
-A MONSIEUR DU FERRIER
+À MONSIEUR DU FERRIER
 
 <rs type="personne-pouvoir">Monsieur du Ferrier</rs>, vous verrez par la
 lettre que <rs type="personne-famillepouvoir">le Roy monsieur mon filz</rs> vous escript
@@ -483,7 +483,7 @@ Copie. BibI. nat. fonds français, n° 17832, fos 48 et suiv. -
 Imprimé dans les Mémoires de Castelnau, t. II, p. 314,
 édit. de Le Laboureur.
 
-A MONSIEUR L'ÉVESQUE DE RENNES.
+À MONSIEUR L'ÉVESQUE DE RENNES.
 
 <rs type="personne-pouvoir">Monsieur de Rennes</rs>, j'ay receu voz deux
 dernières dépesches, par lesquelles j'ay esté
@@ -625,7 +625,7 @@ de janvier 1563 [1564].
 
 Minute. Bibl. nat. fonds français, n° 15879, f° 436.
 
-A MONSIEUR DE ST SULPICE.
+À MONSIEUR DE ST SULPICE.
 
 <rs type="personne-pouvoir">Monsieur de S<hi rend="sup">t</hi> Sulpice</rs>, je crois que nous
 ne ferons jamais aultre chose que vous faire
@@ -690,7 +690,7 @@ Vostre <rs type="famillepouvoir">bonne seur et afectionée mère</rs>,
 
 Minute. Bibl. nat. fonds français, n° 15879, f° 86.
 
-A MONSIEUR DE GRAMONT.
+À MONSIEUR DE GRAMONT.
 
 Monsieur de Gramont, j'ay esté fort bien aise
 d'avoir entendu par ce que le s<hi rend="sup">r</hi> de la Caze m'a
@@ -992,7 +992,7 @@ De Fontainebleau, le <hi style="font-variant: small-caps">xi</hi><hi rend="sup">
 Orig. Archives du Palais de justice de Lyon.
 
 
-A MONSIEUR DE MAUGIRON.
+À MONSIEUR DE MAUGIRON.
 
 <rs type="personne-pouvoir">Mons<hi rend="sup">r</hi> de Maugiron</rs>, s'en retournant présentement
 devers vous <rs type="personne-pouvoir">le S<hi rend="sup">r</hi> de Lessins, vostre
@@ -1029,7 +1029,7 @@ Escript à Fontainebleau, le <hi style="font-variant: small-caps">xiiii</hi><hi 
 
 Orig. Arch. de Bourges.
 
-A MONSIEUR DE CHEMEAUX,
+À MONSIEUR DE CHEMEAUX,
 CHEVALIER DE L'ORDRE DU ROY MONSIEUR MON FILS.
 
 <rs type="personne-pouvoir">Monsieur de Chemeault,</rs> vous entendrez
@@ -1057,7 +1057,7 @@ Priant Dieu vous avoir, <rs type="personne-pouvoir">Monsieur de Chemeault</rs>, 
 
 Copie. Arch. de la Loire-Inférieure.
 
-A MONSIEUR DE MATIGNON,
+À MONSIEUR DE MATIGNON,
 SON LIEUTENANT GÉNÉRAL AU GOUVERNEMENT DE NORMANDIE.
 
 <rs type="personne-pouvoir">Mons<hi rend="sup">r</hi> de Matignon</rs>, je n'ay que adjouster
@@ -1091,7 +1091,7 @@ le <hi style="font-variant: small-caps">xxi</hi> de febvrier 1563 (1564).
 
 Orig. Papiers des anciens seigneurs de Saint-Sulpice.
 
-A MONSIEUR DE SAINT-SULPICE.
+À MONSIEUR DE SAINT-SULPICE.
 
 <handDesc>
  <handNote xml:id="Cath">Catherine de Médicis.</handNote>
@@ -1370,7 +1370,7 @@ Bibl. nat. Copie. Fonds Dupuy, n° 523, fos 77 et suiv. —
 Minute. Bibl. nat. fonds français, n° 3899, fos 61 et suiv.
 et n° 15879, f° 79.
 
-A MONSIEUR DE SAINT-SULPICE.
+À MONSIEUR DE SAINT-SULPICE.
 
 J'ay tousjours actendu à vous renvoyer vostre
 <rs type="personne-pouvoir">secrétaire</rs> à quand <rs type="personne-pouvoir">Don Francesco d'Alava</rs>
@@ -1599,7 +1599,7 @@ le <hi style="font-variant: small-caps">xxvi</hi><hi rend="sup">e</hi> jour de f
 
 Copie. Bibl. nat., Fonds Dupuy, n° 357, f° 259 v°.
 
-[A MONSIEUR DE RENNES.]
+[À MONSIEUR DE RENNES.]
 
 La reformation, au jugement de beaucoup
 de gens de bien et de bons catholiques, n'a
@@ -1651,7 +1651,7 @@ encore pour quelque temps.
 
 Orig. Bibl. nat. Cinq cents Colbert, n° 390, f° 269 et suiv.
 
-A MONSIEUR DE RENNES.
+À MONSIEUR DE RENNES.
 
 Monsieur de Renes, il ne fault poinct que
 je vous dye combien m'a esté agréable la dépesche
@@ -1915,7 +1915,7 @@ l'Ordre, et qui est compris au traicté de paix.
 
 Orig. Bibl. nat. ancien fonds français, n° 3181, f° 49 r°.
 
-A MONSIEUR L'ÉVESQUE DE RENNES.
+À MONSIEUR L'ÉVESQUE DE RENNES.
 
 Monsr de Renes, oultre le contenu en mon
 autre lectre, qui va avec la présente, j'ay bien
@@ -2007,7 +2007,7 @@ le <hi style="font-variant: small-caps">xxviii</hi><hi rend="sup">e</hi> jour de
 
  Copie. Bibl. nat. collect. Housseau, t. X, n° 4383.
 
- A MONSIEUR LE COMTE DU LUDE.
+ À MONSIEUR LE COMTE DU LUDE.
 
  Monsieur du Lude, vous verrez ce que le
  Roy monsieur mon filz vous escript d'ung advis
@@ -2077,7 +2077,7 @@ ou de la ville selon que dessus est dict.
 
  Orig. Arch. de Bourges.
 
- A MONSIEUR DE CHEMEAUX,
+ À MONSIEUR DE CHEMEAUX,
  CHEVALIER DB L'ORDRS DU ROY MONSIEUB MON FILS.
 
  Monsieur de Chemeault, vous verrez ce que
@@ -2188,7 +2188,7 @@ Vostre bonne et afectioné mère et seur,
 
 Orig. Archives du Palais de justice de Lyon.
 
-A MONSIEUR DE MAUGIRON.
+À MONSIEUR DE MAUGIRON.
 
 Monsr de Maugiron, aiant Montbrun faict
 entendre au Roy, monsieur mon filz, et à
@@ -2433,7 +2433,7 @@ CATERLNE.
 
  Copie. Bibl. nat. fonds français, n°10735, f°8.
 
- A MONSIEUR DU FERRIER.
+ À MONSIEUR DU FERRIER.
 
  Monsieur du Ferrier, tout ainsi qu'il vous
  avoit par cy-devant esté mandé ne vous faire
@@ -2649,7 +2649,7 @@ de plaisir et contentement comme si c'estoyt
 
  Orig. Bibl. nat. fonds français, n° 4632, f° 109.
 
- A MONSIEUR DE TAVANNES,
+ À MONSIEUR DE TAVANNES,
  LIEUTENANT GÉNÉRAL DU IIOY AU GOUVERNEMENT DE BOURGOGNE.
 
  Monsieur de Tavanes, je ne vous feray
@@ -2907,7 +2907,7 @@ ledict sieur de Myrepoys, et, ladicte information
 Orig. Bibl. nat., Fonds français, n° i6013, fo 2.
 Copie. Bibl. nat., Fonds français, n° 16013, fo 8 ro.
 
-A MONSIEUR DE BELLIEVRE.
+À MONSIEUR DE BELLIEVRE.
 
 Monsieur Bellievre, pour ce que le Roy
 monsieur mon filz vous veult employer en
@@ -2981,7 +2981,7 @@ sieur et filz cognoisse de plus en plus la
 
 Orig. Papiers des anciens seigneurs de Saint-Sulpice.
 
-A MONSIEUR DE SAINT-SULPICE.
+À MONSIEUR DE SAINT-SULPICE.
 
 Monsr de St-Supplice, depuis le partement
 de celui de vos gens que je vous ai faict renvoier
@@ -3080,7 +3080,7 @@ Orig. Bibl. nat. Cinq cents Colbert, n° 390, f° 277 et suiv.
 Imprimé. — Mémoires de Castelnau, addit. de Le Laboureur,
 t. <hi style="font-variant: small-caps">i</hi><hi rend="sup">er</hi>, p. 786.
 
-A MONSIEUR L'ÉVESQUE DE RENNES
+À MONSIEUR L'ÉVESQUE DE RENNES
 
 Monsieur de Rennes, depuys le parlement
 de Plumelet, que je vous ay renvoyé au commencement
@@ -3299,7 +3299,7 @@ que vous sçaurez très bien ensuyvre
 
  Orig. Archives du Rhône.
 
- A MONSIEUR DE MAUGIRON,
+ À MONSIEUR DE MAUGIRON,
  LIEUTENANT GENERAL AU GOUVERNEMENT DE DAUPHINÉ.
 
 Monsieur de Maugiron, par la lettre que le
@@ -3366,7 +3366,7 @@ que désirés.
 
 Aut. Papiers des anciens seigneurs de Saint-Sulpice.
 
-A MONSIEUR DE SAINT-SULPICE.
+À MONSIEUR DE SAINT-SULPICE.
 
 Monsr de Saynt-Suplice, ynsin come je
 vous depechès set pourteur, j'é ayté avertie de
@@ -3451,7 +3451,7 @@ que le desire</rs>
 qrig. Bibl. nat. Cinq cents Colherl, n° 3po, f° 283.
 — Copie. Fonds français, n° 1783'2, f° 62.
 
-A MONSIEUR L'ÉVESQUE DE RENNES.
+À MONSIEUR L'ÉVESQUE DE RENNES.
 
 Monsieur de Rennes, je ne me suis pas fort
 hastée de faire response à vostre lettre du llUe
@@ -3552,7 +3552,7 @@ cinq cens soixante quatre après Pasques.
 
 Orig. Bibl. nat. fonds français, n° 4632, f° 111.
 
-A MONSIEUR DE TAVANNES,
+À MONSIEUR DE TAVANNES,
 LIEUTENANT GÉNÉRAL DU BOT AU GOUVERNEMENT DE BOURGOGNE.
 
 Monsieur de Tavannes, suivant ce que le
@@ -3684,7 +3684,7 @@ Orig. Bibl. nat. Cinq cents Colbert, n° 3go , P 28. —
 Imprimé, — Mémoires de Castelnau, addit. de Le Laboureur,
 t. <hi style="font-variant: small-caps">ii</hi>, p. 310.
 
-A MONSIEUR DE RENNES.
+À MONSIEUR DE RENNES.
 
 Monsieur de Renes, vous verrez, par la
 lettre que vous escript le Roy monsieur mon
@@ -3760,7 +3760,7 @@ sa saincte garde.
 
 Orig. British Muséum; mss. addit. n° îaogi, f 11.
 
-A MONSIEUR DE MATIGNON.
+À MONSIEUR DE MATIGNON.
 
 Monsieur de Matignon, n'ayant riens pour
 ceste heure à adjouster à la lettre que vous
@@ -3792,7 +3792,7 @@ Escript à Troyes, le <hi style="font-variant: small-caps">xiii</hi><hi rend="su
 
 Copie. Bibl. nat. fonds français, n° 10735, f° 88.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur le Président, je vous prie incon-
 tinent la présente veue de recepvoir une
@@ -3852,7 +3852,7 @@ Vostre bonne cousine,
 
 Orig. Bibl. nat. fonds français, n° A632 , P il m.
 
-A MONSIEUR DE TAVANNES,
+À MONSIEUR DE TAVANNES,
 LIEUTENANT GENERAL DU BOY AU GOUVERNEMENT DE BOURGOGNE.
 
 Monsieur de Tavannes, auparavant que je
@@ -3947,7 +3947,7 @@ Escript à Troye, le <hi style="font-variant: small-caps">xv</hi><hi rend="sup">
 
 Arch. nat. collect. Simancas, B 18, K 1501, pièce n° 75.
 
-A MONSIEUR MON FILS
+À MONSIEUR MON FILS
 LE ROY CATOLIQUE
 
 <rs type="famillepouvoir">Monsieur mon fils</rs>, voyent come nous avés
@@ -3991,7 +3991,7 @@ de contentement que en désirés.
 
 Copie. Bibl. nat. fonds français, n° 10735, f° 12 v°.
 
-A MONSIEUR DU FERRIER,
+À MONSIEUR DU FERRIER,
 AMBASSADEUR À VENISE.
 
 <rs type="personne-pouvoir">Monsieur du Ferrier</rs>, par la lettre que <rs type="famillepouvoir">le Roy
@@ -4065,7 +4065,7 @@ Escript à Troyes, le <hi style="font-variant: small-caps">xv</hi><hi rend="sup"
 
 Orig. Bibl. nat. fonds français, n° 3206, f° 1 r°.
 
-A MONSIEUR D'ESCARS
+À MONSIEUR D'ESCARS
 
 <rs type="personne-pouvoir">Monsieur d'Escars,</rs> vous entendrez par la
 dépesche que le <rs type="famillepouvoir">Roy monsieur mon fils</rs> vous
@@ -4174,7 +4174,7 @@ qu'il vous ait en sa saincte et digne garde. Escript
 
 Orig. Papiers des anciens seigneurs de Saint-Sulpice.
 
-A MONSIEUR DE SAINT-SUPLICE.
+À MONSIEUR DE SAINT-SUPLICE.
 CHEVALIER DE L'ORDRE DU ROY MON FILZ
 ET SON AMBASSADEUR EN ESPAGNE
 
@@ -4291,7 +4291,7 @@ De Troye, ce <hi style="font-variant: small-caps">xvi</hi><hi rend="sup">e</hi> 
 
 Copie. Bibl. nat. fonds français, n° 17832, f° 66.
 
-A MONSIEUR L'AMIRAL DE CHATILLON.
+À MONSIEUR L'AMIRAL DE CHATILLON.
 
 <rs type="famillepouvoir">Mon cousin</rs>, j'ay receu les deux lectres que
 m'avez escriptes des <hi style="font-variant: small-caps">vii</hi>et douziesme de ce
@@ -4420,7 +4420,7 @@ en sa saincte garde.
 
 Orig. British Museum, mss. addit. n° 12094, f° 12.
 
-A MONSIEUR DE MATIGNON,
+À MONSIEUR DE MATIGNON,
 LIEUTENANT DU ROY AU GOUVERNEMENT DE NORMANDIE.
 
 <rs type="personne-pouvoir">Monsieur de Matignon</rs>, <rs type="famillepouvoir">le Roy monsieur
@@ -4451,7 +4451,7 @@ Escript à Bar le Duc, le <hi style="font-variant: small-caps">III</hi><hi rend=
 
 Orig. Archives du Palais de justice de Lyon.
 
-A MONSIEUR DE MAUGIRON
+À MONSIEUR DE MAUGIRON
 
 <rs type="personne-pouvoir">Monsieur de Maugiron</rs>, j'ay receu la lettre
 que vous m'avez escripte par ce porteur, par
@@ -4487,7 +4487,7 @@ Escript à Bar le Duc, le <hi style="font-variant: small-caps">vi</hi><hi rend="
 
 Minute. Bibl. nat. fonds français, n° 15880, f° 141.
 
-A MONSIEUR DE ST SULPICE.
+À MONSIEUR DE ST SULPICE.
 
 <rs type="personne-pouvoir">Monsieur de S<hi rend="sup">t</hi> Sulpice</rs>, la lettre du <rs type="famillepouvoir">Roy
 monsieur mon filz</rs> est si ample qu'elle me
@@ -4566,7 +4566,7 @@ Langres, le <hi style="font-variant: small-caps">xv</hi><hi rend="sup">e</hi> jo
 
 Copie. Bibl. nat. fonds français, n° 10735, f° 21 r°.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 <rs type="personne-pouvoir">Monsieur du Ferrier</rs>, vous verrez par les
 lectres que <rs type="famillepouvoir">le Roy monsieur mon filz</rs> vous
@@ -4675,7 +4675,7 @@ Orig. Bibl. nat. Cinq cents Colbert, n° 390, f°s 291 et suiv.
 Imprimé. — Mémoires de Castelnau, addit. de Le Laboureur, t. II,
 p. 331.
 
-A MONSIEUR DE RENNES.
+À MONSIEUR DE RENNES.
 
 <rs type="personne-pouvoir">Monsieur de Rennes</rs>, j'ai receu les troys
 dépesches que m'avez faictes des <hi style="font-variant: small-caps">xxv</hi> mars,
@@ -4815,7 +4815,7 @@ Escript à Dijon, le jour <hi style="font-variant: small-caps">xxiii</hi><hi ren
 
 Copie. Bibl. nat. fonds français, n° 10735, f° 19 v°.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 <rs type="personne-pouvoir">Monsieur du Ferrier</rs>, vous verrez ce que <rs type="famillepouvoir">le
 Roy monsieur mon filz</rs> escript présentement
@@ -4915,7 +4915,7 @@ Dijon, le <hi style="font-variant: small-caps">xxvi</hi><hi rend="sup">e</hi> jo
 Orig. Bibl. nat., Fonds français, n° 16013, f° 10.
 Copie. Bibl. nat., Fonds français, n° 16012, f° 20 v°.
 
-A MONSIEUR DE BELLIEVRE.
+À MONSIEUR DE BELLIEVRE.
 
 <rs type="personne-pouvoir">Monsieur Bellievre</rs>, <rs type="personne-famillepouvoir">le Roy monsieur mon
 filz</rs> demeure bien satisfaict <rs type="passage-pouvoir">du commancement
@@ -5065,7 +5065,7 @@ Orig. Bibl. nat. Cinq cents Colbert, n° 390, f° 295.
 Imprimé dans les Additions aux Mémoires de Castelnau,
 par Le Laboureur, t. I, p. 787.
 
-A MONSIEUR L'ÉVESQUE DE RENNES.
+À MONSIEUR L'ÉVESQUE DE RENNES.
 
 <rs type="personne-pouvoir">Monsieur de Renes</rs>, depuys ma dernière dépesche
 qui a esté du <hi style="font-variant: small-caps">xxiii</hi><hi rend="sup">e</hi> du passé, j'en ay
@@ -5269,7 +5269,7 @@ serviteur de la couronne.
 Imprimé dans l'Information contre Mademoiselle de Limeuil,
 par le duc d'Aumale, s. l. n. d., in-4°.
 
-A MONSIEUR DE VENTOUX,
+À MONSIEUR DE VENTOUX,
 GOUVERNEUR D'AUXONNE.
 
 <rs type="personne-pouvoir">Monsieur de Ventoux</rs>, <rs type="famillepouvoir">le Roy monsieur
@@ -5290,7 +5290,7 @@ A Mascon, ce <hi style="font-variant: small-caps">viii</hi> jour de juin 1564.
 
 Copie. Bibl. nat. fonds français, n° 10735, f° 25.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 <rs type="personne-pouvoir">Monsieur du Ferrier</rs>, vous verrez par ce
 que <rs type="famillepouvoir">le Roy monsieur mon filz</rs> vous escript
@@ -5354,7 +5354,7 @@ de juin mil cinq cens soixante et quatre.
 
 Minute. Bibl. nat. fonds français, n° 16039, fos 21 et suiv.
 
-A MONSIEUR DE VILLEPARISIS.
+À MONSIEUR DE VILLEPARISIS.
 
 <rs type="personne-pouvoir">Monsieur de Villeparisis</rs>, encores que par
 l'instruction du <rs type="personne-pouvoir">s<hi rend="sup">r</hi> de Villeroy</rs> vous soyez amplement
@@ -5529,7 +5529,7 @@ de la précédence.
 
 Orig. Bibl. nat., Fonds français, n° 16013, f° 17. - Copie. Bibl. nat., Fonds français, n° 16012, f° 32 v°.
 
-A MONSIEUR DE BELLIEVRE.
+À MONSIEUR DE BELLIEVRE.
 
 <rs type="personne-pouvoir">Monsieur Bellievre</rs>, <rs type="personne-famillepouvoir">le Roy monsieur mon
 filz</rs> vous faict si ample responce sur le contenu
@@ -5568,7 +5568,7 @@ Escript à Lyon, le <hi style="font-variant: small-caps">xvii</hi><hi rend="sup"
 
 Orig. Bibl. nat. fonds français. n° 4632, f° 113.
 
-A MONSIEUR DE TAVANNES,
+À MONSIEUR DE TAVANNES,
 LIEUTENANT GÉNRAL DU ROY AU GOUVERNEMENT DE BOURGOGNE.
 
 <rs type="personne-pouvoir">Monsieur de Tavannes</rs>, sur ce que <rs type="famillepouvoir">mon
@@ -5609,7 +5609,7 @@ Escript à Lyon, le <hi style="font-variant: small-caps">xvii</hi><hi rend="sup"
 
 Orig. Bibl. nat. fonds français, n° 3178, f° 33.
 
-A MONSIEUR D'HUMIÈRES,
+À MONSIEUR D'HUMIÈRES,
 CHEVALIER DE L'ORDRE DU ROT MONSIEUR MON FILS ,
 LIEUTENANT GÉNÉRAL EN SON GOUVERNEMENT DE PICARDIE.
 
@@ -5665,7 +5665,7 @@ Escript à Lion, le<hi style="font-variant: small-caps">xvii</hi><hi rend="sup">
 
 Copie. Imprimé. — Mémoires de Condé, t. V.
 
-A MONSIEUR D'ANDELOT.
+À MONSIEUR D'ANDELOT.
 
 J'ai été bien marrie d'entendre, par une
 lettre écrite du <hi style="font-variant: small-caps">xiv</hi><hi rend="sup">e</hi>de ce mois, ce qui est
@@ -5752,7 +5752,7 @@ juin 1564.
 Minute. Bibl. imp. de Saint-Pétersbourg. Documents français,
 vol. ni, f° 137.
 
-A MONSIEUR DE ST SULPICE.
+À MONSIEUR DE ST SULPICE.
 
 <rs type="personne-pouvoir">Monsieur de S<hi rend="sup">t</hi> Sulpice</rs>, puisqu'il plaist à
 Dieu nous: sommes arrivez dans Lion, où l'on
@@ -5817,7 +5817,7 @@ De Lion, le <hi style="font-variant: small-caps">xiii</hi>juin 1564.
 
 Minute. Bibl. nat. fonds français, n° 15880 , f° 178.
 
-A MONSIEUR DE ST SULPICE.
+À MONSIEUR DE ST SULPICE.
 
 <rs type="personne-pouvoir">Monsieur de S<hi rend="sup">t</hi> Sulpice</rs>, estant <rs type="personne-pouvoir">le jeune
 l'Aubespine</rs> prest à partir, <rs type="personne-pouvoir">Don François de
@@ -6021,7 +6021,7 @@ de juing.
 
 Copie. Bibl. nat. fonds français, n° 10735, f° 36.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 <rs type="personne-pouvoir">Monsieur du Ferrier</rs>, je n'ay pas voulu
 laisser partir <rs type="personne-pouvoir">Marc Vidal, présent porteur</rs>, sans
@@ -6058,7 +6058,7 @@ Lyon, le <hi style="font-variant: small-caps">xxvi</hi><hi rend="sup">e</hi>jour
 Orig. Bibl. nat. Cinq cents Colbert, n° 390, f° 301.
 — Copie, fonds français, n° 17832, f° 78 v°.
 
-A MONSIEUR DE RENNES,
+À MONSIEUR DE RENNES,
 SON AMBASSADEUR PAR DEVERS L’EMPEREUR.
 
 <rs type="personne-pouvoir">Monsieur de Rennes</rs>, mes deux dernières
@@ -6281,7 +6281,7 @@ et à nostre Signeur vous donner set que desirez.
 
 Copie. Bibl. nat. fonds français, n° 10735, f° 31 v°.
 
-A MONSIEUR DU FERRIER,
+À MONSIEUR DU FERRIER,
 AMBASSADEUR À VENISE.
 
 <rs type="personne-pouvoir">Monsieur du Ferrier</rs>, vous verrez ce que <rs type="famillepouvoir">le
@@ -6439,7 +6439,7 @@ De Cremyeu, le <hi style="font-variant: small-caps">xii</hi><hi rend="sup">e</hi
 Orig. Bibl. nat., Fonds français, n° 16013 , f° 25.
 Copie. Bibl. nat., Fonds français, n° 16012 , f° 38 r°.
 
-A MONSIEUR DE BELLIEVRE.
+À MONSIEUR DE BELLIEVRE.
 
 <rs type="personne-pouvoir">Monsieur Beclievre</rs>, vous sçaurez par la
 lettre commune, l'intention du <rs type="famillepouvoir">Roy monsieur
@@ -6511,7 +6511,7 @@ Orig. Bibl. nat. Cinq cents Colbert, n° 390, f 305 r°.
 — Imprimé dans les Mémoires de Castelnau, addit. de Le Laboureur,
 t. II, p. 445.
 
-A MONSIEUR DE RENNES.
+À MONSIEUR DE RENNES.
 
 <rs type="personne-pouvoir">Monsieur de Rennes</rs>, j'ai esté bien aise
 d'entendre par vostre lettre du <hi style="font-variant: small-caps">xiiii</hi>du passé,
@@ -6605,7 +6605,7 @@ tout nétoyer.</p>
 
 Orig. Bibl. nat. fonds français, n° 3178, f° 24.
 
-A MONSIEUR D'HUMIÈRES,
+À MONSIEUR D'HUMIÈRES,
 CHEVALIER DE L'ORDRE DU ROY MONSIEUR MON FILZ,
 ET SON LIEUTENANT GÉNÉRAL AU GOUVERNEMENT DE PICARDIE.
 
@@ -6835,7 +6835,7 @@ Orig. Bibl. nat. Cinq cents Colbert, n° 390, f" 3og.
 — Imprimé dans les Mémoires de Castelnau, addit. de Le Laboureur,
 t. I, p. 789.
 
-A MONSIEUR DE RENNES.
+À MONSIEUR DE RENNES.
 
 Monsieur de Rennes, vostre lettre du XVIIe de
 juing est arrivée depuis la response que je vous
@@ -6930,7 +6930,7 @@ DE L'AUBESPINE.
 
 Copie. Bibl. nat. fonds français, UO 10735, f° 3a r°.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, vous verrez ce que le
 Roy monsieur mon filz vous escript présente-
@@ -6956,7 +6956,7 @@ Escript à Roussillon, le xxvme jour de juillet
 Orig. Bibl. nat., Fonds français, n° 16013, f" 3a.
 Copie. Bibl. nat., Fonds français, n° 16012, f" 39 rO.
 
-A MONSIEUR DE BELLIEVRE,
+À MONSIEUR DE BELLIEVRE,
 COHSEILLDEUnROfMONSIEUMRONFILZETLIEUTENAGNETNERAL
 EULASEIÏEGHAUSDSEELEYONVAIS.
 
@@ -7086,7 +7086,7 @@ nous fayra la grase et donner à Vostre
 
 Orig. BibI. nat. Cinq cents Colbert, n° 390, p. 325.
 
-A MONSIEUR DE RENNES.
+À MONSIEUR DE RENNES.
 
  Monsieur de Rennes, tout à ceste heure j'ay
  receu vostre lettre et entendu la mort de l'Empereur,
@@ -7113,7 +7113,7 @@ dont j'ay esté fort ennuyée et pour faire
 
 Orig. Bibl. de Nantes.
 
- A MONSIEUR DE JARNAC,
+ À MONSIEUR DE JARNAC,
 CHEVALIER DE L'ORDRE DU ROY MONSIEUR MON FILZ,
 ET SON LIEUTENANT AU GOUVERNEMENT DE LA ROCHELLE
 EN L'ABSENCE DE MON FILZ LE PRINCE DE NAVARRE.
@@ -7191,7 +7191,7 @@ MARÉCHAL DE FRANCE.
 
 Orig. Communiqué par Madame de Fourquevaux.
 
- A MONSIEUR DE FOURQUEVAULX,
+ À MONSIEUR DE FOURQUEVAULX,
  GENTILHOMME DE LA CHAMBRE DU ROY MONSIEUR MON FILZ,
  ET GOUVERNEUR DE NARBONNE.
 
@@ -7257,7 +7257,7 @@ je ne vous en diray rien davantage par la
 
  Copie. BibI. nat. fonds français, n° 10735 , fo, 36 el 37.
 
- A MONSIEUR DU FERRIER.
+ À MONSIEUR DU FERRIER.
 
  Monsieur du Ferrier, par la lettre que le Roy
  monsieur mon filz vous escript présentement
@@ -7302,7 +7302,7 @@ doulcement icy les affaires du Languedoc,
 
  Orig. Bibl. nat. Cinq cents Colbert, n° 390, f° 329.
 
- A MONSIEUR DE RENNES.
+ À MONSIEUR DE RENNES.
 
  Monsieur de Rennes, si tost que nous
  eusmes receu voz lettres, portant advertissement
@@ -7527,7 +7527,7 @@ qu'il vous ayt en sa très saincte et digne
 
 Orig. Papiers des anciens seigneurs de Saint-Sulpice.
 
-A MONSIEUR DE SAINT-SULPICE.
+À MONSIEUR DE SAINT-SULPICE.
 
 Monsieur de Saint-Sulpice, le Roy monsr
 mon fils repond à la plus grande partie de la
@@ -7614,7 +7614,7 @@ Et plus bas : DE L'AuBESPINE.
 
 Orig. Imprimé par M. Cabiédans son Ambassadeen Espagne, p. s85.
 
-A MONSIEUR DE SAINT-SULPICE.
+À MONSIEUR DE SAINT-SULPICE.
 
 Monsr de Saint-Sulpice, si tost que le jeune
 L'Aubespine a esté arrivé et que j'ai sceu
@@ -7698,7 +7698,7 @@ Et plus bas: DE L'AUBESPINE.
 Orig. Bibl. nat. , Fends français, n° 16013, f° 34.
 Copie. Bibl. nat., Fonds français, n° 1601s, f" 42 vO.
 
-A MONSIEUR DE BELLIEVRE.
+À MONSIEUR DE BELLIEVRE.
 
 Monsieur Bellievre, j'ay receu voz lettres,
 à quoy je ne feray plus longue responce,
@@ -7721,7 +7721,7 @@ Et plus bas : DELAUBESPINE.
 
 Aut. Imprimé dans VAmbassadeen Etpagne, p. 988.
 
-A MONSIEUR DE SAINT-SULPICE.
+À MONSIEUR DE SAINT-SULPICE.
 
 Monsr de Saint-Suplise, j'é entendu par
 L'Aubespine comme l'on veult envoyer Rouy
@@ -7798,7 +7798,7 @@ le requiert, me gardera de vous faire plus
 
  Copie. Bibl. nat. fonds français, n° 10735, f° 5o.
 
- A MONSIEUR DU FERRIER.
+ À MONSIEUR DU FERRIER.
 
  Monsieur du Ferrier, je vous envoye une
  petite dépesche que je veulx que vous faictes
@@ -7827,7 +7827,7 @@ Dieu, Monsieur du Ferrier, qu'il vous ayt en
 
  Orig. Bibl. nat. Cinq cents Colbert, n° 390, f" 333.
 
- A MONSIEUR DE RENNES.
+ À MONSIEUR DE RENNES.
 
  Monsieur de Rennes, l'allée par delà du
  jeune de Morette et une autre dépesche que je
@@ -7879,7 +7879,7 @@ en vostre dicte lettre, et le plus grant
 
 Orig. Communiqué par Madame la marquise de Fourquevaux.
 
-A MONSIEUR DE FOURQUEVAULX,
+À MONSIEUR DE FOURQUEVAULX,
 CHEVALIER DE L'ORDRE DU ROY MONSIEUR MON FILS
 ET GOUVERNEUR DE NARBONNE.
 
@@ -7920,7 +7920,7 @@ Escript à Romans, le XIXe jour d'aoust 1564.
 
 Minute. Bibi. nat. fonds français, n° 15880, f° 251.
 
-A MONSIEUR DE ST-SULPICE.
+À MONSIEUR DE ST-SULPICE.
 
 Monsieur de St Sulpice, je vous ay voulu
 envoyer ce courrier en toute dilligence, tant
@@ -7966,7 +7966,7 @@ Vallence, ce… jour d'aoust 1564.
 
 <p>Copie. Bibl. nat. collect. Housseau, l. X, n° 4380.</p>
 
-<p>A MONSIEUR LE COMTE DU LUDE.</p>
+<p>À MONSIEUR LE COMTE DU LUDE.</p>
 
 <p>Monsieur du Lude, vous entendrez l'occasion
 de la despesche que vous faict le Roy
@@ -8123,7 +8123,7 @@ que j'ay accoustumé d'avoir les bons
 
 Orig. Communiqué par Madame la marquise de Fourquevaulx.
 
-A MONSIEUR DE FOURQUEVAULX,
+À MONSIEUR DE FOURQUEVAULX,
 CHEVALIER DE L'ORDRE DU ROY MONSIEUR MON FILZ,
 GOUVERNEUR DE NARBONNE.
 
@@ -8178,7 +8178,7 @@ De [Valence], le XXXe jour d'aoust 1564.
 Orig. Bibl. nat., Fonds français, n* 16013, P 35.
 Copie. Bibl. nat., Fonds français, n° 16013, f" 49 v°.
 
-A MONSIEUR DE BELLIEVRE,
+À MONSIEUR DE BELLIEVRE,
 CONSEILLDEUEBOTMOWSIEMUBONFILZ, ETANDTEPRESENT
 POURsas AFFAIRE1SCOTEE.
 
@@ -8277,7 +8277,7 @@ Orig. Bibl. nat. Cinq cents Colbert, n° 390, f° 339 et suiv.
 — Imprimé dans les Additions aux Mémoires de Castelnau,
 par Le Laboureur, t. II, p. 339.
 
-A MONSIEUR DE RENNES.
+À MONSIEUR DE RENNES.
 
 Monsieur de Rennes, vostre lettre du XIIe de
 ce mois, que je receuz hyer, m'a grandement
@@ -8393,7 +8393,7 @@ DE L'AUBESPINE.
 
  Orig. Bibl. nat. fonds français, n° 8178, t" 25 r°.
 
- A MONSIEUR D'HUMIÈRES,
+ À MONSIEUR D'HUMIÈRES,
  CHEVALIER DE L'ORDRE DU- ROY MONSIEUR MON FILS,
  SON LIEUTENANT GÉNÉRAL AU GOUVERNEMENT DE PICARDIE.
 
@@ -8560,7 +8560,7 @@ le repos, unyon et pacification de ladicte
 
 Orig. Publié par M. Cabié, dans son Ambassade en Espagne, p. 296.
 
-A MONSIEUR DE SAINT-SULPICE.
+À MONSIEUR DE SAINT-SULPICE.
 
 Mr de St-Sulpice, comme le danger grand
 auquel je sçavois estre la Royne catholique,
@@ -8671,7 +8671,7 @@ Et plus bas : <hi style="font-variant: small-caps">Delaubespine</hi>.
 
 Copie. Bibl. nat. fonds français, n° 10735, f° 46 r°.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, par la dépesche que
 le Roy monsieur mon filz vous faict présentement
@@ -8860,7 +8860,7 @@ Vostre bonne cousine,
 
 Orig. Bibl. nat. Cinq cents Colbert, n° 390, f° 345.
 
-A MONSIEUR DE RENNES.
+À MONSIEUR DE RENNES.
 
 Monsieur de Rennes, s'en allant le sr de
 Lanssac, chevalier de l'ordre et conseiller du
@@ -8929,7 +8929,7 @@ Vostre bonne cousine,
 Archives de la maison de Polignac.
 Copie transmise par M. de Merval.
 
-A MONSIEUR DE SENARPONT,
+À MONSIEUR DE SENARPONT,
 CHEVALIER DE L'ORDRE DU ROY MONSIEUR MON FILZ,
 ET SON LIEUTENANT GENERAL AU GOUVERNEUBNT DE PIGARDYE.
 
@@ -8970,7 +8970,7 @@ septembre 1564.
 
  Minute. Bibl. nat. fonds français, n° 15880, f° 273.
 
- A MONSIEUR DE ST SULPICE.
+ À MONSIEUR DE ST SULPICE.
 
  Monsieur de St Sulpice, le Roy monsieur
  mon filz escript au roy monsieur mon beau-fils
@@ -9072,7 +9072,7 @@ Vostre bonne cousine,
 Orig. Bibl. nat., Fonds français, n° i6oi3, fa 48.
 Copie. Bibl. nat., Fonds français, na 160111, fa 53 Y".
 
-A MONSIEUR DE BELLIEVRE.
+À MONSIEUR DE BELLIEVRE.
 
 Monsieur de Bellievre, j'ay receu voz deux
 lettres des XVIIIe et xxe du passé, par où j'ai
@@ -9108,7 +9108,7 @@ Et plus bas : DELAUBESPINE.
 
 Orig. Bibl. nat. Cinq cents Colbert, n° 390, fos 347 et suiv.
 
-A MONSIEUR DE RENNES.
+À MONSIEUR DE RENNES.
 
 Monsieur de Rennes, comme j'actendois le
 retour de vostre homme pour estre plus esclarcy
@@ -9218,7 +9218,7 @@ que désirez. D'Avignon, le XIIIe jour d'octobre
 
 Orig. Bibl. nat. fonds français, n° 4632 f° 114.
 
-A MONSIEUR GASPAR DE SAULX,
+À MONSIEUR GASPAR DE SAULX,
 SEIGNEUR DE TAVANNES,
 LIEUTENANT GÉNÉRAL DU ROY AU GOUVERNEMENT DE BOURGOGNE.
 
@@ -9249,7 +9249,7 @@ Monsieur de Thavannes, ce que désirez. Escript
 
 Copie. Bibl. nat. fonds français, n° 10735, fa 50 1°.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, la présente ne sera que
 pour accompaigner celle que Monsieur mon
@@ -9271,7 +9271,7 @@ Ferrier, qu'il vous ait en sa saincte garde. Escript
 
 Gopie. Bibl. nat. collect. Rousseau, t. X, n° 4380.
 
-A MONSIEUR LE COMTE DU LUDE.
+À MONSIEUR LE COMTE DU LUDE.
 
 Monsieur le comte, je m'estonne grandement
 que, ayant eu advertissement de bien
@@ -9309,7 +9309,7 @@ Hyères, le XVIe jour d'octobre 1564.
 
 Copie. Bibl. nat. fonds français, n° 10735, f° 5i r°.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, j'escriptz à Monsieur
 de S1 Papol en faveur de monsieur le car-
@@ -9354,7 +9354,7 @@ le XVIIe jour d'octobre 15 6 h.
 
 Copie. Bibl. nat. fonds français, n° 10735, fO 51 rO.
 
-A MONSIEUR DE ST PAPOUL.
+À MONSIEUR DE ST PAPOUL.
 
 Monsieur de St Papol, vous sçavez le concor-
 dat qui s'est passé d'entre mon cousin le car-
@@ -9517,7 +9517,7 @@ Vostre bonne seur et cousine,
 
 Orig. Bibl. nat. fonds français, 16013, f" 75. ,
 
-A MONSIEUR DE BELLIEVRE,
+À MONSIEUR DE BELLIEVRE,
 CONSEILLER DU BOY MONSIEUR MON FILZ.
 
 Monsieur de Bellievre, j'ay entendu par
@@ -9754,7 +9754,7 @@ Vostre bonne cousine,
 
 Orig. Bibl. imp. de Saint-Pétersbourg, vol. 18, f" 58.
 
-A MONSIEUR DE MONLUC.
+À MONSIEUR DE MONLUC.
 
 Monsieur de Monluc, j'ay veu ce que m'a-
 vez escript touchant l'évesché de Condom1, à
@@ -9859,7 +9859,7 @@ Vostre bonne cousine,
 
 Copie. Bibl. nat. fonds français, n° i588o , f 337 r° et v..
 
-A MONSIEUR DE ST SULPICE.
+À MONSIEUR DE ST SULPICE.
 
 Monsieur de St Sulpice, par les mémoires
 qui vous sont envoyez et la bien ample lettre
@@ -9928,7 +9928,7 @@ estre entièrement effectuée.
 
 Orig. Bibl. nat. ms. , fonds français, n11 16013, Í" 86.
 
-A MONSIEUR DE BELLIEVRE,
+À MONSIEUR DE BELLIEVRE,
 CONSEILLER. DU ROY MONSIEUR MON PILZ.
 
 Monsieur de Bellievre, nous avons sceu par
@@ -10002,7 +10002,7 @@ je prieray le Créateur, très Saint-Père, etc.
 
 Copie. Bibl. nat. fonds français, n° i588i, fO 333 r°.
 
-A MONSIEUR
+À MONSIEUR
 LE CARDINAL DE LA BOURDAIZIERE.
 
 Monsieur le cardinal, nous avons veu par
@@ -10091,7 +10091,7 @@ saincte garde.
 
 Copie. Bibl. nat., Fonds français, n° 15881, f° 333.
 
-A MONSIEUR
+À MONSIEUR
 LE CARDINAL DE LA BOURDAIZIERE.
 
 Monsieur le cardinal, nous avons veu par
@@ -10182,7 +10182,7 @@ CATERINE
 
 Copie. Bibl. nat. fonds français, n° 10735, fos 58 v° et 59 r°.
 
-A MONSIEUR DU FERRIER,
+À MONSIEUR DU FERRIER,
 AMBASSADEUR À VENISE.
 
 Monsieur du Ferrier, par la lettre que le 
@@ -10238,7 +10238,7 @@ de ce qu'ilz auront coustés.
 
 Copie. Bibl. nat. fonds français, n" 15881, f" 8 VO et 9 r".
 
-A MONSIEUR DE MONLUC,
+À MONSIEUR DE MONLUC,
 LIEUTENANT GÉNÉRAL EN GUYENNE.
 
 Monsieur de Monluc, j'ai entendeu par le
@@ -10438,8 +10438,8 @@ se sont bien accommoddées en Provence et es-
 père que nous ne partirons poinct de ce pays
 sans y laisser semblablcment bon ordre ; pryant
 Dieu, mon cousin, vous donner ce que plus
-désirez. Escript à Nysmes 1, le XIlle jour de dé-
-cembre 156h.
+désirez. Escript à Nysmes, le <hi style="font-variant: small-caps">xiii</hi><hi rend="sup">e</hi> jour de décembre 
+1564.
 
 Vostre bonne cousine,
 
@@ -10449,7 +10449,7 @@ Vostre bonne cousine,
 
 1564. — 14 décembre.
 
-Copie. Arch. nat. registre du bureau de la Yille de Paris,
+Copie. Arch. nat. registre du bureau de la Ville de Paris,
 H 1785, p. 980.
 
 A MESSIEURS
@@ -10458,9 +10458,9 @@ DE LA VILLE DE PARIS.
 
 Messieurs, j'ay sceu par voz lettres que
 vous m'avez escriptes du dernier du passé la
-diligence que vous continuez à faire pour ad-
-vancer le recouvrement des deniers qui doib-
-vent venir de la ville de Paris, et comme vous
+diligence que vous continuez à faire pour advancer 
+le recouvrement des deniers qui doibvent 
+venir de la ville de Paris, et comme vous
 avez achevé de fournir ce qui estoit nécessaire
 pour Suisse, dont j'ay esté très ayse, aussi
 sont'il venus très à propos et auront esté très
@@ -10468,11 +10468,11 @@ utilement despendus, car, comme vous verrez
 par ce que le Roy monsieur mon filz vous es-
 cript, le renouvellement de l'alliance desdictz
 Suisses est accordé si advantageux, Dieu
-mercy, que nous avons grandement à les remer-
-cier, comme il désire qu'il en soit aussi faict
-démonstration par delà1. Priant Dieu, Mes-
-sieurs , vous avoir en sa garde. Escript à Nismes,
-le XIIII décembre 1564.
+mercy, que nous avons grandement à les remercier, 
+comme il désire qu'il en soit aussi faict
+démonstration par delà1. Priant Dieu, Messieurs, 
+vous avoir en sa garde. Escript à Nismes,
+le <hi style="font-variant: small-caps">xiiii</hi><hi rend="sup">e</hi> décembre 1564.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -10583,18 +10583,18 @@ que l'advis vienne de vous pour la difficulté
 que vous y présentez, j'en escritz au premier
 président et à la chambre, pour faire qu'ils
 cessent toute difficulté et ne nous remectent
-à remonstrances, car le retardement de la vé-
-rifficalion d'iceluy édict àl'estat que nous avons
+à remonstrances, car le retardement de la vériffication 
+d'iceluy édict à l'estat que nous avons
 faict des deniers qui en doyvent venir nous
 seroit fort préjudiciable. Et vous prie, mon
 cousin, tenir main qu'il ne soit poinct mis en
-longueur, car ilz ne sçauroient mectre remon-
-strance en avant qui n'ayt esté fort bien pré-
-veue et considérée en faisant ledict édict.
+longueur, car ilz ne sçauroient mectre remonstrance 
+en avant qui n'ayt esté fort bien préveue 
+et considérée en faisant ledict édict.
 
 Pryant Dieu, mon cousin, vous donner ce
-que désirez. De Montpellier, le xxvie jour de
-décembre 15 6 4.
+que désirez. De Montpellier, le <hi style="font-variant: small-caps">xxvi</hi><hi rend="sup">e</hi> jour de
+décembre 1564.
 
 (De sa main.) Mon cousin, depuis sete letre
 j'é reseu dé novelles de Paris et entendu par
@@ -10603,14 +10603,14 @@ prendre cet homme avoyst cuydé aporter heun
 grant truble en la ville, chause, mon cousin,
 
 qui nous ynporte teut et à vous, etent demeuré
-là, que je vous prie de mestre tel hourdre1 que
+là, que je vous prie de mestre tel hourdre que
 tele chause n'aviegne plus et que l'ons atende,
 mes que le Roy souit là, ceulx qui aunt occasion
 de demender justice et que en la leur fesant
 asteure, nous aytent2 se louin, pourest aporter
 remeument; ausi ne veulx atendre et que yl i
-en n'y é qui leur fase fayre pour avoyr auca-
-sion de troubler, de couté d'où sela vient.
+en n'y é qui leur fase fayre pour avoyr aucasion 
+de troubler, de couté d'où sela vient.
 
 Enqueré-vous en et m'an avertisés, car y ne
 peult ryen avenir en sete ville de Paris de mal
@@ -10622,8 +10622,8 @@ vray come les chauses sont et que je le vous
 renvoy ynstruyt de ma volanLé, et fayte sortir
 cet Rusé et tent d'estrenger qui n'ont poynt
 d'afayré de la ville, au si vous voyés que les
-chauses se brulase3 rendé les armes au prin-
-sipeaulx et favstes leur garder les portes en
+chauses se brulase3 rendé les armes au prinsipeaulx 
+et favstes leur garder les portes en
 natendent que soyons de retur, qui sera byen
 tost, set Dieu plest, et vous prie reguarder
 byen à set que vous mende; car de tout set
@@ -10644,34 +10644,34 @@ Minute. Bibl. nat. fonds français, n" i588o , f 35a.
 
 Copie. Fonds français, n° 3899 , CU, 107 et suiv.
 
-A MONSIEUR DE SAINT-SULPICE.
+À MONSIEUR DE SAINT-SULPICE.
 
 Monsieur de St Supplice, encores que nous
 n'avons pas grant occasion de vous faire ceste
-dépesche, sy n'ay-je poinct volu plus longue-
-ment Larder de vous advertir de l'arrivée du
+dépesche, sy n'ay-je poinct volu plus longuement 
+Larder de vous advertir de l'arrivée du
 sieur de Meru 1 et du brodeur de la royne ma
 fille par lesquelz vous m'avez faict plaisir de
 m'adverlir sy particulièrement de toutes choses
 de par delà. J'attendz en bonne dévotion
-la responce qui vous a esté faicte de la dé-
-pesche que vous porla dernièrement vostre
+la responce qui vous a esté faicte de la dépesche 
+que vous porla dernièrement vostre
 secrétaire et à celle du violon de la roine ma
-fille pour estre d'importance comme vous sça-
-vez. Ledict brodeur m'a rendu particulier
+fille pour estre d'importance comme vous sçavez. 
+Ledict brodeur m'a rendu particulier
 compte de beaucoup de choses que j'ay esté
 bien aise d'entendre; il s'en va jusques chez
-luy ung tour et d'icy à quelque temps je le ren-
-voyeray à la royne madicte fille. Vous voiez
+luy ung tour et d'icy à quelque temps je le renvoyeray 
+à la royne madicte fille. Vous voiez
 ce que se remue du costé de l'Italie, où il
 semble que soient en alarme; vous voiez les
 préparatifs que faict le roy mon beau-fils;
 ayez l'œil ouvert pour descouvrir là où cest
-orage se pourra adresser, affin de nous ad-
-vertir de bonne heure pour faire noz affaires,
+orage se pourra adresser, affin de nous advertir 
+de bonne heure pour faire noz affaires,
 vous advisant que., Dieu mercy, les affaires de
-ce royaulme continuent avecques telle tran-
-quillité que nous le pouvons désirer, meclant
+ce royaulme continuent avecques telle tranquillité 
+que nous le pouvons désirer, meclant
 peine d'accorder et accommoder si bien les
 affaires du Roy monsieur mon filz, tant pour
 la pacification et obéissance de ses subgectz
@@ -10679,20 +10679,20 @@ que pour l'acquit de ses debtes et achemine-
 ment pour estre à son ayse que j'espère, avec
 l'ayde de Dieu, avant peu d'années le mectre
 en tel estât, croissant d'aage, de sens et de
-vertu, que sa réputation et sa grandeur s'aug-
-mentera de tous costez, ne voulant faillir à
+vertu, que sa réputation et sa grandeur s'augmentera 
+de tous costez, ne voulant faillir à
 vous advertir comment nous avons certaine
 nouvelle par le mareschal de Vieilleville et
-l'évesque de Limoges que l'aliance a esté renou-
-vellée avec les Suisses encores plus a\antai-
-geuse que ne l'avoit le feu Roy monseigneur,
+l'évesque de Limoges que l'aliance a esté renouvellée 
+avec les Suisses encores plus avantaigeuse 
+que ne l'avoit le feu Roy monseigneur,
 car de treize canthons j'espère qu'il n'en y aura
 guière qui ne soil à nous, oultre l'asseurance
 que nous avons jà de tous les unze qu'avoit le
 feu.Roy mondict seigneur, quelques traverses et
 bricgues dont l'on ayt usé pour l'empescher.
 
-De Montpellier, ce xxvie de décembre 1564.
+De Montpellier, ce <hi style="font-variant: small-caps">xxvi</hi><hi rend="sup">e</hi> de décembre 1564.
 
 Caterine.
 
@@ -10704,13 +10704,13 @@ aultre chose; qui me faict désirer que mectez
 peine de sçavoir ce qu'il aura apporté. Depuis
 ceste lettre escripte il m'a semblé vous devoir
 advertir comme ceulx de ma ville de Baionne
-m'ont faict entendre, que, au moys de no-
-vembre dernier, ung Flamant y arriva, disant
+m'ont faict entendre, que, au moys de novembre 
+dernier, ung Flamant y arriva, disant
 y estre envoié par le roy mon frère pour
 acheter des carpes et des brochetz, lequel en
 achepta fort peu et finablement, après y avoir
-demeuré quelques six semaines, fut trouvé vi-
-sitant le partI.
+demeuré quelques six semaines, fut trouvé visitant 
+le partI.
  
 641226.LCM02.MONT.b
 
@@ -10722,19 +10722,19 @@ A MON COUSIN MONSIEUR DE BOISY.
 
 Mon cousin, j'ay bien voleu accompaigner de
 la présente la lettre que le Roy monsieur monfilz
-vous escript en faveur de Chicot1 que congnois-
-sez qui désire estre pourveu d'un estat de che-
-vaulcheur ordinaire de l'escurie du Roy mon-
-dict sieur et filz, au lieu et place d'un des troys
-chevaulcheurs qui ont commis quelque meur-
-tre, et par icelle vous prier luy vouloir accor-
-der l'un desdictz estatz et en faire expédier
+vous escript en faveur de Chicot1 que congnoissez 
+qui désire estre pourveu d'un estat de chevaulcheur 
+ordinaire de l'escurie du Roy mondict 
+sieur et filz, au lieu et place d'un des troys
+chevaulcheurs qui ont commis quelque meurtre, 
+et par icelle vous prier luy vouloir accorder 
+l'un desdictz estatz et en faire expédier
 vostre rescription, pour estre en vertu d'icelle
 pourveu, et vous me ferez plaisir bien agréable.
 
 Priant le Créateur, mon cousin, qu'il vous ait
 en sa saincte garde. Escript à Montpellier, le
-XXVIe jour de décembre 1564.
+<hi style="font-variant: small-caps">xxvi</hi><hi rend="sup">e</hi> jour de décembre 1564.
 
 Vostre bonne cousine,
 
@@ -10744,9 +10744,9 @@ Vostre bonne cousine,
 
 1564. — [28 décembre.]
 
-Minute. Biil. nat. fonds français, n° i588o , f° 410 r°.
+Minute. Bibl. nat. fonds français, n° 15880, f° 410 r°.
 
-A MONSIEUR DE JARNAC.
+À MONSIEUR DE JARNAC.
 
 Monsieur de Jarnac, vous nous avez faict
 peur de ce nombre de xxm personnes qui se
@@ -10761,8 +10761,8 @@ car vous sçavez les édictz et ordonnances du
 Roy monsieur mon filz et combien il importe
 pour l'entreténement de la république qu'ilz
 soient observez. Ceux de La Rochelle se sont
-monstrez tousjours si obéissantz que je m'as-
-seure qu'ilz ne contreviendront à chose qui
+monstrez tousjours si obéissantz que je m'asseure 
+qu'ilz ne contreviendront à chose qui
 leur seroit par vous commandée. Quant à
 vostre congé, le Roy monsieur mon filz l'a eu
 agréable1, pourveu que vous soyez de retour
@@ -10780,7 +10780,7 @@ pourra porter, et n'ayant de quoy vous faire la
 présente plus longue, je prieray Dieu, Mon-
 sieur de Jarnac, vous avoir en sa saincte et
 digne garde. De Montpellier, ce. jour de
-décembre 156ft.
+décembre 1564.
  
 641228.LCM02.MONT.b
 
@@ -10910,7 +10910,7 @@ Vostre bonne cousine,
 
 Orig. Papiers des seigneurs de Saint-Sulpice.
 
-A MONSIEUR DE SAINT-SULPICE,
+À MONSIEUR DE SAINT-SULPICE,
 CIlEVALIDImEL'O&DRDEUROYMONSIEUMRONFILI
 ETSOXAMBASSADEENUERSPAIGNE.
 
@@ -11144,7 +11144,7 @@ DE L'AUBESPINE.
 
 Minute. BibI. nat. fonds français, n° i588o, Pgi.
 
-A MONSIEUR DE MONLUC.
+À MONSIEUR DE MONLUC.
 
 Monsieur de Monluc, vous verrez par la
 lettre que le Roy monsieur mon filz vous es-
@@ -11202,7 +11202,7 @@ Vostre bonne cousine,
 
 Orig. Bibl. nat., Fonds français, n° 6605, f° 111.
 
-A MONSIEUR
+À MONSIEUR
 L'EVESQUE DE LIMOGES.
 
 Monsieur de Limoges, nous avons receu
@@ -11237,7 +11237,7 @@ Et plus bas : <hi style="font-variant: small-caps">De l0Aubespine.</hi>
 
 Minute. Bibl. nat. fonds français, u° 1588o, f, jOS.
 
-A MONSIEUR LE COMTE DE TENDE.
+À MONSIEUR LE COMTE DE TENDE.
 
 Mon cousin, le Roy monsieur mon filz et
 moy avons esté bien aises d'entendre la bonne
@@ -11308,7 +11308,7 @@ Vostre bonne cousine,
 
 Bibl. nat. fonds français, n° 3185, f° 83.
 
-A MONSIEUR DE MONTMORENCY,
+À MONSIEUR DE MONTMORENCY,
 MARÉCHAL DE FRANCE.
 
 Mon cousin, j'ay entendu par le sr de la
@@ -11360,7 +11360,7 @@ Vostre bonne cousine,
 
 Aut. Papiers des anciens seigneurs de Saint-Sulpice.
 
-A MONSIEUR DE SAINT-SULPICE.
+À MONSIEUR DE SAINT-SULPICE.
 
 Monsieur de Saint-Suplise, j'é veu vostre
 letre par set porteur, et depuis heun aultre
@@ -11531,7 +11531,7 @@ Vostre bonne cousine,
 
 Copie. Bibl. nat. fonds français, n° 15888, f° 234.
 
-A MONSIEUR PAUL DE FOIX,
+À MONSIEUR PAUL DE FOIX,
 AMBASSADEUR EN ANGLETERRE.
 
 Je vous prie, Monsieur de Foix, de faire entendre
@@ -11571,7 +11571,7 @@ endroict vous serez utile ministre.
 
 Bibl. nat., Fonds français, n° 6617, f° 178.
 
-[A MONSIEUR DE FOIX],
+[À MONSIEUR DE FOIX],
 AMBASSADEUR EN ANGLETERRE.
 
 ..... dont je ne puys attribuer l'occasion,
@@ -11633,7 +11633,7 @@ encores par delà.
 
 Copie. Bibl. nat., Fonds français, n° G6ai, f° io5.
 
-A MONSIEUR DE LYMOGES.
+À MONSIEUR DE LYMOGES.
 
 Monsieurde Limoges, je ne feray pas grande
 responce à vos lettres escriptes à Coulonges1,
@@ -11778,7 +11778,7 @@ DE L'AUBESPINE.
 
 Minute. Bibl. nal. fonds français, n° 16880 , fo 69 r°.
 
-A MONSIEUR DE MARTIGUES.
+À MONSIEUR DE MARTIGUES.
 
 Mon cousin, je vous escripvis dernièrement
 le regret que j'avoys de la mort de Monsieur
@@ -11943,7 +11943,7 @@ Vostre bonne cousine,
 
 Copie. Bibl. nat. fonds français, n° 1-0735, P 68 Y*.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, vous entendrez par la
 lectre du Roy monsieur mon filz une nouvelle
@@ -12144,7 +12144,7 @@ Vostre bonne cousine,
 
 Copie. Bibl. nat. fonds français, n° 10735, ru 66 v°.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, vous verrez la responce
 que le Roy monsieur mon filz faict présente-
@@ -12212,7 +12212,7 @@ Vostre bonne cousine,
 
 Orig. Bibl. nat. fonds français, n° 16013, f° 118.
 
-A MONSIEUR DE BEL LIÈVRE,
+À MONSIEUR DE BEL LIÈVRE,
 CONSEILLER DU ROY MONSIEUR MON FILZ.
 
 Monsieur de Bellièvre, le Roy monsieur
@@ -12344,7 +12344,7 @@ MARÉCHAL DE FRANCE,
 
 Orig. Bibl. de Rouen, fonds Leber, a0 5731.
 
-A MONSIEUR DE MATIGNON,
+À MONSIEUR DE MATIGNON,
 CHEVALIER DE L'ORDRE ET LIEUTENANT DU ROY MONSIEUR MON FILZ
 EN NORMANDIE.
 
@@ -12423,7 +12423,7 @@ DE L'AuBESPINE.
 
 Orig. Bibl. imp. de Saint-Pétersbourg, vol. 8i, ru 54.
 
-A MONSIEUR DE LOSSES,
+À MONSIEUR DE LOSSES,
 SON LIEUTENANT EN LIONNOlS, EN L'ABSBNCE DE MONSIEUR D NEMOURS.
 
 Monsieur de Losses, vous verrez par ce que
@@ -12604,7 +12604,7 @@ Vostre bonne cousine,
 
 Minute. Bibl. nat. fonds français, n° i588o, f" 80.
 
-A MONSIEUR DE VILLEPARISIS.
+À MONSIEUR DE VILLEPARISIS.
 
 Monsieur de Villeparisis, oultre la lettre que
 le Roy monsieur mon filz vous escript en faveur
@@ -12723,7 +12723,7 @@ xxe jour de febvrier 156h ( 1565).
 
 Minute. Bibl. nat. fonds français, n° 15880, fo 79 r°.
 
-A MONSIEUR DE S™ MESME.
+À MONSIEUR DE S™ MESME.
 
 Monsieur de Ste Mesme, voiant les grandes
 et excessives despenses que le Roy monsieur
@@ -12779,7 +12779,7 @@ jour de febvrier i564(i565).
 
 Copie. Bibl. nat. fonds français, n° 10735, f" 73 v° et 74 r".
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, j'ay receu voz lettres
 du deuxiesme décembre et XXVIe de janvier, par
@@ -13020,7 +13020,7 @@ Vostre bonne cousine,
 
 Orig. Bibl. imp. de Saint-Pétersbourg, vol. 18, f° 58.
 
-A MONSIEUR DE VILLEPARISIS.
+À MONSIEUR DE VILLEPARISIS.
 
 Monsieur de. Villeparisis, nous avons longuement
 tardé à vous renvoyer nostre résolution
@@ -13225,7 +13225,7 @@ Vostre bonne cousine,
 
 Orig. Bibl. nal. fonds français, n° 16013, f° 122.
 
-A MONSIEUR DE BELLIÈVRE,
+À MONSIEUR DE BELLIÈVRE,
 CONSEILLIER DU ROY MONSIEUR MON FILZ.
 
 Monsieur de Bellièvre, la nouvelle que nous avons eue par voz lectres du IXe du passé nous faict assez cognoistre que vous n'avez pas eu peu à faire à conduire le renouvellement de l'alliance au poinct où vous l'avez mys, et combien il deplaist à ceulx qui vous font ce trouble, chose dont je n'oubliray pas à escripre de nouveau en Espaigne, affin que le roy ca- tholicque mon beau-filz entende mieulx qu'il n'a monstré croire jusques- icy l'insolance de ses gens, que je ne puis croire estre tant ou- bliez sans bon adveu. Le principal est que, suyvant le bon commancement que vous y avez donné, vous faciez en sorte que leurs folles entreprises soient aussy vaynes que avoyent esté leurs menées et praticques, affin que ledict renouvellement demoure en son entier, sans. que nous soions contrainctz d'entrer pour ceste heure à paier plus que une année de leurs pensions, laquelle, encores qu'elle ne soyt que petite, tireroyt, comme il est vraysemblable, plus grande charge à noz affaires, d'aultant que jà les Suysses qui en ont eu le vent nous font semblable instance, et nous n'y sçaurions fournir. Vous ne vous lasserez point aussy, Monsieur de Bellièvre,
@@ -13239,7 +13239,7 @@ Escript à Thoulouse, le vie jour de mars 1566 (1565).
 
 Orig. Papiers des seigneurs de Saint-Sulpice.
 
-A MONSIEUR DE SAINT-SULPICE.
+À MONSIEUR DE SAINT-SULPICE.
 
 Monsr de St-Sulpice, il y a jà si longtemps
 que La Mothe est avecque vous et que je n'ay eu
@@ -13287,7 +13287,7 @@ ynsin comandé.
 Minute. Bibl. nat. fonds français, n° i588i, f° 89 rO. —
 Copie. Bibl, nat. fonds français, n° 10735, f° 74 VO et r°.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, je ne sçauroys qu'ad-
 , jouster à la lettre du Roy monsieur mon filz,
@@ -13388,7 +13388,7 @@ Vostre bonne cousine,
 Minute. Bibi. nat. fonds français, n° 15881. f° 86 r°.
 — Copie. Bibl. nat. fonds français, n° 10735, f° 82 v°.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, la lettre du Roy mon
 filz est si ample que je ne vous y sçauroys qu'adjouster,
@@ -13419,7 +13419,7 @@ mars 1565.
 
 Minule. Bibl. nat. fonds français, n° 15881, f° 87 r°.
 
-A MONSIEUR DE MEUILLON.
+À MONSIEUR DE MEUILLON.
 
 Monsieur de Meuillon, puisque les Genevoys
 (Génois) ont faict faire la cryée que mon cousin
@@ -13482,7 +13482,7 @@ mars i565.
 
 Minute. Bibl. nat. fonds français, n° 15881, f' go r, et vo,
 
-A MONSIEUR
+À MONSIEUR
 LE CARDINAL DE LA BOURDAIZIÉRE.
 
 Monsieur le cardinal, je n'ai jamais voulu
@@ -13750,7 +13750,7 @@ ce... jour de avril 1565.
 
 Copie. Bibl. nat., Fonds français, n° 16011, f° 143 v°.
 
-A MONSIEUR DE BELLIEVRE.
+À MONSIEUR DE BELLIEVRE.
 
 Monsieur de Bellievre, la derniere depesche
 que je vous ay faict faire a esté du cinquiesme
@@ -13892,7 +13892,7 @@ Vostre bonne cousine,
 
 Aut. Impr. dans VAmbassadeen Espagne, etc., p. 370.
 
-A MONSIEUR DE SAINT-SUPLICE,
+À MONSIEUR DE SAINT-SUPLICE,
 AMBASSADPEOUURRLEROYMONFILZENESPATGNE.
 
 Monsr de Saynt-Suplice, j'é veu vostre
@@ -14036,7 +14036,7 @@ Vostre bonne cousine,
 Orig. Papiers des anciens seigneurs de Saint-Sulpice.
 Communiquépar M. Ed. Cabié.
 
-[A MONSIEUR DE SAINT-SULPICE.]
+[À MONSIEUR DE SAINT-SULPICE.]
 
 Monsr de St-Sulpice, encore que j'aie par
 Capelle, vostre secretaire, entendu le partement
@@ -14095,7 +14095,7 @@ plaist, et me tenez en vostre bonne grâce1.
 
 Orig. Bibl. nat. fonds français, n° i6ot3, p. 136.
 
-A MONSIEUR DE BELLIÈVRE.
+À MONSIEUR DE BELLIÈVRE.
 
 Monsieur de Bellièvre, la dernière dépesche
 que je vous ay faict faire a esté du cinquiesme
@@ -14138,7 +14138,7 @@ BounDIN.
 
 Aut. Impr. dans l'Ambassade en Espagne, etc., p. 373.
 
-A MONSIEUR DE SAINT-SUPLICE,
+À MONSIEUR DE SAINT-SUPLICE,
 AMBASSADEUR POUR LE ROY EN ESPAIGNE.
 
 Depuis ma derniere letre j'ai heu novelles
@@ -14178,7 +14178,7 @@ mes, set lui en parlé, que souist à ele seule.
 
 Minute. Bibl. nat., Fonds français, 11° 15875, f° Aqo.
 
-[A MONSIEUR LE COMTE DE TENDE1.]
+[À MONSIEUR LE COMTE DE TENDE1.]
 
 Mon cousin, nous avons eu plaincte de six
 ou sept lieux de presches publiques en Prou-
@@ -14262,7 +14262,7 @@ Vostre bonne seur et afectionné mère.
 
 Copie. Bibl. nat. fonds français, n° 10735, f° 85 r°.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, la lettre du Roy mon-
 sieur mon filz 1 est si ample que je ne vous
@@ -14344,7 +14344,7 @@ conserver come le desire
 
 Orig. Bibl. nat. fonds français, n° i6oi3, p. i48.
 
-A MONSIEUR DE BELLIÈVRE.
+À MONSIEUR DE BELLIÈVRE.
 
 Monsieur de Bellièvre, vous faisant le Roy
 monsieur mon fils ample responce sur le con-
@@ -14415,7 +14415,7 @@ Vostre bonne cousine,
 
 Orig. Bibl. nat. fonds français, n° 3igo, f° ai r°.
 
-A MONSIEUR DE MATIGNON,
+À MONSIEUR DE MATIGNON,
 CHEVALIER DE L'ORDRE DU ROT MONSIEUR MON FILZ,
 SOS LIEOTENÀIÎT AU GOUVERNBMENT DE NORMANDIE.
 
@@ -14542,7 +14542,7 @@ Vostre bonne cousine,
 
 Orig. BibI. imp. de Saint-Pétersbourg, vol. ai, P 3i.
 
-A MONSIEUR DE CARCES,
+À MONSIEUR DE CARCES,
 LTEUTZirATT EN PROVENCE DE MONSIEUR LE COMTE DE TESDE.
 
 Monsieur de Carces, je serois bien marrie
@@ -14620,7 +14620,7 @@ i565. -
 
 Orig. Bibl. nat. fonds français, n° 3ao3, f° 66 r°.
 
-A MONSIEUR DE MONTMORENCY,
+À MONSIEUR DE MONTMORENCY,
 MARÉCHAL DE FRANCE.
 
 Mon cousin vous verrez ce que le Roy
@@ -14716,7 +14716,7 @@ Vostre bonne cousine,
 
 Orig. Bibl. nat. fonds français, n° 3179, fo ai rO,
 
-A MONSIEUR DE MONTMORENCY,
+À MONSIEUR DE MONTMORENCY,
 MARÉCHALDE FRANCE.
 
 Mon cousin, la dépesche que vous a portée
@@ -14744,7 +14744,7 @@ Vostre bonne cousine,
 
 Orig. Bibl. nat., Fonds français, n° 16013, fo i4g.
 
-A MONSIEUR DE BELLIEVRE1.
+À MONSIEUR DE BELLIEVRE1.
 
 Monsieur de Bellievre, je pensoys que le
 Lresorier des Ligues deust faire payer à la
@@ -14807,7 +14807,7 @@ El plus bas : <hi style="font-variant: small-caps">Bourdin</hi>.
 
 Orig. Bib], nat. fonds français, n° 3178, P 32 r".
 
-A MONSIEUR D'HUMIÈRES,
+À MONSIEUR D'HUMIÈRES,
 LIEUTENAGNETNERAALUGOUVERNEMDEENPTIGARDrF.
 
 Monsieur de Humières, j'ai receu vosrre
@@ -14910,7 +14910,7 @@ Vostre bonne cousine,
 
 Copie. Bibl. nal. fonds français, n° 10735, f" 89 r°.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, nous ne vous ferons
 aultre responce au contenu de vostre dépesche
@@ -14985,7 +14985,7 @@ Vostre devote fille,
 
 Copie. Bibl. nat. fonds français, n° 10735, f° 88.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, le sr de Rambouillet,
 présent gentilhomme ordinaire de la chambre
@@ -15110,7 +15110,7 @@ De Baionne , le jour de juin 15 6 5.
 
 Orig. Bibl. nat. fonds français, n° 16018. f" 161 ra.
 
-A MONSIEUR DE BELLIÈVRE.
+À MONSIEUR DE BELLIÈVRE.
 
 Monsieur de Bellièvre, le Roy monsieur
 mon filz vous faict entendre1 l'ordre qu'il a
@@ -15149,7 +15149,7 @@ le XXIIe jour de juing 1565.
 
 Copie. Bibl. nat. fonds français, n° 10735, Í" 9a rO.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, la présente ne sera
 que pour acompaigner celle que le Roy monsieur
@@ -15309,7 +15309,7 @@ Vostre bonne mère,
 
 Aut. Arch. nat. K 1506, pièce 53,
 
-A MONSIEUR MON FILS
+À MONSIEUR MON FILS
 LE ROY CATOLIQUE.
 
 Monsieur mon fils, je ne vous puis asés
@@ -15444,7 +15444,7 @@ Vostre bonne cousine,
 
 Copie. Bibi. nat. fonds français, n° 10751, f°s 21 et suiv.
 
-A MONSIEUR DE FOURQUEVAULX.
+À MONSIEUR DE FOURQUEVAULX.
 
 Monsieur de Forquevauls, la connoissance
 que j'ay de voz mérites et des bonnes et louables
@@ -15515,7 +15515,7 @@ juillet 1565.
 
 Copie. Bibl. nat. fonds français, n° 10735, fO95 vO.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, pour ce que je désire
 favoriser de ce qu'il me sera possibleles affaires
@@ -15577,7 +15577,7 @@ Et plus bas : <hi style="font-variant: small-caps">Bourdin</hi>.
 
 CopIe. Bibl. nat. fonds français, n° 10735, f° 93 v°.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, je me remectray sur
 le contenu de la lectre que le Roy monsieur
@@ -15631,7 +15631,7 @@ Vostre bonne cousine,
 
 Copie. Bibl. nat. fonds français, na 10735. f° 94 v..
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, ayant mon cousin le
 comte de la Mirandepris congé du Roy monsieur
@@ -15671,7 +15671,7 @@ Escript à d'Acqs3, le XVIe jour de juillet
 
 Orig. Impr. dans l'Ambassade en Espagne, etc., p. 393.
 
-A MONSIEUR DE SAINT-SULPICE,
+À MONSIEUR DE SAINT-SULPICE,
 CHEVALIER DE L'ORDRE DU ROY MONSIEUR MON FILZ
 ET SON AMBASSADEUR EN ESPAIGNE.
 
@@ -15757,7 +15757,7 @@ Vostre bonne cousine,
 
 Imprimé dans les Mémoiresde Condé, t. V, p. 142.
 
-A MONSIEUR DE SALCÈDE.
+À MONSIEUR DE SALCÈDE.
 
 Monsieur de Salcède 1, j'ay esté advisée par
 le sr de la Roche, maistre d'hostel du Roy monsieur
@@ -15790,7 +15790,7 @@ DE L'A UBESPINE.
 
 Minute. Bibl. nat. fonds français, n° 15881, f" 201 r°.
 
-A MONSIEUR DE L'AUBESPINE.
+À MONSIEUR DE L'AUBESPINE.
 
 Monsieur de l'Aubespine, depuys vostre
 pariementj'ay esté adverlye qu'il est advenu
@@ -15866,7 +15866,7 @@ CATERINE
 
 Copie. Bibl. nat. fonds français, n, 10730, f° 96 v". e
 
-A MONSIEUR DU FERRIER,
+À MONSIEUR DU FERRIER,
 
 Monsieur du Ferrier, ce petit mot sera seullement
 pour accompaigner la lettre que le
@@ -15894,7 +15894,7 @@ Montreall, le XXye jour de juillet 1565.
 
 Copie. Bibl. nat. fonds français, n° 10751, fOa5.
 
-A MONSIEUR DE FOURQUEVAULX.
+À MONSIEUR DE FOURQUEVAULX.
 
 Monsieur de Forquevauls, j'ai receu la lettre
 que vous m'ayez escripte du xxne de cemoys,
@@ -15974,7 +15974,7 @@ Vostre bonne cousine,
 
 Copie. Bibl. nat. fonds français, n° 17832, f° 92 r°.
 
-A MONSIEUR DE FOIX.
+À MONSIEUR DE FOIX.
 
 Monsieur Foix, j'ay différé à vous faire
 responces deux bien amples dépesches
@@ -16286,7 +16286,7 @@ dignement mérité.
 
 Copie. Bibl. nat. fonds français, n° 17832, p. 100.
 
-A MONSIEUR DE FOIX.
+À MONSIEUR DE FOIX.
 
 Monsieur de Foix, je me remectray au contenu
 de l'instruction au sr de Mauvissière1et à
@@ -16418,7 +16418,7 @@ Vostre bonne cousine,
 
 Copie. Bibl. nat. fonds français, n° 10735, f 106r°.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, escrivant présentement
 le Roy monsieur mon- filz à ces Sei-
@@ -16449,7 +16449,7 @@ le XVIIe jour d'aoust i565.
 
 Orig. BibI. nat. fonds français, n° 3190, f, a5 r".
 
-A MONSIEUR DE MATIGNON,
+À MONSIEUR DE MATIGNON,
 LIEUTENAENSTBAILLIAGDEESCABNETCOTTENTIN.
 
 Monsieur de Matignon, vous verrez ce que
@@ -16489,7 +16489,7 @@ ma part.
 
 Copie. Bibl. nat. fonds français, n° 10735, fos 101 V° et 102 r°,
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, j'ay receu par ce porteur
 les besoignes de Levant que vous m'avez
@@ -16811,7 +16811,7 @@ Vostre bonne cousine,
 
 Orig. Bibl. nat. fonds français, n° 3178, f° 17.
 
-A MONSIEUR D'HUMIÈRES,
+À MONSIEUR D'HUMIÈRES,
 SONLIEUTENANrilTqiRALAUGOUVERNEMDEENPITCABD1B.
 
 Monsieurde Humières, ayant receu la lettre
@@ -16900,7 +16900,7 @@ Vostre bonne cousine,
 
 Copie. Bibl. nat. fonds français, n° 10735, fo 103 v°.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, vous verrez ce que le
 Roy monsieur mon filz vous escript présentement
@@ -17236,7 +17236,7 @@ Escript à Oyron, ce <hi style="font-variant: small-caps">xxv</hi><hi rend="sup"
 
 Minute. Bibl. nal. fonds français, n° 15881, P 315 r".
 
-A MONSIEUR D'ESCARS.
+À MONSIEUR D'ESCARS.
 
 Monsieur d'Escars, le Roy monsieur mon
 filz respond amplement à toutes les lettres
@@ -17356,7 +17356,7 @@ CATERINE
 
 Copie. Bibl. nat. fonds français, n° 10735, f0 108 r°.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, vous verrez la responce
 que le Roy monsieur mon filz vous faict
@@ -17462,7 +17462,7 @@ DE L'AuBESPINE.
 
 Orig. Bibi. nat. fonds français, n° 3ao3, f° ao r°.
 
-A MONSIEUR DE MONTMORENCY,
+À MONSIEUR DE MONTMORENCY,
 MARÉCHALDE FRANCE.
 
 Mon cousin, vous entendrez du sieur des
@@ -17485,7 +17485,7 @@ Vostre bonne cousine,
 
 Orig. Bibl. nat. fonds français, n° 3ao5 f° 8 v°.
 
-A MONSIEUR DE MONTMORENCY,
+À MONSIEUR DE MONTMORENCY,
 MARÉCHALDE FRANCE.
 
 Mon cousin, j'ay esté bien ayse d'entendre
@@ -17553,7 +17553,7 @@ Escript à Chasteaubriant, le <hi style="font-variant: small-caps">xx</hi><hi re
 
 Copie. Archives de Vienne (Isère). Registre de 1565, f6 135.
 
-A MONSIEUR DE GORDES2,
+À MONSIEUR DE GORDES2,
 CHEVALLIDEERL'ORDRDEUROTMONSIEUMRONFILZ, ET SONLIEUTENANT
 GENEBAALUGOUVERNEMDEUNDTAUPHINEEN, L'ABSENDCEMONCOUSIN
 LEDUCDEMONTPBNSIER.
@@ -17663,7 +17663,7 @@ DE L'AUBESPINE.
 
 Orig. Bibl. nat. fonds français, nD3196, CO74 1"
 
-A MONSIEUR DE MONTMORENCY,
+À MONSIEUR DE MONTMORENCY,
 MARÉCHALDE FRANCE.
 
 Mon cousin, vous entendrez par la lettre
@@ -17688,7 +17688,7 @@ Vostre bonne cousine,
 
 Orig. Bibl. nat. fonds français, n° 3190, f" 59 r°.
 
-A MONSIEUR DE MATIGNON.
+À MONSIEUR DE MATIGNON.
 
 Monsieur de Matignon, je vous prie de
 tenir la main de vostre part que les lettres
@@ -17740,7 +17740,7 @@ Vostre bonne cousine,
 
 Copie. Bibl. nat. fonds français, n° 10735, P 113 v°.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, par les lettres que le
 Roy monsieur mon filz vous escript présentement1
@@ -17942,7 +17942,7 @@ desirés.
 
 Copie. Bibl. nat. n° 10751, p. 61 et suiv.
 
-A MONSIEUR DE FOURQUEVAULX.
+À MONSIEUR DE FOURQUEVAULX.
 
 Monsieur de Forquevauls, à voz lettres du
 cinquiesme de ce mois, aprez ce que le Roy
@@ -18251,7 +18251,7 @@ Vostre bonne seur et mère.
 
 Copie. Bibl. nat. fonds français, n° 10751, f° 129 r°
 
-A MONSIEUR DE FOURQUEVAUX.
+À MONSIEUR DE FOURQUEVAUX.
 
 <rs type="pouvoir"><rs type="personne-pouvoir">Monsieur de Forquevauls</rs>, parce que je 
 voudrois bien voir accommoder le s<hi rend="sup">r</hi> Scipion 
@@ -18286,7 +18286,7 @@ de décembre 1565.
 
 Copie. Bibl. nat. fonds français, n° 10751, f° 109 r°.
 
-A MONSIEUR DE FOURQUEVAUX.
+À MONSIEUR DE FOURQUEVAUX.
 
 <rs type="personne-pouvoir">Monsieur de Forquevauls</rs>, par la lettre que 
 le <rs type="personne-famille">Roy monsieur mon fils</rs> vous escript présentement 
@@ -18310,7 +18310,7 @@ etc. De Blois, le sixiesme jour de décembre
 
 Orig. Bibl. nat. fonds français, n° 3aoi, f° 33.
 
-A MONSIEUR
+À MONSIEUR
 LE MARÉCHAL DE MONTMORENCY.
 
 Mon cousin, en attendant que je vous renvoye
@@ -18361,7 +18361,7 @@ CATERING.
 
 Copie. Bibl. nat. fonds français, n° 10735, f* tiy r°.
 
-A MONSIEUR DU FERRIER.
+À MONSIEUR DU FERRIER.
 
 Monsieur du Ferrier, par les leltres que le
 Roy monsieur mon filz vous escript présentemant
@@ -18501,7 +18501,7 @@ Vostre bonne cousine,
 
 Copie. Bibi. nat. fonds francais, n° 10751, P" n.5 et 8uiv.
 
-A MONSIEUR DE FOURQUEVAULX.
+À MONSIEUR DE FOURQUEVAULX.
 
 Monsieur de Forquevauls, vous ne sçauriez
 croire le plaisir que vous m'avez faict par vostre
@@ -18638,7 +18638,7 @@ Vostre bonne cousine,
 
 Copie. Bibl. nat. fonds français, n° 10751, f° i33 r° el v°.
 
-A MONSIEUR DE FOURQUEVAULX.
+À MONSIEUR DE FOURQUEVAULX.
 
 Monsieur de Forquevauls, tout à ceste
 heure est arrivé le secretaire du sr de Villeparisis,
@@ -18714,7 +18714,7 @@ Vostre bonne cousine,
 
 Copie. Bibl. nat. fonds français, n° 10751, fos 130 et suiv.
 
-A MONSIEUR DE FOURQUEVAULX.
+À MONSIEUR DE FOURQUEVAULX.
 
 Monsieur de Forquevauls, vous sçavez aveques
 quels termes le sr de St Suplice partit
@@ -18847,7 +18847,7 @@ Escript à Moulins, le <hi style="font-variant: small-caps">v</hi><hi rend="sup"
 
 Copie. Bibl. nat. fonds français, nO10751, f" 139 et sniv.
 
-A MONSIEUR DE FOURQUEVAULX.
+À MONSIEUR DE FOURQUEVAULX.
 
 Monsieur de Forquevauls, je vous ay depuis
 six jours escript et envoyé courrier exprez
@@ -18924,7 +18924,7 @@ CATJEBINE.
 
 Copie. Bibl. sat. fonds français, n° 107S1, f° 1A1r*.
 
-A MONSIEUR DE FOURQUEVAULX.
+À MONSIEUR DE FOURQUEVAULX.
 
 Monsieur de Forquevauls, après avoir loué
 Dieu de l'heur et contentement qu'il luy a
@@ -18973,7 +18973,7 @@ CATERINE
 
 Copie. Bibl. nat. fonds françaÎs. n° 10751, f° 189.
 
-A MONSIEUR DE FOURQUEVAULX.
+À MONSIEUR DE FOURQUEVAULX.
 
 Monsieur de Forquevauls, pour ce que l'on
 m'a diet que le sr Hélio, gentilhomme de la
@@ -19093,7 +19093,7 @@ vous donner ce que désirez.
 
 Copie. Bibl. nat. fonds français, nO10751, fOB163 \° et suiv.
 
-A MONSIEUR DE FOURQUEVAULX.
+À MONSIEUR DE FOURQUEVAULX.
 
 Monsieur de Forquevauls,par ma dernièr.e
 despesche, je m'estois réservée de vous faire
@@ -19595,7 +19595,7 @@ Vostre bonne cousine,
 
 Copie. Bibl. nat. fonds français, n° 10751, f° 179.
 
-A MONSIEUR DE FOURQUEYAULX.
+À MONSIEUR DE FOURQUEYAULX.
 
 Monsieur de Forquevauls, vostre lettre du
 vint-un de janvier escripte de vostre main m'a
@@ -19719,7 +19719,7 @@ du Roy.
 
 Orig. Bibl. nat. fonds Craoçais, n° ao45g, f" 175.
 
-A MONSIEUR DE BOISY,
+À MONSIEUR DE BOISY,
 GRAND ESCUYER DE PUNCE.
 
 Mon cousin, j'ay avecques assez d'ennny et
@@ -19831,7 +19831,7 @@ Et plus bas : <hi style="font-variant: small-caps">Robertet</hi>.
 Orig. Archives de la maison de Condé.
 Communiquée par M. le duc d’Aumale.
 
-A MONSIEUR DE GORDES,
+À MONSIEUR DE GORDES,
 LIEUTENANT GÉNéRAL EN DAULPHINé.
 
 Monsrde Gordes, estant [en] la mesmevolonté
@@ -19868,7 +19868,7 @@ de Gordes, ce que désirez. De Molins, le
 Archives dc la maison de Condé.
 Communique par M. le duc d'Aumale.
 
-A MONSIEUR DE GORDES,
+À MONSIEUR DE GORDES,
 LIEUTENAGNETNERAALUGOUVERNEMDEDNATULPHINE.
 
 Monsr de Gordes, vous estant si amplement
@@ -19916,7 +19916,7 @@ le <hi style="font-variant: small-caps">xx</hi><hi rend="sup">e</hi> jour de fev
 Archives de la maison de Condé.
 Communiquee par M. le due d'Aumale.
 
-A MONSIEUR DE GORDES,
+À MONSIEUR DE GORDES,
 LIBUTENANGTENERAALU GOUVBBNEUDBEHTDAULPHINK
 ENL'ABSEUDCBMONCOUSILNEDUCDBJlONTIIBIISnm.
 
@@ -19951,7 +19951,7 @@ Escrit à, Molins, le <hi style="font-variant: small-caps">xx</hi><hi rend="sup"
 
 Orig. Bibi. naf., Fonds français, n° 16016, fa 17.
 
-A MONSIEUR DE BELLIEVRE,
+À MONSIEUR DE BELLIEVRE,
 CONSEILLDEURROYMONSIEUMRONFILXETSONAMBASSADEENUSRUISSE.
 
 Monsieur Bellievre, j'ay fait dresser par les
@@ -19981,7 +19981,7 @@ Et plus bas : DE L'AUBESPINE.
 
 Copie. Bibl. nat. fonds français, n° 10751, f" 191.
 
-A MONSIEUR DE FOURQUEVAULX.
+À MONSIEUR DE FOURQUEVAULX.
 
 Monsieur de Forquevauls, par le second
 courrier que m'avez fenvoyé j'ay resceu voz
@@ -20036,7 +20036,7 @@ febvrier 1566.
 Orig. Archives du château de Fourquevaux.
 Communiqué par Mgr Douais.
 
-A MONSIEUR DE FOURQUEVAULX,
+À MONSIEUR DE FOURQUEVAULX,
 CHEVALIER DE L'ORDRDE DU ROY MONSIEUR MON FILZ
 ET SON AMBASSADEUR EN ESPAIGNE.
 
@@ -20093,7 +20093,7 @@ Et plus bas : DE L'AUBESPINE.
 
 Orig. Bibl. nat., Fonds français, n° 16016, fo 33.
 
-A MONSIEUR DE BELLIEVRE.
+À MONSIEUR DE BELLIEVRE.
 
 Monsieur de Bellievre, le Roy monsieur
 mon filz vous faict par sa lettre amplement
@@ -20124,7 +20124,7 @@ Et plus bas : DE L'AuBESPINE.
 
 Copie. Bibl. nat. fonds françaÏs, n° 10751, fa 194 r°.
 
-A MONSIEUR DE FOURQUEVAULX.
+À MONSIEUR DE FOURQUEVAULX.
 
 Monsieur de Forquevauls, nous avons despuis
 quatre ou cinq jours receu le paquet que
@@ -20192,7 +20192,7 @@ CATERINE.
 
 Copie. Bibl. nat. fonds français, n° 10751, f° 198 v°.
 
-A MONSIEUR DE FOURQUEVAULX.
+À MONSIEUR DE FOURQUEVAULX.
 
 Monsieur de Forquevauls, avecques ceste
 petite dernière despesche, j'ay resceu voz deux
@@ -20229,7 +20229,7 @@ vous avoir en sa saincte et digne garde. Escript
 
 Copie. Bibl. nat. fonds français, n° 10761, r- 3Gi.
 
-A MONSIEUR DE FOURQUEVAULX.
+À MONSIEUR DE FOURQUEVAULX.
 
 Monsieur de Forquevauls, j'ay bien voulu
 accompaigner de la prdsenle lettre que le Roy
@@ -20277,7 +20277,7 @@ vous avoir en sa saincte et digne garde. Escript
 
 Copie Bibl. nat. fonds français, n° 10751, fos 199 et suiv.
 
-A MONSIEUR DE FOURQUEVAULX.
+À MONSIEUR DE FOURQUEVAULX.
 
 Monsieur de Forquevauls, avant que l'ambassadeur
 d'Espaigne ait despesché son courrier,
@@ -20509,7 +20509,7 @@ garde. Escript à Molins, le <hi style="font-variant: small-caps">xvii</hi><hi r
 
 Orig. Bibl. nat., Fonds français, n° 16016, fa 4i.
 
-A MONSIEUR DE BELLIEVRE.
+À MONSIEUR DE BELLIEVRE.
 
 Monsieur de Bellievre, le sieur Benedic
 Stokerl est venu icy par mon commandement,
@@ -20540,7 +20540,7 @@ Et plus bas : DE L'AUBESPINE.
 
 Orig. Bibl. nat., Fonds français, n° 16016, fo 4g.
 
-A MONSIEUR DE BELLIEVRE.
+À MONSIEUR DE BELLIEVRE.
 
 Monsieur de Bellievre 1, le Sieur de Grantrye,
 choisy du Roy Monsieur mon filz et de
@@ -20571,7 +20571,7 @@ Et plus bas : DE L'AUBESPINE.
 
 Orig. Bibl. nat., Fonds français, n° 16016, f° 48.
 
-A MONSIEUR DE BELLIEVRE.
+À MONSIEUR DE BELLIEVRE.
 
 Monsieur de Bellievre, le sieur de Grantrye
 est despesché pour aller resider aux Gri-
@@ -20603,7 +20603,7 @@ Et plus bas : DE L'AUBESPINE.
 
 Orig. Bibl. nat., Fonds français, n° 16016, f° 55.
 
-A MONSIEUR DE BELLIEVRE.
+À MONSIEUR DE BELLIEVRE.
 
 Monsieur de Bellyevre, le Roy Monsieur
 mon filz, satisfaict à vostre premiere lettre et
@@ -20678,10 +20678,10 @@ priant Dieu vous donner longue vie en santé.
 
 Orig. Bibl. nat., Fonds français, n° 16016, f° 61.
 
-A MONSIEUR DE BELLIEVRE.
+À MONSIEUR DE BELLIEVRE.
 
 Monsieur de Bellievre, je n'ay pas grande
-chose à respondre à voz lettres du XXIlUe de
+chose à respondre à voz lettres du <hi style="font-variant: small-caps">xxiiii</hi><hi rend="sup">e</hi> de
 mars, synon que le plus grand plaisir que je
 puisse avoir c'est d'entendre que vous donniez
 là si bon ordre que les choses y puissent
@@ -20754,7 +20754,7 @@ Escript a Clermont, le <hi style="font-variant: small-caps">ii</hi><hi rend="sup
 
 Copie. Archives de Saint-Jean-de-Luz.
 
-A M. LE CHANCELLIER DE L'HOSPITAL.
+À M. LE CHANCELLIER DE L'HOSPITAL.
 
 Monsieur le Chancellier, j'ay faict expédier
 à ceulx de St Jehan de Luz la confirmation de
@@ -20811,7 +20811,7 @@ de avril 1566.
 
 Copie. Bibl. nat. fonds français, nO10751 f° 95,.
 
-A MONSIEUR DE FOURQUEVAULX.
+À MONSIEUR DE FOURQUEVAULX.
 
 Monsieur de Forquevauls, vous entendrez
 par la lettre que le Roy monsieur mon fils
@@ -20848,7 +20848,7 @@ saincte et digne garde. Escript à Cosne, le
 
 Orig. Bibl. nat., Fonds français, n° 16016, f* 63.
 
-A MONSIEUR DE BELLIEVRE.
+À MONSIEUR DE BELLIEVRE.
 
 Monsieur de Bellievre, je m'esbahye bien
 que Stoker ne feust desjà près de vous pour,
@@ -20884,7 +20884,7 @@ Et plus bas : DE L'AUBESPINE.
 Archives de la maison de Condé.
 Communiqué par M. le duc d'Aumale.
 
-A MONSIEUR DE GORDES.
+À MONSIEUR DE GORDES.
 
 Monsieur de Gordes, nous avons esté bien
 ayses d'avoir entendu ainsi particulièrement
@@ -20964,7 +20964,7 @@ DE L'AUBESPINE.
 
 Orig. Bibl. nat., Fonds français, n° 16016, f 64.
 
-A MONSIEUR DE BELLIEVRE.
+À MONSIEUR DE BELLIEVRE.
 
 Monsieur de Bellievre, j'ay receu vostre
 lettre du <hi style="font-variant: small-caps">iiii</hi><hi rend="sup">e</hi>e de ce moys avecques le pacquet
@@ -20992,7 +20992,7 @@ Et plus bas : DE L'AUBESPINE.
 
 Orig. Bibl. nat., Fonds français, n° 16016, f° 68.
 
-A MONSIEUR DE BELLIEVRE.
+À MONSIEUR DE BELLIEVRE.
 
 Monsieur de Bellievre, le Roy Monsieur
 mon filz vous renvoye La Brethonniere 2 et
