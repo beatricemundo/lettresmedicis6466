@@ -27,6 +27,14 @@ def normaliseTexte(ligne):
       ligne=ligne.replace(remplacement[0],remplacement[1])
    return ligne
 
+def toHTML(ligne):
+   res = re.search("(.*)<hi rend=.sup.>([^<]+)</hi>(.*)", ligne)
+   while res:
+      ligne = res.group(1) + "<sup><small>" + res.group(2) + "</small></sup>" + res.group(3)
+      res = re.search("(.*)<hi rend=.sup.>([^<]+)</hi>(.*)", ligne)
+   return ligne
+
+
 def nettoieLigne(ligne):
    return ligne.replace("\r","").replace("\n","")
 
@@ -135,7 +143,7 @@ for letter in letters:
 <text>
    """)
    outputFile.writelines(letter["text"].replace("<p></p>","").replace("<p","\n<p").replace("</discours>","\n</discours>").replace("<p>","  <p>")+"\n\n\n")
-   outputFileH.writelines("<article><h2 id='"+letter["id"]+"'>Lettre n° "+letter["id"]+"<a href=\"https://beatricemundo.github.io/lettresmedicis6466/#"+letter["id"]+"\">↑</a></h2>"+letter["text"].replace("<p></p>","").replace("<p","\n<p").replace("</discours>","\n</discours>").replace("<p>","  <p>")+"\n\n\n</article>")
+   outputFileH.writelines("<article><h2 id='"+letter["id"]+"'>Lettre n° "+letter["id"]+"<a href=\"https://beatricemundo.github.io/lettresmedicis6466/#"+letter["id"]+"\">↑</a></h2>"+toHTML(letter["text"]).replace("<p></p>","").replace("<p","\n<p").replace("</discours>","\n</discours>").replace("<p>","  <p>")+"\n\n\n</article>")
    smallOutputFile.writelines(normaliseTexte(letter["text"]).replace("<p></p>","").replace("<p","\n<p").replace("</discours>","\n</discours>").replace("<p>","  <p>")+"\n\n\n")
    smallOutputFile.writelines("""
    </text>
