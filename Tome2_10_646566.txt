@@ -11,9 +11,9 @@ Copie. Bibl. nat. fonds Clairambault, vol. 354, p. 5805 ; Dupuy.
 vol. 218 , p. 1. — Arch. nat. cartons des Rois.
 Imprimé dans Le Laboureur, Mémoires de Castelnau, t. II, p. 490.-
 Mémoires de Condé, t. IV, p. 651. — Le recueil Le Conser
-vateur, janvier 1758, p. 72.— Cimber et Danjou, Archives curieuses,
-1re série, t. V, p. 245. -Jay, Notes de l'Éloge de Montaigne.
-— Meyer, Galerie philosophique du XVIe siècle. — Amaury Duval,
+vateur, janvier 1758, p. 72. — Cimber et Danjou, Archives curieuses,
+1re série, t. V, p. 245. - Jay, Notes de l'Éloge de Montaigne.
+— Meyer, Galerie philosophique du <hi style="font-variant: small-caps">xvi</hi><hi rend="sup">e</hi> siècle. — Amaury Duval,
 Append. de son édition de Montaigne.
 
 AU ROY MONSIEUR MON FILS.
@@ -1897,7 +1897,7 @@ ce qui se devera espérer de toute ceste négociation,
 dont vous serez adverty incontinent.
 Priant Dieu, Monsieur de Rennes, qu'il vous
 ayt en sa saincte garde. Escript à Fontainebleau,
-ce XXVIIIe jour de février 1563 (1564).
+ce <hi style="font-variant: small-caps">xviii</hi><hi rend="sup">e</hi> jour de février 1563 (1564).
 
 Vous aurez l'affaire du conte de Petillan
 pour recommandé, pour le favoriser en ce
@@ -1997,7 +1997,7 @@ je vous en advertiray pour en faire
 part à mondict bon frère le roy des Romains.
 Priant Dieu, Monsr de Renes, qu'il vous ayt
 en sa saincte garde. Escript à Fontainebleau,
-le XXVIIIe jour de febvrier 1563 (1564).
+le <hi style="font-variant: small-caps">xxviii</hi><hi rend="sup">e</hi> jour de febvrier 1563 (1564).
 
 <hi style="font-variant: small-caps">Caterine</hi>.
  
@@ -2026,7 +2026,7 @@ l'importance du faict, je ne vous en
  diray autre chose, sinon que je prie Dieu,
 
  Monsieur du Lude, vous avoir en sa saincte
- et digne garde. De Fontainebleau, le XXVllIe
+ et digne garde. De Fontainebleau, le <hi style="font-variant: small-caps">xxviii</hi><hi rend="sup">e</hi>
  jour de février 1563 (1564).
 
  <hi style="font-variant: small-caps">Caterine</hi>.
@@ -2099,7 +2099,7 @@ Et pour ce que je m'asseure que vous
 plus longue, priant Dieu, Monsieur de
  Chemeault, qu'il vous ayt en sa saincte garde.
 
- Escript à Fontainebleau, le XXVIIIe jour de
+ Escript à Fontainebleau, le <hi style="font-variant: small-caps">xxviii</hi><hi rend="sup">e</hi> jour de
  febvrier 1563 (1564).
 
  <hi style="font-variant: small-caps">Caterine</hi>.
@@ -2212,7 +2212,7 @@ de Vieilleville qu'il y tourne ung peu les
 yeulx,ainsy que vous dira plus amplement de
 nostre part ledict Montbrun. Priant Dieu vous
 donner, Monsr de Maugiron, ce que desirez.
-Escript à Fontainebleau,le dernier jour de
+Escript à Fontainebleau, le dernier jour de
 febvrier 1563 (1564).
 
 <hi style="font-variant: small-caps">Robertet</hi>.
@@ -2353,7 +2353,7 @@ ayse que lui ballié</rs>.
 1564. – 1er mars.
 
 Orig. British Museum, Bibl. harl. n° 7016.
-Copie. Bibl. nat. collect. Bréquigny, t.XXXII.
+Copie. Bibl. nat. collect. Bréquigny, t. XXXII.
 
 A MON COUSIN
 MONSIEUR DE MONTMORENCY,
@@ -2420,7 +2420,7 @@ où il luy semble que lesdictz presches
  prieray Dieu, mon cousin, vous avoir en sa
  saincte et digne garde.
 
- De Fontainebleau, le 1er jour de mars.
+ De Fontainebleau, le <hi style="font-variant: small-caps">i</hi><hi rend="sup">er</hi> jour de mars.
 
  Vostre bonne cousine,
 
@@ -2463,8 +2463,8 @@ et dextrement acquicter que vous ferez ;
  advancement tout ce qu'il me sera possible, et
  en cest endroict je prieray Dieu, Monsieur du
  Ferrier, qu'il vous ayt en sa saincte et digne
- garde. Escript à Fontainebleau, le VIe jour de
- mars 1563 (1564) 2.
+ garde. Escript à Fontainebleau, le <hi style="font-variant: small-caps">vi</hi><hi rend="sup">e</hi> jour de
+ mars 1563 (1564).
 
  <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -2498,7 +2498,7 @@ que vous vouldrez bien complaire et
  ne vous y persuaderay poinct davantage. Priant
  Dieu vous donner, mon cousin, ce que désirez.
 
- Escript à Fontainebleau, ce VIe jour de mars
+ Escript à Fontainebleau, ce <hi style="font-variant: small-caps">vi</hi><hi rend="sup">e</hi> jour de mars
  1563 (1564).
 
  Vostre bonne cousine,
@@ -2594,7 +2594,7 @@ en estre faict, je ne vous en feray plus
 long discours, si n'est pour vous prier l'en
 croire, et je prieray Dieu, mon cousin, vous
 avoir en sa saincte et digne garde. De Fontainebleau,
-le XIe jour de mars 1563 (1564).
+le <hi style="font-variant: small-caps">xi</hi><hi rend="sup">e</hi> jour de mars 1563 (1564).
 
 (De sa main.) Je vous prie le croyre de set
 qu'il vous dira de ma part et vous aseurer que
@@ -2636,7 +2636,7 @@ de plaisir et contentement comme si c'estoyt
  du bien et de l'advancement. Priant Dieu,
  mon frère, vous donner ce que désirez.
 
- Escript à Fontainebleau, le XIe jour de mars
+ Escript à Fontainebleau, le <hi style="font-variant: small-caps">xi</hi><hi rend="sup">e</hi> jour de mars
  1563 (1564).
 
  Vostre bonne sœur,
@@ -2667,9 +2667,10 @@ d'aultres qui s'estans rassemblez ont faict
  telles choses se manient et y sçaurez si bien
  pourveoir qu'il ne fault poinct que je me travaille
 à vous en riens mander de ma part.
+
 Pryant Dieu, Monsieur de Tavanes, qu'il vous
  ait en sa saincte garde. Escript à Fontainebleau,
-le XIe jour de mars 1563 (1564).
+le <hi style="font-variant: small-caps">xi</hi><hi rend="sup">e</hi> jour de mars 1563 (1564).
 
  <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -2701,7 +2702,7 @@ faire, s'il n'y est bientost pourveu, dont
 vous nous advertirez incontinant. Cependant,
 je prie Dieu, mon cousin', vous avoir en sa
 saincte et digne garde. De Fontainebleau, le
-XIIe jour de mars 1563 (1564).
+<hi style="font-variant: small-caps">xii</hi><hi rend="sup">e</hi> jour de mars 1563 (1564).
 
 Vostre bonne cousine,
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -2778,7 +2779,7 @@ vous prier que vous le croyez comme vous
 feriez moy-mesme, qui prie Dieu, Messrs,
 qu'il vous ayt en sa saincte garde.
 Escript à Fontainebleau, le xxue jour de
-mars 1563 (i56ù).
+mars 1563 (1564).
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -2792,7 +2793,7 @@ Et plus bas : <hi style="font-variant: small-caps">Bourdin</hi>.
  Copie. Bibl. nat, Parlement, n° 85.
 
  A MESSIEURS LES GENS
- TENANS LA COURT DE PARLEMENT A VARIS.
+ TENANS LA COURT DE PARLEMENT A PARIS.
 
  Messieurs, s'en allant présentement à Paris
  mon cousin le duc de Montmorency mareschal
@@ -2813,7 +2814,7 @@ Et plus bas : <hi style="font-variant: small-caps">Bourdin</hi>.
 et suplieray le Créaleur vous donner,
  Messieurs, ce que désirez.
 
- Escript à Fontainebleau, le XIIIe jour de
+ Escript à Fontainebleau, le <hi style="font-variant: small-caps">xiii</hi><hi rend="sup">e</hi> jour de
  mars 1563 (1564).
 
  <hi style="font-variant: small-caps">Caterine</hi>.
@@ -2893,7 +2894,7 @@ ledict sieur de Myrepoys, et, ladicte information
  son bien en vostre gouvernement, et ce me
  sera bien agréable plaisir. Priant Dieu, mon
  cousin, vous donner ce que désirez. Escript à
- Fontainebleau, le XIIIe jour de mars 1563
+ Fontainebleau, le <hi style="font-variant: small-caps">xiii</hi><hi rend="sup">e</hi> jour de mars 1563
  (1564).
 
  Vostre bonne cousine,
@@ -2903,10 +2904,10 @@ ledict sieur de Myrepoys, et, ladicte information
 
 1564. 15 mars.
 
-Orig. Bibl. nat., Fonds français, n° i6oi3, fo 2.
+Orig. Bibl. nat., Fonds français, n° i6013, fo 2.
 Copie. Bibl. nat., Fonds français, n° 16013, fo 8 ro.
 
-A MONSIEUR DE RELLIEVRE.
+A MONSIEUR DE BELLIEVRE.
 
 Monsieur Bellievre, pour ce que le Roy
 monsieur mon filz vous veult employer en
@@ -2918,8 +2919,9 @@ nous venir trouver le plus tost que vous pourrez
 mardy prochain et où tout le conseil s'assemblera
 pour y faire quelque séjour. Et m'assurant
 que vous n'y ferez faulte, je prye Dieu,
-MonsieurBellievre, qu'il vous ayt en sa garde.
-Escript à Sens, le xve jour de mars i564.
+Monsieur Bellievre, qu'il vous ayt en sa garde.
+
+Escript à Sens, le <hi style="font-variant: small-caps">xv</hi><hi rend="sup">e</hi> jour de mars 1564.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -2967,7 +2969,7 @@ sieur et filz cognoisse de plus en plus la
  contentement. Priant Dieu, Messieurs, qu'il
  vous ayt en sa saincte garde.
 
- Escript à Sens, le XVIe jour de mars 1563
+ Escript à Sens, le <hi style="font-variant: small-caps">xi</hi><hi rend="sup">e</hi> jour de mars 1563
  (1564).
  <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -3035,11 +3037,12 @@ point pour passer en Espaigne, oùje ne doute
 pas qu'il ne mist peine de nous faire tout le
 pis qu'il pourroit, tant il nous est bon ami.
 Priant Dieu, Monsr de St-Sulpice, etc.
-Escript de Sens, le xvie de mars 166h.
+
+Escript de Sens, le <hi style="font-variant: small-caps">xvi</hi><hi rend="sup">e</hi> de mars 1664.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
-Et plus bas : BOURDJN
+Et plus bas : BOURDIN
  
 640316.LCM02.VILA
 
@@ -3065,8 +3068,7 @@ de vostre fidellité et entière obeyssance
  respect ne partialité, je ne vous en diray riens
  davantaige par la présente, suppliant le Créateur
 vous donner ce que désirez. Escript à
-
- Villeneufve [l'Archevesque], le XVIIIe jour de
+ Villeneufve [l'Archevesque], le <hi style="font-variant: small-caps">xviii</hi><hi rend="sup">e</hi> jour de
  mars 1563 (1564).
 <hi style="font-variant: small-caps">Caterine</hi>.
  
@@ -3076,14 +3078,14 @@ vous donner ce que désirez. Escript à
 
 Orig. Bibl. nat. Cinq cents Colbert, n° 390, f° 277 et suiv.
 Imprimé. — Mémoires de Castelnau, addit. de Le Laboureur,
-t. Ier, p. 786.
+t. <hi style="font-variant: small-caps">i</hi><hi rend="sup">er</hi>, p. 786.
 
 A MONSIEUR L'ÉVESQUE DE RENNES
 
 Monsieur de Rennes, depuys le parlement
 de Plumelet, que je vous ay renvoyé au commencement
 de ce moys, j'ay receu les deux dépesches
-que m'avez faictes des XII et XIX du
+que m'avez faictes des <hi style="font-variant: small-caps">xii</hi> et <hi style="font-variant: small-caps">xix</hi> du
 passé, ausquelles je n'ay pas grande responce
 à vous faire; car quant à ce qui concerne nostre
 entreveue générale, je n'ay riens à adjouter à
@@ -3221,7 +3223,8 @@ apparence de conclusion de paix, vous en
 serez incontinant adverty, priant Dieu, Monsieur
 de Renes, qu'il vous ayt en sa saincte
 garde.
-Escript à Sens, le XVIIe jour de mars 1563
+
+Escript à Sens, le <hi style="font-variant: small-caps">xvii</hi><hi rend="sup">e</hi> jour de mars 1563
 (1564).
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -3255,7 +3258,9 @@ veoir. Et cependant je vous prieray que je aye
 de vos nouvelles ; car n'en manderez jamais à
 personne qui plus désire que soyent bonnes
 et à vostre contentement que faict
+
 Vostre bonne seur,
+
 <hi style="font-variant: small-caps">Caterine</hi>.
  
 640325.LCM02.TROY
@@ -3280,9 +3285,10 @@ que vous sçaurez très bien ensuyvre
  adverlyz de toutes voz nouvelles et occurrences;
  et en cest endroict, je prye Dieu, mon cousin,
  vous avoir en sa saincte et digne garde. De
- Troyes, le XXVe jour de mars 1563 (1564).
+ Troyes, le <hi style="font-variant: small-caps">xxv</hi><hi rend="sup">e</hi> jour de mars 1563 (1564).
 
  Vostre bonne cousine,
+
  <hi style="font-variant: small-caps">Caterine</hi>.
 
  <hi style="font-variant: small-caps">Robertet</hi>.
@@ -3315,7 +3321,7 @@ moy ; ains sera l'endroict où je supplyeray
 le Créateur vous donner, Monsieur de Maugiron,
 ce que désirez.
 
-Escript à Troyes, le XXVIIJe jour de mars
+Escript à Troyes, le <hi style="font-variant: small-caps">xxviii</hi><hi rend="sup">e</hi> jour de mars
 1563 (1564).
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -3351,6 +3357,7 @@ ayon plus de semblable et qui vous douint set
 que désirés.
  
 <rs type="personne-famillepouvoir">Vostre bonne cousine</rs>,
+
 <hi style="font-variant: small-caps">Caterine</hi>.
  
 640400.LCM10.TROY.a
@@ -3384,6 +3391,7 @@ pouré dire, san luy en faire grent cas ; car
 peut-aystre se ne sera pas grant chose : pour
 4e moyns je y prandré garde, pour le sien
 comepour le Roy mon fils mesme.
+
 Je prie Dieu vous avoir en sa guarde.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -3466,7 +3474,7 @@ que cependant il me sera toujours aisé en peu
 de temps de me rendre au lieu qui pourra
 estre advisé entre nous.
 
-Je. ne me sais pas fort advancée à favoriser
+Je ne me sais pas fort advancée à favoriser
 le faict de Grombach; car le Roy monsieur
 mon fils et moy n'en avons jamais escript ny
 à l'Empereur, ny au roy des Romains mes
@@ -3505,7 +3513,7 @@ du succès duquel je vous feray advertir incon-
 tinent. Je prie Dieu, Monsieur de Rennes, qu'il
 vous ayt en sa saincte garde.
 
-Escript à Troyes, le ier jour de apvril 1563
+Escript à Troyes, le <hi style="font-variant: small-caps">i</hi><hi rend="sup">er</hi> jour de apvril 1563
 (1564) Avant Pasques.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -3560,7 +3568,7 @@ sera bien fort grande, et m'asseurant
 que vous nous satisferez en cela, je ne vous en
 diray autre chose par la présente. Priant Dieu
 vous donner, Monsieur de Tavannes, ce que
-désirez, Escript à Troyes, le VIIIe jour de
+désirez, Escript à Troyes, le <hi style="font-variant: small-caps">viii</hi><hi rend="sup">e</hi> jour de
 avril 1564.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -3599,21 +3607,21 @@ oppinion que ceste-là, mays plus tost vous
 devez estre asseuré que, faisant tousjours bien
 vostre debvoyr en vostre charge, comme vous
 avez faict cy-devant, je vous sçaurai en tout
-et partout bien conserver et maintenyr, fai-
-sant en toutes occasions pour vous tout ce
+et partout bien conserver et maintenyr, faisant 
+en toutes occasions pour vous tout ce
 qui me sera possible; et n'ayant de quoy vous
-faire plus longue lettre, je prye Dieu, mon cou-
-sin, vous avoir en sa saincte garde. De Troyes,
+faire plus longue lettre, je prye Dieu, mon cousin, 
+vous avoir en sa saincte garde. De Troyes,
 ce viue jour d'avril 1564.
 
 (De sa main.) Mon cousin, j'é reseu vostre
 letre et veu set que me mendés et vous prie
-vous aseurer que n'auré jeam-ès mauvèse aupi-
-nion de vous et que fayré set que me priés
+vous aseurer que n'auré jeam-ès mauvèse aupinion 
+de vous et que fayré set que me priés
 d'arester seulx qui se playndron pour savoyr
 si diron vray et si aveques aucasion y fayront
-leur playnte, et m'aseure que set que me pro-
-métés par vostre letre ne fayré faulte de le
+leur playnte, et m'aseure que set que me prométés 
+par vostre letre ne fayré faulte de le
 aysécuter si bien que les aydis du Roy mon
 fils seront entertinsl, de fason que tous ses sugès
 pouront vivre en leur méson en seureté, en
@@ -3630,15 +3638,15 @@ Boquedemare2 que le Roy mon fils avest
 envoyé par de là comisère, chause, set l'ayst
 vraye, très mauvèse, car heun homme qu'il
 envoye pour fayre la jeustice, que l'on lui fyst
-tel acte, se seret contenner3 et dépriser l'auto-
-rité du Roy, qui et cause que je vous prye en
+tel acte, se seret contenner et dépriser l'autorité 
+du Roy, qui et cause que je vous prye en
 fayre tele punition qu'on y verra nécessayre.
  
 640411.LCM02.TROY
 
-1564. — îj avril.
+1564. — 11 avril.
 
-Copie. Bit], nat. Parlement, n° 85.
+Copie. Bibl. nat. Parlement, n° 85.
 
 A MESSIEURS LES GENS
 TENANS LA COURT DE PARLEMENT.
@@ -3657,10 +3665,10 @@ tout ce qui appartient à la tranquillité de
 la ville de Paris le bon ordre que vous y avez
 gardé jusques icy, que Marcel présent porteur
 l'a si amplement tesmoigné au Roy mondict
-sieur et fils qu'il en est demeuré bien fort sa-
-tisfaict et pour ce que vous le sçaurez dudict
-Marcel assez particulièrement je m'en remec-
-tray à luy et prieray Dieu, Messieurs, vous
+sieur et fils qu'il en est demeuré bien fort satisfaict 
+et pour ce que vous le sçaurez dudict
+Marcel assez particulièrement je m'en remectray 
+à luy et prieray Dieu, Messieurs, vous
 avoir en sa saincte garde. Escript à Troyes,
 le unziesme jour d'avril 1564.
 
@@ -3674,16 +3682,16 @@ le unziesme jour d'avril 1564.
 
 Orig. Bibl. nat. Cinq cents Colbert, n° 3go , P 28. —
 Imprimé, — Mémoires de Castelnau, addit. de Le Laboureur,
-t. II, p. 3io.
+t. <hi style="font-variant: small-caps">ii</hi>, p. 310.
 
 A MONSIEUR DE RENNES.
 
 Monsieur de Renes, vous verrez, par la
 lettre que vous escript le Roy monsieur mon
-filz2, l'heureux succès que a pris la négocia-
-tion de la paix d'entre nous et les Angloys1 ;
-en quoy les choses se sont si doulcement con-
-duictes et maniées que ung chascun de nous
+filz, l'heureux succès que a pris la négociation 
+de la paix d'entre nous et les Angloys ;
+en quoy les choses se sont si doulcement conduictes 
+et maniées que ung chascun de nous
 a grande occasion d'en louer Dieu. Et encores
 que je désire, pour lever l'opinion à la royne
 d'Angleterre que l'on se vueille avantaiger du
@@ -3693,23 +3701,21 @@ bien qu'il est raisonnable d'en faire part à
 l'Empereur et au roy des Romains mes bons
 frères, pour estre la démonstrati on qu'ilz nous
 font de leur amitié trop ouverte pour leur
-céler ung tel faict. Le sommaire doncques du-
-dict traicté est que, sans parler aucunement de
+céler ung tel faict. Le sommaire doncques dudict 
+traicté est que, sans parler aucunement de
 Calais, ung chascun des princes demeure en
-ses droictz, noms, raisons, actions et préten-
-sions, et en ses exceptions et deffences. Les
+ses droictz, noms, raisons, actions et prétensions, 
+et en ses exceptions et deffences. Les
 quatre gentilzhommes qui avoient esté envoyez
-par delà pour ostaiges de la peine de vC m.
-
+par delà pour ostaiges de la peine de <hi style="font-variant: small-caps">v</hi><hi rend="sup">C</hi> m.
 escuz à faulte de la restitution dudict Calais
-dedans le temps contenu au traicté du Cas-
-teau-Cambrésis nous sont renvoyézl, et le
+dedans le temps contenu au traicté du Casteau-Cambrésis 
+nous sont renvoyéz, et le
 Roy mondict sieur et filz faict bailler à la
 royne d'Angleterre, d'honnesteté et courtoisie,
-vi" m. escuz, assavoir LX. m. dedans six sep-
-maines, auquel temps nous sont renvoyez
-deux desdicts gentilzhommes, et autres LX. m.
-
+<hi style="font-variant: small-caps">vi</hi><hi rend="sup">xx</hi> m. escuz, assavoir <hi style="font-variant: small-caps">lx</hi>. m. dedans six sepmaines, 
+auquel temps nous sont renvoyez
+deux desdicts gentilzhommes, et autres <hi style="font-variant: small-caps">lx</hi>. m.
 escus six sepmaines après et au mesme temps
 que les deux autres gentilzhommes nous seront
 rapportez deçà la mer. Voilà en peu de pa-
@@ -3742,7 +3748,7 @@ qui doivent commencer les premiers. Priant
 Dieu, monsieur de Renes, qu'il vous ayt en
 sa saincte garde.
 
-- Escript à Troyes, ce XIIIe jour de avril 1564.
+- Escript à Troyes, ce <hi style="font-variant: small-caps">xiii</hi><hi rend="sup">e</hi> jour de avril 1564.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -3750,7 +3756,7 @@ sa saincte garde.
  
 640413.LCM02.TROY.b
 
-1564. - l3 avril.
+1564. - 13 avril.
 
 Orig. British Muséum; mss. addit. n° îaogi, f 11.
 
@@ -3774,7 +3780,7 @@ pourrez, selon la fianse que Sa Majesté a en
 vous. Pryant Dieu, Monsieur de Matignon,
 qu'il vous ayt en sa garde.
 
-Escript à Troyes, le XIIIe jour d'apvril i564.
+Escript à Troyes, le <hi style="font-variant: small-caps">xiii</hi><hi rend="sup">e</hi> jour d'apvril 1564.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -3782,7 +3788,7 @@ Escript à Troyes, le XIIIe jour d'apvril i564.
  
 640413.LCM02.TROY.c
 
-1564. - 13 avrjl.
+1564. - 13 avril.
 
 Copie. Bibl. nat. fonds français, n° 10735, f° 88.
 
@@ -3807,7 +3813,7 @@ au Roy monsieur mon filz et à moy je vous
 prie ne faillir de le m'envoyer incontinent,
 priant le Créateur, Monsieur le Président, qu'il
 vous ayt en sa saincte garde. Escript à Troyes,
-le XIIIe jour d'avril.
+le <hi style="font-variant: small-caps">xiii</hi><hi rend="sup">e</hi> jour d'avril.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -3831,9 +3837,9 @@ traicté et caressé, et à ceste cause je vous prie
 l'aller visiter et dire au prévost des marchans
 et eschevins de la ville qu'ilz luy facent présent
 et aultres honnestetez que l'on a accoustumé
-de faire à personnes que l'on veult ca-
-resser. Priant Dieu, mon cousin, qu'il vous ayt
-en sa saincte garde. Escript à Troyes, le XIIIIe
+de faire à personnes que l'on veult caresser. 
+Priant Dieu, mon cousin, qu'il vous ayt
+en sa saincte garde. Escript à Troyes, le <hi style="font-variant: small-caps">xiiii</hi><hi rend="sup">e</hi>
 jour d'avril 1564.
 
 Vostre bonne cousine,
@@ -3842,16 +3848,16 @@ Vostre bonne cousine,
  
 640414.LCM02.TROY.b
 
-1564. — i4 avril.
+1564. — 14 avril.
 
-Orig. Bibi. nal. fonds français, n° A632 , P il m.
+Orig. Bibl. nat. fonds français, n° A632 , P il m.
 
-A MONSIEUR DE TA VANNES,
+A MONSIEUR DE TAVANNES,
 LIEUTENANT GENERAL DU BOY AU GOUVERNEMENT DE BOURGOGNE.
 
 Monsieur de Tavannes, auparavant que je
-receusse la lettre que m'avez escripte par Pe-
-lissier présent porteur l, le Roy monsieur mon
+receusse la lettre que m'avez escripte par Pelissier 
+présent porteur, le Roy monsieur mon
 filz avoyt par grande et meure délibération
 commandé la suppression de l'estat du feu
 mareschal de Brissac, affin de réduire ces
@@ -3859,13 +3865,13 @@ estatz-là à leur nombre ancien et aux nécessitez
 où il est pour les choses passées, se descharger
 des dépenses extraordinaires le plus qu'il
 pourra, et ayant esté ceste suppression-là jugée
-si raisonnable et nécessaire, il n'y a eu per-
-sonne de ceulx qui ont aspiré à l'estat qui
+si raisonnable et nécessaire, il n'y a eu personne 
+de ceulx qui ont aspiré à l'estat qui
 n'ayent faict démonstration de s'y voulloir
 accommoder, comme j'estime que vous ferez
 de vostre part ; cognoissant mesmement, comme
-vous faictes, le désir que j'ay à vostre avance-
-ment que j'auray tousjours aussi recommandé
+vous faictes, le désir que j'ay à vostre avancement 
+que j'auray tousjours aussi recommandé
 que d'huître serviteur que le Roy mondict
 sieur et filz ayt en -son royaulme, ayant si
 bien mérité ung honneur que je sçay comme
@@ -3875,8 +3881,8 @@ les depputez d'Angleterre, qui a esté si gra-
 cieusement, amiablement et respectueusement
 que chascun a grande occasion d'en louer Dieu
 et d'en estre contant. Il a esté pris terme pour
-en faire la publication jusques au xxme de ce
-moys pour le long ckemyn qu'il y a d'icy à
+en faire la publication jusques au <hi style="font-variant: small-caps">xx</hi><hi rend="sup">e</hi> de ce
+moys pour le long chemyn qu'il y a d'icy à
 Londres, où, comme vous sçavez, la première
 publication s'en doybt faire pour l'Angleterre,
 et à Paris pour tout le demeurant de cest
@@ -3892,7 +3898,7 @@ mondict sieur et filz. Priant Dieu, Monsieur
 de Tavannes, qu'il vous ayt en sa saincte
 garde.
 
-Escript à Troyes ,Je xmie jour d'avril i564.
+Escript à Troyes, le <hi style="font-variant: small-caps">xiiii</hi><hi rend="sup">e</hi> jour d'avril 1564.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -11266,26 +11272,26 @@ A MON COUSIN
 MONSIEUR DE MONTMORENCY,
 MARÉCHAL DE FRANCE.
 
-Mon cousin, le Roy monsieur mon filz cog-
-noissant le conseiller Lamoignon 1 person-
-nage pour lui faire service et capable d'une
-bonne charge., il l'a pourveu de l'estat de
+Mon cousin, le Roy monsieur mon filz cognoissant 
+le conseiller Lamoignon personnage 
+pour lui faire service et capable d'une
+bonne charge, il l'a pourveu de l'estat de
 maistre des requestes ordinaire de son Hostel
 pour la résignation qu'en a faicte en sa faveur
-Mc Jacques Spifame, et escript présentement
+Me Jacques Spifame, et escript présentement
 aux gens de sa Court de Parlement le voulloir
-recevoir et admettre en icelle suivant son bre-
-vet et provision, et pour ce qu'il désire que
+recevoir et admettre en icelle suivant son brevet 
+et provision, et pour ce qu'il désire que
 cela passe sans difficulté et que je sçays que
 vous avez moyen de faire suivre en cet endroit
 son intention, je vous prie, mon cousin, tenir
 main et vous employer de vostre part que ceux
 de ladicte Court procèdent à ladicte réception
 et ne s'arrestent à chose qui y puisse amener
-aucun retardement à ce que ledict Lamoi-
-gnon puisse bien plus tost nous venir trouver
-pour l'employer en quelque affaire qui con-
-cerne le service dudict Roy monsieur mon fils,
+aucun retardement à ce que ledict Lamoignon 
+puisse bien plus tost nous venir trouver
+pour l'employer en quelque affaire qui concerne 
+le service dudict Roy monsieur mon fils,
 auquel vous ferez en cela service très agréable.
 
 Priant Dieu qu'il vous ait en sa garde. Escript
@@ -17036,7 +17042,7 @@ nostre propre personne. Suppliantle Créateur,
 très hault et très puissant prince, notre très
 cher et très amé bon fils et cousin, qu'il vous
 donne ce que désirez. Escript à la Rochelle,
-le XVIIe jour de septembre1.
+le <hi style="font-variant: small-caps">xvii</hi><hi rend="sup">e</hi> jour de septembre.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -17115,7 +17121,7 @@ de septembre 1565.
  
 650924.LCM02.OIRO
 
-1565. — 2h septembre.
+1565. — 24 septembre.
 
 Copie. Anciens registresdes échevins de la ville de Chartres,
 t. I, p. 5g3.
@@ -17144,8 +17150,9 @@ chastiés, ainsi qu'il vous commande par sa
 lettre; sur laquelle me remectant, je supplieray
 le Créateur qu'il vous ait en sa saincte
 et digne garde.
-Escrit à Oiron1, le XXIIUC jour de septembre
-15 6 5.
+
+Escrit à Oiron, le <hi style="font-variant: small-caps">xxiv</hi><hi rend="sup">e</hi> jour de septembre
+1565.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -17180,7 +17187,7 @@ payé de vostredicte pension par chascun quartier,
 ainsi que vous avez esté jusques à présent.
 Pryant Dieu, mon cousin, qu'il vous ayt en sa
 saincte garde.
-Escript à Oiron, le XXVC jour de septembre
+Escript à Oiron, le <hi style="font-variant: small-caps">xxv</hi><hi rend="sup">e</hi> jour de septembre
 1565.
 Vostre bonne cousine,
 
@@ -17188,7 +17195,7 @@ Vostre bonne cousine,
  
 650925.LCM02.OIRO.b
 
-1565. — a5 septembre.
+1565. — 25 septembre.
 
 Copie. Arch. nal. H 1784, i 33i.
 
@@ -17216,7 +17223,7 @@ vous n'y oublirez riens, comme je m'asseure,
 de ce qui s'y pourra faire de vostre cote. Priant
 Dieu, Messieurs, qu'il vous ayt en sa saincte
 garde.
-Escript à Oyron, ce xxvejour de septembre
+Escript à Oyron, ce <hi style="font-variant: small-caps">xxv</hi><hi rend="sup">e</hi> jour de septembre
 1565.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -17319,7 +17326,7 @@ chevalier de Seure, mais que nous soyons à
 Bloys, affin que, luy oy sur les moyens qu'il
 diet avoir en cela, l'on y pourvoye. Priant
 Dieu, mon cousin, qu'il vous ait en sa saincte
-garde. Escript à la Regrepière1, le xe jour de
+garde. Escript à la Regrepière1, le <hi style="font-variant: small-caps">x</hi><hi rend="sup">e</hi> jour de
 octobre 1565.
 
 (De sa main.) Mon cousin, j'é entendu par
@@ -17363,7 +17370,7 @@ autres que celles que ledict sieur Roy mon filz
 vous escript, je ne vous en feray la présente
 plus longue, en priant Dieu, Monsieur du
 Ferrier, vous avoir en sa saincte garde. Escript
-à Nantes2, le xve jour d'octobre i565.
+à Nantes, le <hi style="font-variant: small-caps">xv</hi><hi rend="sup">e</hi> jour d'octobre 1565.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -17399,21 +17406,22 @@ desdites debtes se face, d'aultant que,
 sans cela, nous veoyons bien qu'il ne sera
 possible de paciffier entièrement les choses
 par delà; parquoy donnez ordre que ledict
-expédient se résolve le plustost que faire -se
+expédient se résolve le plustost que faire se
 pourra, et que l'on en envoye les mémoires
 audict Labessée par deçà, afin de les nous
 faire entendre et en poursuivre l'expédition,
 vous voulant bien encores dire que, si vous
 avez quelque besoing de noz lettres pour la
-bonne et prompte expédition de vostre procès1,
+bonne et prompte expédition de vostre procès,
 le me le faisant entendre, il vous y sera incontinant
 satisffaict, et en cest endroict je supplieray
 le Créateur vous donner, mon cousin,
-ce que désirez. Escrit à Chasteaubryant2, le
-xvineme jour de oclobre i565.
+ce que désirez. Escrit à Chasteaubryant, le
+<hi style="font-variant: small-caps">xviii</hi><hi rend="sup">eme</hi> jour de oclobre 1565.
+
 Vostre bonne cousine,
 
-CUTERINE.
+CATERINE.
 
 <hi style="font-variant: small-caps">Robertet</hi>.
  
@@ -17497,8 +17505,9 @@ m'assure que vous avez en toute singulière
 recommandation, le repos et transquilité de
 ladicte ville. Sur ce je supplieray le Créateur
 vous donner, mon cousin, ce que désirez.
-Escript à Chasteaubriant, ce xxC jour d'octobre
+Escript à Chasteaubriant, ce <hi style="font-variant: small-caps">xx</hi><hi rend="sup">e</hi> jour d'octobre
 1565.
+
 Vostre bonne cousine,
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -17530,7 +17539,8 @@ que je n'y nuyrai pas et que j'auray tousjours
 ce qui touche le bien de vostre ville en une
 singulière recommandation. Priant Dieu, Messieurs,
 qu'il vous ayt en sa saincte garde.
-Escript à Chasteaubriant, le XXe jour d'octobre
+
+Escript à Chasteaubriant, le <hi style="font-variant: small-caps">xx</hi><hi rend="sup">e</hi> jour d'octobre
 1565.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -17539,7 +17549,7 @@ Escript à Chasteaubriant, le XXe jour d'octobre
  
 651022.LCM10.CHAT
 
-1565. 22 octobre1.
+1565. 22 octobre.
 
 Copie. Archives de Vienne (Isère). Registre de 1565, f6 135.
 
@@ -17561,7 +17571,8 @@ faire entendre ce qu'en aurés trouvé à la verité
 en cest endroict. Ne vous estant faicte la présente
 à aultre fin, je supplieray le createur
 vous donner, Monsr de Gordes, ce que desyrés.
-Escript à Chasteaubriant, le xxne jour d'octobre
+
+Escript à Chasteaubriant, le <hi style="font-variant: small-caps">xxii</hi><hi rend="sup">e</hi> jour d'octobre
 1565.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -17599,20 +17610,21 @@ amplement de ma part; que me gardera de
 vous faire plus longue lettre, que de prier le
 Créateur, mon cousin, qu'il vous ait en sa
 très saincte et digne garde.
-Escript à Chasteaubriant, le xxvime jour
+Escript à Chasteaubriant, le <hi style="font-variant: small-caps">xxvi</hi><hi rend="sup">me</hi> jour
 d'octobre 1565.
 
 (De sa main.) Mon cousin, je vous prie
 m'accorder la requeste que vous foys et que
 mestié poine de recognestre en set que me
 voudrés employer.
+
 Vostre bonne cousine,
 
 <hi style="font-variant: small-caps">Caterine</hi>.
  
 651030.LCM02.CHAT
 
-1565. — 3o octobre.
+1565. — 30 octobre.
 
 Copie. Arch. nat. H1784 , f 34a.
 
@@ -17622,7 +17634,7 @@ ET ESCHEVINS
 DE LA VILLE DE PARIS.
 
 Messieurs, incontinant que nous avons receu
-vos lettres du XXVIe de ce mois, et veu
+vos lettres du <hi style="font-variant: small-caps">xxvi</hi><hi rend="sup">e</hi> de ce mois, et veu
 l'ellection que vous avez solempnellement
 faicte de M. Claude Perrot, en restat de procureur
 du Roymonsieur mon filz en la ville
@@ -17637,8 +17649,9 @@ qu'il me sera possible à ce que vos anciens
 previllèges vous soient gardez et conservez.Et
 sur ce, je prie Dieu, Messieurs, qu'il vous ait
 en sa saincte garde.
-Escript à Chasteaubriant, le XXXIIjour d'octobre
-15 6 5.
+
+Escript à Chasteaubriant, le <hi style="font-variant: small-caps">xxx</hi><hi rend="sup">e</hi> jour d'octobre
+1565.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -17664,6 +17677,7 @@ rien davantaige, en pryant Dieu, mon cousin,
 qu'il vous ayt en sa saincte et digne
 garde. De Chasteaubryant, ce dernier jour
 d'octobre 1565.
+
 Vostre bonne cousine,
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -17687,7 +17701,7 @@ et teneur le plus tost que faire ce pourra; et,
 ce faisant, vous me ferez plaisir très agréable.
 Priant Dieu, Monsieur de Matignon, qu'il
 vous ait en sa saincte garde. Escript à Chasteaubriant,
-le ne jour de novembre 1565.
+le <hi style="font-variant: small-caps">ii</hi><hi rend="sup">e</hi> jour de novembre 1565.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -17714,8 +17728,8 @@ vous regarderez incontinant à le satisfaire
 et contanter, et me remectant du surplus
 sur ledict sieur de Ramboillet, je prieray
 Dieu, mon cousin, qu'il vous aict en sa saincte
-garde. Escript au Verger, le VIlle jour de novembre
-1565 l.
+garde. Escript au Verger, le <hi style="font-variant: small-caps">viii</hi><hi rend="sup">e</hi>e jour de novembre
+1565.
 Vostre bonne cousine,
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -17723,8 +17737,8 @@ Vostre bonne cousine,
 651115.LCM02.BOUR
 
 1565. - 15 novembre
-.
-Copie. BibI. nat. fonds français, n° 10735, P 113 v°.
+
+Copie. Bibl. nat. fonds français, n° 10735, P 113 v°.
 
 A MONSIEUR DU FERRIER.
 
@@ -17735,11 +17749,11 @@ nous avons présentement par deçà, qui me
 gardera de vous en faire la présente plus longue.
 Seullement je vous prieray de nous mander
 le plus souvent que vous pourrez de celles
-qui courent ordinairement par dellà2, et pour
+qui courent ordinairement par dellà, et pour
 n'avoir autre chose à vous escrire pour ceste
 heure, je prieray Dieu, Monsieur du Ferrier,
 qu'il vous ait en sa saincLe garde. Escript à
-Bourgueil3, le xve jour de novembre 1565.
+Bourgueil, le <hi style="font-variant: small-caps">xv</hi><hi rend="sup">e</hi> jour de novembre 1565.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -17793,7 +17807,8 @@ amityé et qui pourra aider au bien et à
 la paciffication de cest Estat-là, qui nous est
 cher et recommandé. Priant Dieu, mon cousin,
 qu'il vous ait en sa saincte garde. Escript
-à Bourgueil, le XIXe jour de novembre 1565.
+à Bourgueil, le <hi style="font-variant: small-caps">xix</hi><hi rend="sup">e</hi> jour de novembre 1565.
+
 Vostre bonne cousine,
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -17802,7 +17817,7 @@ Vostre bonne cousine,
 
 1565. — 25 novembre.
 
-Orig. Arch. des Médicisà Florence, dalla filza 4796,
+Orig. Arch. des Médicis à Florence, dalla filza 4796,
 - nuova numerazioDe, p. 306.
 
 A MON COUSIN
@@ -17825,15 +17840,17 @@ que je veulx croire que vous en aurez;
 à laquelle j'estime participper, comme celle
 qui vous désire tout contantement. Priant
 Dieu, mon cousin, vous donner ce que désirez.
-Escript au Plessis-iez-Tours l, le XIVe jour
+
+Escript au Plessis-iez-Tours, le XIV!!!e jour
 de novembre 1565.
+
 Vostre bonne cousine,
 
-CATERINK.
+CATERINE.
  
 651125.LCM02.LARI.b
 
-1565. — a 5 novembre.
+1565. — 25 novembre.
 
 Orig. Bibl. nat. fonds franrais, n°3179. f" 47 rD.
 
@@ -17850,7 +17867,8 @@ ledict sieur d'Antibes de ce qu'il vous dira de
 ma part, comme feriez moy-mesmes; qui prie
 Dieu, mon cousin, vous avoir en sa saincte et
 digne garde. Escript au Plessis-lez-Tours, le
-XXIIIIIe jour de novembre 1565.
+<hi style="font-variant: small-caps">xxiiiii</hi><hi rend="sup">e</hi> jour de novembre 1565.
+
 Vostre bonne cousine,
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -17975,7 +17993,7 @@ j'auray sur ce de vos nouvelles, plus en auravje
 de contentement. Priant Dieu, Monsieur
 de Forquevauls, vous avoir en sa saincte et
 digne garde. Escript au Plessis-lez-Tours, le
-xxvme jour de novembre i565.
+<hi style="font-variant: small-caps">xxviii</hi><hi rend="sup">e</hi> jour de novembre i565.
 
 CATERINE
 
@@ -18005,9 +18023,9 @@ soit sceu que de ceulx à qui j'en ay parlé.
  
 651130.LCM02.LARI
 
-1565. — 3o novembre.
+1565. — 30 novembre.
 
-Orig. Bibl. naL. fonds français, n° 3194. fo 78 r°.
+Orig. Bibl. nat. fonds français, n° 3194. fo 78 r°.
 
 AU MARÉCHAL DE MONTMORENCY.
 
@@ -18025,7 +18043,7 @@ mon filz y soyt myeulx obéy qu'il n'a esté
 par le passé, car vous ne lui sçauriez faire
 plus grand service. Pryant Dieu, mon cousin,
 vous avoir en sa saincte et digne garde.
-Escript au Plessis-Iès-Tours, ce xxxe jour
+Escript au Plessis-lès-Tours, ce <hi style="font-variant: small-caps">xxx</hi><hi rend="sup">e</hi> jour
 de novembre 1565.
 
 (De sa main.) Mon cousin, je vous prie,
@@ -18053,6 +18071,7 @@ ne fayst pas venyr; mais trove très mavès
 qu'il y souynt et aurès peur à la fin qu'i s'an
 print à vous, set n'y donnés haurdre et vous
 prie le fayre promtement.
+
 Vostre bonne cousine,
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -18328,8 +18347,10 @@ qu'il est homme riche et aysé, et fault qu'il
 fournisse à sa despense comme il a faict jusques
 à présent. Priant Dieu, mon cousin,
 qu'il vous ayt en sa saincte garde.
-Escript a Bloys, le VIC jour de décembre
+
+Escript a Bloys, le <hi style="font-variant: small-caps">vi</hi><hi rend="sup">e</hi> jour de décembre
 1565.
+
 Vostre bonne cousine,
 
 CATERING.
@@ -18356,7 +18377,7 @@ Monsieur du Ferrier, que je ne fauldray d'en
 avoir souvenance, et de vous en faire récompenser,
 et en cest endroict je prieray Dieu,
 Monsieur du Ferrier, qu'il vous ait en sa
-saincte garde. Escript a Bloys, le VIle jour de
+saincte garde. Escript a Bloys, le <hi style="font-variant: small-caps">vii</hi><hi rend="sup">e</hi> jour de
 décembre 1565.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -18375,7 +18396,7 @@ LE MARESCHAL DE MONTMORENCY.
 Mon cousin, vous verrez la responce que le
 Roy monsieur mon filz vous faict sur le contenu
 en la dépesche que luy a apportée de
-vostre part la Brandunèreet si sçaurez de Trignac,
+vostre part la Brandunère et si sçaurez de Trignac,
 présent porteur, ce que je luy ay donné
 charge vous dire de ma part, dont je vous prie
 le croire et que j'ay trop d'asseurance de l'affection
@@ -18385,7 +18406,7 @@ une opinion contraire à ce quej'en ay congneu
 jusques icy par voz continuelles actions et déportemens;
 pryant Dieu, mon cousin, qu'il
 vous ayt en sa saincte garde. Escript à Bloys,
-le VIne jour de décembre 1565.
+le <hi style="font-variant: small-caps">viii</hi><hi rend="sup">e</hi> jour de décembre 1565.
 
 (De sa main.) Mon cousin, tout set que je
 vous ay mende n'est que pour l'amytié que je
@@ -18396,6 +18417,7 @@ de Paris qu'i ne peult trouver bon quant y set
 qu'il y a plus de jean qui ne douit, ni n'y
 ha de besouin à la nesesite de vivre que vousmesme
 nous mendez qu'il y a.
+
 Vostre bonne cousine,
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -18404,7 +18426,7 @@ Vostre bonne cousine,
 
 1565. - 10 décemòre.
 
-Orig. Arch. des M^dicis à Florence, dalla filza 4736.
+Orig. Arch. des Médicis à Florence, dalla filza 4736.
 nuova numerasione, p. 908.
 
 A MON COUSIN
@@ -18431,7 +18453,9 @@ de Cbavigny; sur quoy je vous prieray le
 voulloir croire tout ainsi que vous feriez ma
 propre personne; et je supplieray le Créateur
 vous donner, mon cousin, ce que desirez.
-Escrit à Bloys, le xe jour de décembre 1565.
+
+Escrit à Bloys, le <hi style="font-variant: small-caps">x</hi><hi rend="sup">e</hi>e jour de décembre 1565.
+
 Vostre bonne cousine,
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -18442,7 +18466,7 @@ Vostre bonne cousine,
 
 1565. — ii décembre.
 
-Orig. Bibl. nat. fonds franyais, n° 3905, f° 74 r°.
+Orig. Bibl. nat. fonds français, n° 3905, f° 74 r°.
 
 A MON COUSIN
 MONSIEUR DE DAMVILLE.
@@ -18547,7 +18571,7 @@ foy qu'à ce que nous vous manderons, qui
 sera la pure vérité; et pour n'avoir autre chose
 à vous escripre, je prie Dieu vous donner,
 Monsieur de Forquevaulx, ce que désirez.
-Escript à Blois, le xme jour de décembre
+Escript à Blois, le <hi style="font-variant: small-caps">xiii</hi><hi rend="sup">e</hi> jour de décembre
 1565.
 
 J'escripts à ma fille afin qu'elle ne craigne
@@ -18565,7 +18589,7 @@ pour les raisons qu'entendez très bien.
  
 651215.LCM02.MUSO
 
-1565. — i5 decembre.
+1565. — 15 decembre.
 
 Orig. Bibl. nat. fonds français, n° 3208, f° 11 r°.
 
@@ -18594,14 +18618,16 @@ j'eusse aussi peu oublyé à vous en advertir que
 j'ay faict de toutes les autres particularitez
 qui sont venues à ma congnoissance, pour ce
 que je parieray tousjours avec vous franchement
-et ouvertement. V ous sçaurez dudict sieur
+et ouvertement. Vous sçaurez dudict sieur
 de Landereau des nouvelles de nostre deslogement
 et les autres choses que je lui ay
 commises; qui sera cause que m'en remectant
 à luy, je finiray la présente après avoir prié
 Dieu qu'il vous ayt en sa saincte garde.
-Escript à Meur, le XVe jour de décembre
+
+Escript à Meur, le <hi style="font-variant: small-caps">xv</hi><hi rend="sup">e</hi> jour de décembre
 1565.
+
 Vostre bonne cousine,
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -18640,14 +18666,15 @@ nous désirons; n'ayant de quoy vous faire sur
 ce pour le présent plus longue lettre, je prieray
 Dieu, Monsieur de Forquevaulx, vous
 avoir en sa saincte et digne garde.
-De Bourges 1, le dix-huitiesme jour de décembre
-i 565.
+
+De Bourges, le dix-huitiesme jour de décembre
+1565.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
  
 651227.LCM02.MOUL
 
-1565.— 27 decembre.
+1565.— 27 décembre.
 
 Orig. Bibl. nat. fonds francais, n° 3ao3, f 16 r°.
 
@@ -18664,8 +18691,9 @@ souvent de voz nouvelles et de la paciffication
 en laquelle vous maintenez et conservez toutes
 choses à Paris, pryant Dieu, mon cousin,
 qu'il vous ayt en sa saincte garde.
-Escript à Moulins2, le XXVllO jour de décembre
-15 6 5.
+
+Escript à Moulins, le <hi style="font-variant: small-caps">xxvii</hi><hi rend="sup">e</hi> jour de décembre
+1565.
 
 Je vous envoye une ordonnanceau recepveur
 générai de Paris pour bailler x solz parjour pour
@@ -18682,7 +18710,7 @@ Vostre bonne cousine,
  
 651230.LCM02.MOUL
 
-1565. — 3o décembre.
+1565. — 30 décembre.
 
 Copie. Bibl. nat. fonds français, n° 10751, fos 130 et suiv.
 
@@ -18771,6 +18799,7 @@ ils ne voudront toucher; qui est tout ce que
 vous aurez de moy pour à ceste heure, priant
 Dieu, Monsieur de Forquevauls, vous avoyr en
 sa saincte et digne garde.
+
 Escript à Moulins, le trentiesme jour de
 décembre 1565.
 
@@ -18780,7 +18809,7 @@ décembre 1565.
 
 1566. — 5 janvier.
 
-Orig. Bib], nat. fonds français, n° 3ao5 ,
+Orig. Bibl. nat. fonds français, n° 3ao5 ,
 f° 3o.
 
 A MON COUSIN
@@ -18808,7 +18837,7 @@ retourné en Envers. Si vous pouvez sçavoir
 quelle en a esté l'occasioo, vous me ferez
 plaisir de m'en advertir. Pryant Dieu, mon
 cousin, qu'il vous ayt en sa saincte garde.
-Escript à Moulins, le ve jour de janvier 1566.
+Escript à Moulins, le <hi style="font-variant: small-caps">v</hi><hi rend="sup">e</hi> jour de janvier 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
  
@@ -18816,7 +18845,7 @@ Escript à Moulins, le ve jour de janvier 1566.
 
 1566. — 6 janvier.
 
-Copie. Bibl. nat. fonds Crançais, nO10751, f" 139 et sniv.
+Copie. Bibl. nat. fonds français, nO10751, f" 139 et sniv.
 
 A MONSIEUR DE FOURQUEVAULX.
 
@@ -18836,8 +18865,8 @@ il m'a semblé vous advertir par ceste petite
 lettre, aussi qu'il est grand bruit en Flandres
 que le Roy Catholicque monsieur mon beaufils
 a résolIu d'y faire publier et observer le
-dernier concille et establir l'enquisition 1; et à
-ceste fia veut que les nouveaux ^vesques2,
+dernier concille et establir l'enquisition; et à
+ceste fia veut que les nouveaux ^vesques,
 tous empesichemens «essants, soient installez
 et pesceux en ieurs charges, dont il semble
 qu'il y ayt desjà quelque rumeur au pays
@@ -18853,8 +18882,8 @@ ce qui en est pour m'advertir au plus
 tost, et le plus avant que vous pourrez du
 dessein qui se faict la dessus. Priant Dieu,
 Monsieur de Forquevauls, vous avoir en sa
-saincte garde. Escript à MOJIlins, le sixiesme
-jour de janvier i566.
+saincte garde. Escript à Moulins, le sixiesme
+jour de janvier 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
  
@@ -18882,7 +18911,9 @@ et pour ce que j'espère vous voyr bientost,
 cella me fera finyr la présente pour
 pryer Dieu, mon cousin, vous avoyr en sa
 garde.
-Dß Moulyns, le vme janvier i566. -
+
+Dß Moulyns, le <hi style="font-variant: small-caps">viii</hi><hi rend="sup">e</hi> janvier 1566. -
+
 Vostre bonne cousine,
 
 CATJEBINE.
@@ -18891,7 +18922,7 @@ CATJEBINE.
 
 1566.— 9 janvier.
 
-Copie. Bibl. sat. fojjds fraqfais, n° 107S1, f° 1A1r*.
+Copie. Bibl. sat. fonds français, n° 107S1, f° 1A1r*.
 
 A MONSIEUR DE FOURQUEVAULX.
 
@@ -18930,6 +18961,7 @@ bien avoir recordé sa leçon avant que d'entrer
 en jeu; priant Dieu, Monsieur de Forquevauls,
 vous avoir en sa saincte et digne
 garde.
+
 Escript de Moulins, le neufviesme jour de
 janvier 1566.
 
@@ -18993,8 +19025,10 @@ l'estoit, luy faisant à ceste fin bailler la lettre
 que présentement je vous envoye pour luy.
 Pryant Dieu, mon cousin, vous donner ce
 que désirez.
-Escript, à Moullins, le xe jour de janvier
+
+Escript, à Moullins, le <hi style="font-variant: small-caps">x</hi><hi rend="sup">e</hi> jour de janvier
 1566.
+
 Vostre bonne cousine,
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -19057,7 +19091,7 @@ vous donner ce que désirez.
 
 1566. — 20 janvier.
 
-Copie. Bib]. nat. fonds français, nO10751, fOB163 \° et suiv.
+Copie. Bibl. nat. fonds français, nO10751, fOB163 \° et suiv.
 
 A MONSIEUR DE FOURQUEVAULX.
 
@@ -19082,8 +19116,8 @@ là dessus que le temps et les occasions m'en
 donnent plus de lumière. Ce que m'a dit
 l'ambassadeur a esté que son maistre désire
 sgavoir si le Roy monsieur mon fils a commandé
-à ceux qui sont allez à .la Floride
-faire1 ceste entreprise et aussi commerce et
+à ceux qui sont allez à la Floride
+faire ceste entreprise et aussi commerce et
 trafic par delà. S'il ne leur a cowmandé, demande
 s'il les advouë, d'autant que ce seroit
 contre nostre amitié commune et la bonne
@@ -19192,6 +19226,7 @@ contente que je suis du bien que Nostre-Signeur
 nous promet. En cest endroit, priant
 Dieu, Monsieur de Forquevauls, vous avoir en
 sa saincte et digne garde.
+
 De Moulins, le vintiesme jour de janvier
 1566.
 
@@ -19233,7 +19268,7 @@ moy de vous favoriser en toutes choses raisonables.
 Et sur ce, Collonelz, je voiz prier
 Dieu qu'il vous ait en sa saincte garde.
 
-Escript à Moulins, le XXIIIIe jour de janvier
+Escript à Moulins, le <hi style="font-variant: small-caps">xxiv</hi><hi rend="sup">e</hi> jour de janvier
 1566.
 <hi style="font-variant: small-caps">Caterine</hi>.
  
@@ -19323,8 +19358,9 @@ de beaucoup de mauvayses choses; qui
 est tout ce que vous aurez de moy pour l'esperaace
 que j'ay que nous vous verrons bientost.
 Pryant Dieu, mon cousin, vous donner ce
-que desirez., Escript à Mollins, le xxixe jour
+que desirez., Escript à Mollins, le <hi style="font-variant: small-caps">xxix</hi><hi rend="sup">e</hi> jour
 de janvier 1566.
+
 Vostre bonne cousine,
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -19342,7 +19378,7 @@ DE LA VILLE DB PARIS.
 
 Messieurs, si vous avez eu contentementde
 l'honneur que vous avez receu en la cérémonie
-de la conGrmation de mon filz le due d'Alençon,
+de la confirmation de mon filz le duc d'Alençon,
 aussi vous asseurai-je que ce m'a esté
 très grand plaisir d'entendre par vos lettres et
 ce que m'en a escript le seigneurde la Bordaizière
@@ -19356,7 +19392,8 @@ comme j'espère que les effectz de l'advenir le
 vous feront tousiours tant myeulx congnoistre.
 Priant Dieu, MessietUs, vous avoir en sa
 saincte garde.
-Escript à Mollins, le xxix6 jour de janvier
+
+Escript à Mollins, le <hi style="font-variant: small-caps">xxix</hi><hi rend="sup">e</hi> jour de janvier
 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -19365,7 +19402,7 @@ DE L'ADBESPINE.
  
 660130.LCM02.MOUL
 
-1566. — 3o janvier.
+1566. — 30 janvier.
 
 Archives de Copenbaguc.
 Publiée par M. Gaffarel, dans la Revue historique de mars 1879.
@@ -19373,7 +19410,7 @@ Publiée par M. Gaffarel, dans la Revue historique de mars 1879.
 AU ROY DE DANNEMARCH.
 
 Très hault, très excellent et très puissant
-prince'2, nostre très cher et très amé bon
+prince, nostre très cher et très amé bon
 frère. et cousin, le Roy nostre très cher sieur
 et fils vous faict si ample response sur le contenu
 en la depesche que vous nous avez faicte
@@ -19382,7 +19419,7 @@ et par sa dicte response vous verrez
 si dairement les occasions pour lesquelles il
 ne peut vous secourir des forces dont vous lui
 avez fait requeste qu il ne nous reste pas grand
-chose à vous dire de nostre part. II eust pris à
+chose à vous dire de nostre part. Il eust pris à
 grant plaisir de vous gratifier en eel a, s'il en
 eust eu autant demoyen qu'il vous porte de
 bonne volonté, et qu'il désire la prospéritéen
@@ -19398,7 +19435,9 @@ effect quelle est en cela nosire bonne et sincère
 actention. Et sur ce, très hault, très excellent
 et très puissant prince, nous prions Dieu qu'il
 vous ayt en sa très saincte et digne garde.
-Escriptà Moulins, le xxxe jour de janvier1566.
+
+Escriptà Moulins, le <hi style="font-variant: small-caps">xxx</hi><hi rend="sup">e</hi> jour de janvier 1566.
+
 Vostre bonne seur et cousine,
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -19445,7 +19484,7 @@ donner cet que désirés.
 
 1566. — 3 février.
 
-Orig. Bib), nat. ancien fonds français, nO3aoi, f ht.
+Orig. Bibl, nat. ancien fonds français, nO3aoi, f ht.
 
 A MON COUSIN
 LE SIEUR DE MONTMORENCY,
@@ -19465,9 +19504,12 @@ que ledict sieur d'Antibes vous en dira plus
 au long; sur lequel me remectant, je prie
 Dieu, mon cousin, vous avoir en sa saincte
 garde.
-Escript à Moulins, le me jour de febvrier
+
+Escript à Moulins, le <hi style="font-variant: small-caps">iii</hi><hi rend="sup">e</hi> jour de febvrier
 1566.
+
 Vostre bonne cousine,
+
 <hi style="font-variant: small-caps">Caterine</hi>.
  
 660203.LCM02E.MOUL
@@ -19502,8 +19544,8 @@ faulte, sur tant que désirez la bonne grace
 dudict sieur Roy mon filz et de moy sans ce
 que en ayons plus aulcune plaincte. Priant
 Dieu qu'il vous ayt, sieur Camins, en sa saincte et digne garde.
-<p>Escript à Moulins, le 3me jour de février 1566.</p>
 
+<p>Escript à Moulins, le 3me jour de février 1566.</p>
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -19539,8 +19581,10 @@ de nostre part mon cousin le due de devers
 vostre frère auquel je me remettray; et supplieray
 le Créateur vous donner, mon cousin,
 ce que désirez.
-Escript à Moulins, le VIe jour de féuier
+
+Escript à Moulins, le <hi style="font-variant: small-caps">vi</hi><hi rend="sup">e</hi> jour de féuier
 1566.
+
 Vostre bonne cousine,
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -19602,7 +19646,7 @@ j'ay donne charge au sr de Villeroy vous faire
 plus amplement entendre de ma part, remetant
 le surplus sur luy, priant Dieu, Monsieur
 de Forquevauls, vous avoir en sa sainte et
-digne garde. De Molins, le VIIe jour de febvrier
+digne garde. De Molins, le <hi style="font-variant: small-caps">vii</hi><hi rend="sup">e</hi> jour de febvrier
 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -19635,9 +19679,9 @@ Sainteté nous y voudra tousjours aider et as
 sister tant de ses prudents., sages et advisés
 conseils que de tous les moyens qu'il a pleu
 à Dieu lui mettre en ses mains. Aussi vous
-supplierons nous, Très Saint Père, quetout ce
+supplierons nous, Très Saint Père, que tout ce
 qui sera jamais en nostre puissance de faire
-pour parvenir en un si saincl ceuvre nous ne
+pour parvenir en un si sainct œuvre nous ne
 faudrons jamais à les y employer, et faire
 cognoistre a vous premièrement et à tout le
 reste de la Chrestiente que n'avons jamais
@@ -19660,7 +19704,8 @@ nous remettantnous prierons Dieu,Très Sainct
 Pere, que icelle Vostre Sainteté il veuille longuement
 maintenirpour servir au bon régime
 de nostre saincte mère Eglise.
-Escript à Moulms,lex® jour de lévrier 1566.
+
+Escript à Moulins, le <hi style="font-variant: small-caps">x</hi><hi rend="sup">e</hi> jour de février 1566.
 - Vostre bonne et dévote fille, la mère rëyne
 du Roy.
 
@@ -19670,12 +19715,12 @@ du Roy.
  
 660211.LCM02.MOUL
 
-1566. — ii février.
+1566. — 11 février.
 
 Orig. Bibl. nat. fonds Craoçais, n° ao45g, f" 175.
 
-A MONSIEURDE BOISY,
-GRANDESCUYERDE PUNCE.
+A MONSIEUR DE BOISY,
+GRAND ESCUYER DE PUNCE.
 
 Mon cousin, j'ay avecques assez d'ennny et
 de regret entendu par vostre lettre la perte
@@ -19707,21 +19752,23 @@ fin à vos affaires de deçà le plus tost que
 vous pourrez,tiffin que nous vous revoyons
 icy, où vous serez très bien venu; priant
 Dieu, mon cousin, vous avoir en sa garde.
-Escript à Mollins, le xte jour de février
-1 5661.
+
+Escript à Mollins, le <hi style="font-variant: small-caps">xi</hi><hi rend="sup">e</hi> jour de février
+1566.
+
 La bien vostre,
 
 <hi style="font-variant: small-caps">Caterine</hi>.
  
 660212.LCM02E.MOUL
 
-1566.— 12 février.
+1566. — 12 février.
 
 Orig. Bibl. nat. fonds français, n° ao48g, fol. 181.
 
 A MON COUSIN
 MONSIEUR DE BOISSY,
-GBANTESCUIERDEFRANCE.
+GRANT ESCUIER DE FRANCE.
 
 Mon cousin, j'ay besoing d'envoier à Rome
 ung des harnois à cheval du feu Roy mon
@@ -19740,26 +19787,27 @@ escript; et je vous feray rembourser des fraiz
 que vous aurez fait, aussi de la valleur dudict
 harnois, maiz qu'il n'y ait point de temps
 perdu. Priant Dieu, mon cousin, vous donner
-ce que désirez. De Mollins, le Xlle jour de
-février ±566.
+ce que désirez. De Mollins, le <hi style="font-variant: small-caps">xii</hi><hi rend="sup">e</hi>  jour de
+février 1566.
+
 La bien vostre,
 
 <hi style="font-variant: small-caps">Caterine</hi>.
  
 660214.LCM10E.MOUL
 
-1566. i4 février.
+1566. 14 février.
 
 Orig. Bibl. nat., Fonds français, n° 16016, f" i3.
 
 A MESSIEURS
-LES SENECHAL DE LYON1,
+LES SENECHAL DE LYON,
 GENS TENANS LE "SIEGE PRESIDIAL, ADVOCAT
 ET PROCUREUR DU ROY MONSIEUR
 MON FILZ AUDICT SIEGE.
 
 Messieurs, envoyant présentement le sieur
-de Bellievre à Lyon 2 pour l'exercice de l'office
+de Bellievre à Lyon pour l'exercice de l'office
 de lieutenant général en la senechaucée et
 siege prasidial de Lyon, dont il a esté pourveu,
 je luy ay bien voulu douner charge expresse
@@ -19768,7 +19816,8 @@ part, dont je vous prie le croire, tout ainsi
 que vous vouldriez faire moy-mesmes, et je
 suplieray le Createur qu'il vous ayt, Messieurs,
 en sa saincte et digne garde.
-Escrit à Moulins, le XIII le jour de fevrier
+
+Escrit à Moulins, le <hi style="font-variant: small-caps">xiiii</hi><hi rend="sup">e</hi> jour de fevrier
 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -19806,7 +19855,7 @@ quoy vous tiendrez la main comme en chose
 qui réuscissant nous sera bien fort agréable,
 suppliant le Créateur vous donner, Monsieur
 de Gordes, ce que désirez. De Molins, le
-xime jour de febvrier i566.
+<hi style="font-variant: small-caps">xiiii</hi><hi rend="sup">e</hi> jour de febvrier 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -19854,7 +19903,7 @@ vous dire là dessus de ma part, tout ainsy
 que vous vouldriez faire moy-mesmes. Et je
 supplieray le Créateur vous donner, Monsieur
 de Gordes, ce que désirez. Escript à Molinz,
-le xxe jour de fevrier I 566.
+le <hi style="font-variant: small-caps">xx</hi><hi rend="sup">e</hi> jour de fevrier 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -19890,7 +19939,7 @@ chose à vous dire pour cette heure, oultre le
 contenu en la dépesche que vous porte le
 sr de Briançon, je suplieray le Créateur vous
 donner, Monsieur de Gordes, ce que désirez.
-Escrit à, Molins, le xxe jour de fevrier 1566.
+Escrit à, Molins, le <hi style="font-variant: small-caps">xx</hi><hi rend="sup">e</hi> jour de fevrier 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -19918,8 +19967,9 @@ du Roy monsieurmon filz le requerir et que
 vous sçavez estre de nostre intention. Pryant
 Dieu, Monsieur Bellievre, vous avoir en sa
 garde.
-Escript à Mollins, le xxe jour de febvrier
-15 66.
+
+Escript à Mollins, le <hi style="font-variant: small-caps">xx</hi><hi rend="sup">e</hi>e jour de febvrier
+1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -19974,8 +20024,8 @@ ment j'en ay faict envoyer un autre au viconte
 d'Orthe pour le bailler en passant à Bayonne
 à ceux qui les conduisent; priant Dieu, Monsieur
 de Forquevauls, vous avoir en sa saincte
-et digne garde. De Molins, le XXIIIe jour de
-febvrier i566.
+et digne garde. De Molins, le <hi style="font-variant: small-caps">xxiii</hi><hi rend="sup">e</hi> jour de
+febvrier 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
  
@@ -20002,7 +20052,7 @@ sa bonne volunté et intention de toute la faveur
 que vous pourrez; qui me sera chose
 fort agreable. Pryant Dieu, Monsieurde Fourquevaulx,
 vous donner ce que desirez.
-De Molins, le XXIIIe jour de fevrier 1566.
+De Molins, le <hi style="font-variant: small-caps">xxiii</hi><hi rend="sup">e</hi>e jour de fevrier 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -20012,9 +20062,9 @@ Et plus bas : <hi style="font-variant: small-caps">De L'Aubespine.</hi>
 
 1566. 27 février.
 
-Orig. liibl. nat., Fonds français, n° 16016, 0" aô.
+Orig. Bibl. nat., Fonds français, n° 16016, 0" aô.
 
-A MONSIEUR DE BELLIEVRE.
+À MONSIEUR DE BELLIEVRE.
 
 Monsieur Bellievre, le Roy monsieur mon
 filz fait response à la premiere lettre que
@@ -20030,7 +20080,7 @@ et qu'il vous soyt sy bien souvenu de
 ce que je vous avois donné charge de dire au
 président de Birague. Pryant Dieu, Monsieur
 Bellievre, vous avoir en sa garde.
-Escript à Mollins, le xxvn6 jour de febvrier
+Escript à Mollins, le <hi style="font-variant: small-caps">xxvii</hi><hi rend="sup">e</hi> jour de febvrier
 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -20061,7 +20111,8 @@ nous tenir advertiz de ce qui se présentera
 ordinairement par dellà. Pryant Dieu, Monsieur
 de Bellievre, vous avoir en sa saincte
 garde.
-Escript à Mollins, le VIejour de mars 1566.
+
+Escript à Mollins, le <hi style="font-variant: small-caps">vi</hi><hi rend="sup">e</hi> jour de mars 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -20131,9 +20182,9 @@ la bonne disposition de la royne ma fills, de
 laquellej'attendstoutes nouvelles parVilleroy1.
 Priant Dieu, Monsieur de Forquevauls, vous
 avoir en sa saincte et digne garde. Escript à
-Molins, le sixiesme jour de. mars i566. 
+Molins, le sixiesme jour de mars 1566. 
 
-CATERINß.
+CATERINE.
  
 660313.LCM02.MOUL
 
@@ -20216,7 +20267,7 @@ pour ce faire soit expiré et passé, et vous fairez
 chose que j'auray a plaisir très agréable.Priant
 sur ce le Créateur, Monsieurde Forquevaulx,
 vous avoir en sa saincte et digne garde. Escript
-à Molins, le dix septiesme jour de mars i566.
+à Molins, le dix septiesme jour de mars 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
  
@@ -20400,7 +20451,7 @@ connois que l'on faict. Priant Dieu, Monsieur
 de Forquevauls, vous avoir en sa saincte et
 digne garde.
 
-Escript à Molins, le XVIIe jour de mars
+Escript à Molins, le <hi style="font-variant: small-caps">xvii</hi><hi rend="sup">e</hi> jour de mars
 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -20418,11 +20469,11 @@ qu'à l'extrémité.
 
 1566. — 17 mars.
 
-Copie. Archives d'ArIes.
+Copie. Archives d'Arles.
 
 A MESSIEURS
 LES CONSULZ ET HABITANS
-DE LAVILLED'ARLES.
+DE LA VILLE D'ARLES.
 
 Messieurs,vous entendrez par la ieltre que
 le Roy monsieur mon filz vous escript présentement,
@@ -20436,7 +20487,7 @@ tant de vostre obéyssance et affection à
 la continuation du repoz et tranquility en quoy
 toutes choses sont, graces à Dieu, par venues par
 delà, que vous ne commectrez en ces charges
-là sinon personnes de toute sincérité et pacitIìcation
+là sinon personnes de toute sincérité et paciffication
 pour les y sçavoir maintenir et faire
 continuer, comme nous désirons infiniement,
 selon que vous mande ledict sr Roy mon filz
@@ -20445,8 +20496,8 @@ nostre part mon cousin ie conte de Tende,
 selon ce que lui en escrivons présentement. Et
 à quoy me remectant, je prierai Dieu, Messieurs,
 qu'il vous ayt en sa saincte et digne
-garde. Escript à Molins, le xvnc jour de mars
-i 5 6 6.
+garde. Escript à Molins, le <hi style="font-variant: small-caps">xvii</hi><hi rend="sup">e</hi> jour de mars
+1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -20456,7 +20507,7 @@ i 5 6 6.
 
 1566. 18 mars.
 
-Orig. BibI. nat., Fonds français, n° 16016, fa 4i.
+Orig. Bibl. nat., Fonds français, n° 16016, fa 4i.
 
 A MONSIEUR DE BELLIEVRE.
 
@@ -20476,7 +20527,7 @@ que dict est le plus tost que faire ce pourra,
 pour m'advertir au plus tost de la resolution
 qui y aura esté prise. Priant Dieu, Monsieur
 de Bellievre, vous avoir en sa garde.
-Escript à Moulins, le XVIIIe jour de mars
+Escript à Moulins, le <hi style="font-variant: small-caps">xviii</hi><hi rend="sup">e</hi> jour de mars
 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -20487,7 +20538,7 @@ Et plus bas : DE L'AUBESPINE.
 
 1566. - 21 mars.
 
-Orig. BiM. nat., Fonds français, n° 16016, fo 4g.
+Orig. Bibl. nat., Fonds français, n° 16016, fo 4g.
 
 A MONSIEUR DE BELLIEVRE.
 
@@ -20507,7 +20558,7 @@ vous le sçaurez bien accomodder et tellement
 l'advertyr, que le mesnaige y soyt fait, comme
 nous le desirons. Pryant Dieu, Monsieur de
 Bellievre, vous avoir en sa garde.
-Escript à Moulins, le XXle jour de mars
+Escript à Moulins, le <hi style="font-variant: small-caps">xxi</hi><hi rend="sup">e</hi> jour de mars
 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -20516,9 +20567,9 @@ Et plus bas : DE L'AUBESPINE.
  
 660321.LCM10.MOUL.b
 
-1566. ai mars.
+1566. 21 mars.
 
-Orig. Bibl. nat., Fonds français, n° 16016, Í" 48.
+Orig. Bibl. nat., Fonds français, n° 16016, f° 48.
 
 A MONSIEUR DE BELLIEVRE.
 
@@ -20537,9 +20588,9 @@ presence, affin que toutes choses y. passent
 tant plus fidellement et avecques le soing et
 le mesnage que requiert le service du Roy
 mondict filz, affin d'y faire pour le myeulx.
-Priant Dieu, MonsieurdeBellievre, vous avoir
+Priant Dieu, Monsieur de Bellievre, vous avoir
 en sa garde.
-Escript à Mollins, le XXle jour de mars
+Escript à Mollins, le <hi style="font-variant: small-caps">xxi</hi><hi rend="sup">e</hi> jour de mars
 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -20548,9 +20599,9 @@ Et plus bas : DE L'AUBESPINE.
  
 660327.LCM10.MARI
 
-1566. 37 mars.
+1566. 27 mars.
 
-Orig. Bibl. nat., Fonds français, n° 16016, Í" 55.
+Orig. Bibl. nat., Fonds français, n° 16016, f° 55.
 
 A MONSIEUR DE BELLIEVRE.
 
@@ -20571,10 +20622,11 @@ aller au service d'autre prince, de peur que
 la conséquence ne leur en soyt à l'advenir
 trop dommageable, et continuer à souvent me
 faire sçavoir de voz nouvelles. Pryant Dieu,
-Monsieurde Bellyevre,vous avoir en sa saincte
+Monsieur de Bellyevre,vous avoir en sa saincte
 garde.
-Escript à Maringues1, le xxvnejour de mars
-I566.
+
+Escript à Maringues, le <hi style="font-variant: small-caps">xxvii</hi><hi rend="sup">e</hi> jour de mars
+1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -20622,9 +20674,9 @@ priant Dieu vous donner longue vie en santé.
  
 660402.LCM10.CLFE
 
-1566. a avril.
+1566. 2 avril.
 
-Orig. Bibl. nat., Fonds français, n° 16016, f" 61.
+Orig. Bibl. nat., Fonds français, n° 16016, f° 61.
 
 A MONSIEUR DE BELLIEVRE.
 
@@ -20648,7 +20700,8 @@ au sieur Des Landes, qui est près de l'empereur,
 auquel je vous prie le faire tenir le plus
 tost que vous pourrez. Priant Dieu, Monsieur
 de Bellievre, vous avoir en sa garde.
-Escript à Clermont, le 11e jour d'apvril
+
+Escript à Clermont, le <hi style="font-variant: small-caps">ii</hi><hi rend="sup">e</hi> jour d'apvril
 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -20701,7 +20754,7 @@ Escript a Clermont, le <hi style="font-variant: small-caps">ii</hi><hi rend="sup
 
 Copie. Archives de Saint-Jean-de-Luz.
 
-A Mß LE CHANCELLIER DE L'HOSPITAL.
+A M. LE CHANCELLIER DE L'HOSPITAL.
 
 Monsieur le Chancellier, j'ay faict expédier
 à ceulx de St Jehan de Luz la confirmation de
@@ -20714,9 +20767,10 @@ sera possible; car ilz sont depuis environ
 Moulins à la poursuite,et vous sçavez qu'estans
 de si loing ilz n'ont pas besoing de long séjour;
 en quoi m'asseurant que me satisferez,
-je prie Dieu, Monsieurle Chancellier, qu'il vous
+je prie Dieu, Monsieur le Chancellier, qu'il vous
 aict en sa saincte et digne garde. Escript a
-Clermont1, le ne jour d'avril i 566.
+Clermont, le <hi style="font-variant: small-caps">ii</hi><hi rend="sup">e</hi> jour d'avril 1566.
+
 La bien vostre,
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -20781,10 +20835,10 @@ sinon pour vous prier me tenir plus souvent
 advertie de ce qui surviendra par dela et
 mesmes si, depuis le partement du sieur de
 Villeroy que j'attends d'heure à autre, il sera
-rien venu du costé de l'Empereur.Priant Dieu,
+rien venu du costé de l'Empereur. Priant Dieu,
 Monsieur de Forquevauls, vous avoir en sa
-saincte et digne garde. Escript à Cosne1, le
-vme jour d'apvril 1566.
+saincte et digne garde. Escript à Cosne, le
+<hi style="font-variant: small-caps">viii</hi><hi rend="sup">e</hi> jour d'apvril 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
  
@@ -20815,7 +20869,8 @@ ce prochain moys de may. Nous achemynons
 présentement vers Paris, où toutes comoditez
 seront plus à propoz. Pryant Dieu, Monsieur
 de Bellievre, vous avoir en sa garde.
-Escript à La Guierchel, le xl, jour d'apvril
+
+Escript à La Guierche, le <hi style="font-variant: small-caps">xi</hi><hi rend="sup">e</hi> jour d'apvril
 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -20847,7 +20902,7 @@ que l'on pourroit faire pour vous cuyder fascher,
 contynuant tousjours à bien servir,
 comme vous faictes. Et sur ce je supplieray le
 Créateur vous donner, Monsieur de Gordes, ce
-que désirez. Escript à La Charité, ce XIIe jour
+que désirez. Escript à La Charité, ce <hi style="font-variant: small-caps">xii</hi><hi rend="sup">e</hi> jour
 de avril 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
@@ -20876,7 +20931,7 @@ escripvez du dommage que pourroit apporter
 au publicq la si prompte publication du descry
 des monnoyes estrangères, pour lequel
 avoient esté envoyées lettres patentes du Roy
-monsieur mon fiIz, je le lui ay faict entendre
+monsieur mon filz, je le lui ay faict entendre
 et à son conseil, qui a trouvé bon en surceoir
 la publication jusques à ce que par luy autrement
 en soit ordonné, et présentementen sont
@@ -20889,14 +20944,15 @@ commeont faict de leur part ceulx de la Court
 de Parlement, les advis desquelz et vostre seront
 tousjours agréables et retenuz du filz et
 de la mère, qui espèrentvous revoir bien tost.
-II vous escript présentementpourvous trouver
+Il vous escript présentementpourvous trouver
 à la procession qu'il mande estre faicte par
 de là pour rendre graces à Dieu de la grossesse
 de la Royne Catholicquemadame ma fille,
 qui sera nouvelle, je m'asseure, que ne vous
-sera désagréable.PriantDieu, Messieurs, vous
+sera désagréable. Priant Dieu, Messieurs, vous
 avoir en sa garde.
-Escript à la Charité,le xn8 j our d'avril 15 6 6.
+
+Escript à la Charité,le <hi style="font-variant: small-caps">xii</hi><hi rend="sup">e</hi> jour d'avril 1566.
 
 CATERINB.
 
@@ -20911,8 +20967,8 @@ Orig. Bibl. nat., Fonds français, n° 16016, f 64.
 A MONSIEUR DE BELLIEVRE.
 
 Monsieur de Bellievre, j'ay receu vostre
-lettre du 1111e de ce moys avecques le pacquet
-d'Auguste2 que m'avez envoyé; à quoy l'evesque
+lettre du <hi style="font-variant: small-caps">iiii</hi><hi rend="sup">e</hi>e de ce moys avecques le pacquet
+d'Auguste que m'avez envoyé; à quoy l'evesque
 de Rennes, porteur de la présente, fera
 responce. Ayant au demourant bien cogneu
 par vostredicte lettre que vous n'avez pas encores
@@ -20922,8 +20978,9 @@ suis actendant des nouvelles. Et cependant,
 ne vous feray plus longue lettre, remectant le
 surplus surcedict porteur. Pryant Dieu, Monsieur
 Bellievre, vous avoir en sa garde.
-Escript à La Charité1, le XIIIe jour d'apvril
-i566. 
+
+Escript à La Charité, le <hi style="font-variant: small-caps">xiii</hi><hi rend="sup">e</hi> jour d'apvril
+1566. 
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
@@ -20955,7 +21012,8 @@ qui vient, au moings jusques à deux cens
 mille livres, qui sera ung service faict fort à
 propoz. Priant Dieu, Monsieur de Bellievre,
 vous avoir en sa saincte garde.
-Le XIXe jour d'avril 1566.
+
+Le <hi style="font-variant: small-caps">xix</hi><hi rend="sup">e</hi> jour d'avril 1566.
 
 <hi style="font-variant: small-caps">Caterine</hi>.
 
